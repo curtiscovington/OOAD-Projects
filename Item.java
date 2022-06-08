@@ -1,4 +1,4 @@
-abstract class Item {
+public abstract class Item {
     private String name;
     private double purchasePrice;
     private double listPrice;
