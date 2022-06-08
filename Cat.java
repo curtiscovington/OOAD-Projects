@@ -3,8 +3,8 @@ public class Cat extends Pet {
     private boolean housebroken;
     private boolean purebred;
     
-    public Cat(String name, double purchasePrice, double listPrice, double salePrice, int dayArrived, int daySold, String breed, int age, boolean healthy, String color, boolean housebroken, boolean purebred) {
-        super(name, purchasePrice, listPrice, salePrice, dayArrived, daySold, breed, age, healthy);
+    public Cat(String name, double purchasePrice, double salePrice, int dayArrived, int daySold, String breed, int age, boolean healthy, String color, boolean housebroken, boolean purebred) {
+        super(name, purchasePrice, salePrice, dayArrived, daySold, breed, age, healthy);
         this.color = color;
         this.housebroken = housebroken;
         this.purebred = purebred;
