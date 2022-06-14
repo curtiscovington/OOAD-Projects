@@ -38,7 +38,14 @@ public class Simulation {
         Trainer t = getTrainerToWork();
         store.arriveAtStore(c);
         store.arriveAtStore(t);
-        store.runDay();
+
+        // Random number of customers between 3 and 10
+        int numCustomers = (int) (Math.random() * (10 - 3)) + 3;
+        ArrayList<Customer> customers = new ArrayList<Customer>();
+        for (int i = 0; i < numCustomers; i++) {
+            customers.add(new Customer());
+        }
+        store.runDay(customers);
     }
 
     public Clerk getClerkToWork() {
