@@ -38,6 +38,7 @@ public class Simulation {
         Trainer t = getTrainerToWork();
         store.arriveAtStore(c);
         store.arriveAtStore(t);
+        store.runDay();
     }
 
     public Clerk getClerkToWork() {

@@ -4,7 +4,11 @@ import java.util.ArrayList;
 public class Store {
     CashRegister cashRegister = new CashRegister();
     ArrayList<Item> items = new ArrayList<Item>();
-    ArrayList<Employee> employeesWorking = new ArrayList<Employee>();
+    ArrayList<Pet> sickPets = new ArrayList<Pet>();
+
+    Trainer trainer;
+    Clerk clerk;
+
     int age = 0;
     // Constructor
     public Store() {
@@ -50,17 +54,24 @@ public class Store {
     public void arriveAtStore(Person p) {
         // if the person is an employee
         if (p instanceof Employee) {
-            employeesWorking.add((Employee) p);
             ((Employee) p).arriveAtStore();
             String name = ((Employee) p).getName();
             String employeeType;
             if (p instanceof Clerk) {
                 employeeType = "Clerk";
+                clerk = (Clerk) p;
             } else {
                 employeeType = "Trainer";
+                trainer = (Trainer) p;
             }
             System.out.println("Employee " + name + " the " + employeeType + " has arrived at the store.");
+        } else {
+            System.out.println("A customer has arrived at the store.");
         }
+    }
+
+    public void runDay() {
+        feedAnimals();
     }
 
     // public Person leaveStore() {
@@ -68,5 +79,44 @@ public class Store {
     // }
     public void increaseAge() {
         age++;
+    }
+
+    public void feedAnimals() {
+        ArrayList<Pet> pets = new ArrayList<Pet>();
+        System.out.println(trainer.getName() + " is feeding the animals.");
+        // feed the sick pets
+        for (Pet p : sickPets) {
+            // 25% chance to change heathy to true
+            if (Math.random() < 0.25) {
+                System.out.println("The sick pet " + p.getName() + " has fully recovered.");
+                p.setHealthy(true);
+                // remove the pet from the sick list
+                pets.add(p);
+            }
+        }
+
+        // remove the sick pets from the sick list
+        for (Pet p : pets) {
+            sickPets.remove(p);
+        }
+        pets.clear();
+
+        for (Item item : items) {
+            if (item instanceof Pet) {
+                // 5 % chance to change the health of the pet to false
+                if (Math.random() < 0.05) {
+                    ((Pet) item).setHealthy(false);
+                    System.out.println("The pet " + ((Pet) item).getName() + " has become sick.");
+                    // add the pet to the sick list
+                    sickPets.add((Pet) item);
+                    // remove the pet from the items list
+                    pets.add((Pet) item);
+                }
+            }
+        }
+
+        for (Pet p : pets) {
+            items.remove(p);
+        }
     }
 }
