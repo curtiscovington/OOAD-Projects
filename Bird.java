@@ -4,8 +4,8 @@ public class Bird extends Pet {
     private boolean exotic;
     private boolean papers;
 
-    public Bird(String name, double purchasePrice, double salePrice, int dayArrived, int daySold, String breed, int age, boolean healthy, int size, boolean mimicry, boolean exotic, boolean papers) {
-        super(name, purchasePrice, salePrice, dayArrived, daySold, breed, age, healthy);
+    public Bird(String name, double purchasePrice, int dayArrived, String breed, int age, boolean healthy, int size, boolean mimicry, boolean exotic, boolean papers) {
+        super(name, purchasePrice, dayArrived, breed, age, healthy);
         this.size = size;
         this.mimicry = mimicry;
         this.exotic = exotic;

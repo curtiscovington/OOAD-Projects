@@ -3,8 +3,8 @@ public class Food extends Supply {
     private String animal;
     private String type;
 
-    public Food(String name, double purchasePrice, double salePrice, int dayArrived, int daySold, int size, String animal, String type) {
-        super(name, purchasePrice, salePrice, dayArrived, daySold);
+    public Food(String name, double purchasePrice, int dayArrived, int size, String animal, String type) {
+        super(name, purchasePrice, dayArrived);
         this.size = size;
         this.animal = animal;
         this.type = type;

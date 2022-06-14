@@ -1,14 +1,14 @@
-public class Employee {
+public class Employee extends Person {
     private String name;
-    private int lastDayOff;
+    private int daysWorkedInARow;
 
     public Employee(String name) {
         this.name = name;
-        this.lastDayOff = 0;
+        
     }
 
     public void arriveAtStore() {
-        System.out.println(name + " has arrived at the store.");
+        daysWorkedInARow++;
     }
 
     // getters and setters
@@ -21,9 +21,13 @@ public class Employee {
     }
 
     // used to check if the employee has worked too many days
-    public boolean isInNeedOfDayOff(int currentDay) {
+    public boolean isInNeedOfDayOff() {
         // if the employee has worked for 3 days without a day off, return true
-        return (currentDay - lastDayOff >= 3);
+        return daysWorkedInARow >= 3;
+    }
+
+    public void takeDayOff() { 
+        daysWorkedInARow = 0;
     }
     
 }

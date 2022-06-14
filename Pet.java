@@ -4,8 +4,8 @@ public abstract class Pet extends Item {
     private int age;
     private boolean healthy;
 
-    public Pet(String name, double purchasePrice, double salePrice, int dayArrived, int daySold, String breed, int age, boolean healthy) {
-        super(name, purchasePrice, salePrice, dayArrived, daySold);
+    public Pet(String name, double purchasePrice, int dayArrived, String breed, int age, boolean healthy) {
+        super(name, purchasePrice, dayArrived);
         this.breed = breed;
         this.age = age;
         this.healthy = healthy;

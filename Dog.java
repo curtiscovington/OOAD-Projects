@@ -4,8 +4,8 @@ public class Dog extends Pet {
     private boolean housebroken;
     private boolean purebred;
 
-    public Dog(String name, double purchasePrice, double salePrice, int dayArrived, int daySold, String breed, int age, boolean healthy, int size, String color, boolean housebroken, boolean purebred) {
-        super(name, purchasePrice, salePrice, dayArrived, daySold, breed, age, healthy);
+    public Dog(String name, double purchasePrice, int dayArrived, String breed, int age, boolean healthy, int size, String color, boolean housebroken, boolean purebred) {
+        super(name, purchasePrice, dayArrived, breed, age, healthy);
         this.size = size;
         this.color = color;
         this.housebroken = housebroken;

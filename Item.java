@@ -6,13 +6,11 @@ public abstract class Item {
     private int dayArrived;
     private int daySold;
 
-    public Item(String name, double purchasePrice, double salePrice, int dayArrived, int daySold) {
+    public Item(String name, double purchasePrice, int dayArrived) {
         this.name = name;
         this.purchasePrice = purchasePrice;
         this.listPrice = purchasePrice * 2;
-        this.salePrice = salePrice;
         this.dayArrived = dayArrived;
-        this.daySold = daySold;
     }
 
     public String getName() {
