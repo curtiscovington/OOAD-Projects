@@ -14,6 +14,23 @@ public class Store {
 
     int age = 0;
 
+    public CashRegister getCashRegister() {
+        return cashRegister;
+    }
+
+    public ArrayList<Item> getItems() {
+        return items;
+    }
+
+    public ArrayList<Item> getItemsSold() {
+        return itemsSold;
+    }
+
+    public ArrayList<Pet> getSickPets() {
+        return sickPets;
+    }
+
+
     // Constructor
     public Store() {
         // three instances of each lowest subclass
@@ -74,10 +91,36 @@ public class Store {
         }
     }
 
+    public void leaveStore(Person p) {
+        // if the person is an employee
+        if (p instanceof Employee) {
+            String name = ((Employee) p).getName();
+            String employeeType;
+            if (p instanceof Clerk) {
+                employeeType = "Clerk";
+                clerk = null;
+            } else {
+                employeeType = "Trainer";
+                trainer = null;
+            }
+            System.out.println("Employee " + name + " the " + employeeType + " has left the store for the day.");
+        } else {
+            System.out.println("A customer has left the store.");
+        }
+    }
+
     public void runDay(ArrayList<Customer> customers) {
         clerkTasks();
         trainerTasks();
         openStore(customers);
+        cleanStore();
+        closeStore();
+    }
+
+    public void closeStore() {
+        System.out.println("Clerk " + clerk.getName() + " has locked the store.");
+        leaveStore(clerk);
+        leaveStore(trainer);
     }
 
     public void clerkTasks() {
@@ -202,7 +245,42 @@ public class Store {
                     break;
                 }
             }
+            leaveStore(p);
+        }
+    }
 
+    public void cleanStore() {
+        // trainer will clean the cages
+        for (Item item : items) {
+            if (item instanceof Pet) {
+                System.out.println("Trainer " + trainer.getName() + " is cleaning the cage for " + item.getName());
+                // 5% chance of the pet will escape
+                if (Math.random() < 0.05) {
+                    System.out.println("While cleaning, " + item.getName() + " has escaped!");
+                    catchAnimal();
+                }
+            }
+        }
+
+        for (Pet pet : sickPets) {
+            System.out.println("Trainer " + trainer.getName() + " is cleaning the cage for " + pet.getName());
+            // 5% chance of the pet will escape
+            if (Math.random() < 0.05) {
+                System.out.println("While cleaning, " + pet.getName() + " has escaped!");
+                catchAnimal();
+            }
+        }
+
+        // the clerk will vacuum the store
+        System.out.println("Clerk " + clerk.getName() + " is vacuuming the store.");
+    }
+
+    public void catchAnimal() {
+        // 50% chance the trainer will catch the animal
+        if (Math.random() < 0.5) {
+            System.out.println("Trainer " + trainer.getName() + " has caught the animal!");
+        } else {
+            System.out.println("Clerk " + clerk.getName() + " has caught the animal!");
         }
     }
 
