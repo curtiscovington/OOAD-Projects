@@ -8,4 +8,8 @@ public class Bank {
         this.amountWithdrawn += requestedAmount;
         return requestedAmount;
     }
+
+    public double getAmountWithdrawn() {
+        return this.amountWithdrawn;
+    }
 }
