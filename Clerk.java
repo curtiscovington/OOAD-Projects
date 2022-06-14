@@ -6,12 +6,13 @@ public class Clerk extends Employee {
         this.bank = bank;
     }
 
-    public void checkRegister(CashRegister register) {
+    public double checkRegister(CashRegister register) {
+        return register.getTotal();
         
     }
 
-    public void goToBank() {
-        
+    public double goToBank(double requestedAmount) {
+        return bank.withdraw(requestedAmount);
     }
 
     public void doInventory() {
@@ -19,7 +20,7 @@ public class Clerk extends Employee {
     }
 
     public void placeOrder() {
-        
+
     }
 
 }

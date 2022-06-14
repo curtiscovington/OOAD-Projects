@@ -71,6 +71,26 @@ public class Store {
     }
 
     public void runDay() {
+        clerkTasks();
+        trainerTasks();
+    }
+
+    public void clerkTasks() {
+        // check the register
+        double amount = clerk.checkRegister(cashRegister);
+        System.out.println("Clerk " + clerk.getName() + " has checked the register and found that the total is $" + amount);
+
+        if (amount < 200) {
+            // the clerk needs to go to the bank
+            amount = clerk.goToBank(1000);
+            System.out.println("Clerk " + clerk.getName() + " has gone to the bank and withdrew $" + amount);
+            cashRegister.deposit(amount);
+        }
+
+        
+    }
+
+    public void trainerTasks() {
         feedAnimals();
     }
 
