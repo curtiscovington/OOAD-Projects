@@ -50,34 +50,15 @@ public class Store {
     // Constructor
     public Store() {
         // three instances of each lowest subclass
-        addItem(new Food("Food", 2.00, 0, 1, "dog", "Type"));
-        addItem(new Food("Food", 4.00, 0, 2, "dog", "Type"));
-        addItem(new Food("Food", 6.00, 0, 3, "cat", "Type"));
-
-        addItem(new Toy("Toy", 3.00, 0, "dog"));
-        addItem(new Toy("Toy", 3.00, 0, "dog"));
-        addItem(new Toy("Toy", 5.00, 0, "dog"));
-
-        addItem(new CatLitter("CatLitter", 10.00, 0, 1));
-        addItem(new CatLitter("CatLitter", 10.00, 0, 1));
-        addItem(new CatLitter("CatLitter", 10.00, 0, 1));
-
-        addItem(new Leash("Leash", 5.00, 0, "dog"));
-        addItem(new Leash("Leash", 5.00, 0, "dog"));
-        addItem(new Leash("Leash", 5.00, 0, "dog"));
-
-        addItem(new Cat("Bob", 50.00, 0, "cat", 1, true, "black", true, true));
-        addItem(new Cat("Meowzer", 50.00, 0, "cat", 4, true, "white", true, true));
-        addItem(new Cat("Meowzer Jr", 50.00, 0, "cat", 1, true, "white", true, true));
-
-        addItem(new Dog("Fido", 50.00, 0, "husky", 1, true, 0, "black", true, true));
-        addItem(new Dog("Sir Barkington", 50.00, 0, "german shepard", 4, true, 0, "black", true, true));
-        addItem(new Dog("Spot", 50.00, 0, "black lab", 1, true, 0, "black", true, true));
-
-        addItem(new Bird("Zera", 50.00, 0, "scarlet macaw", 1, true, 3, true, true, true));
-        addItem(new Bird("Birdy", 25.00, 0, "crow", 1, true, 1, true, false, false));
-        addItem(new Bird("Sam", 50.00, 0, "blue gold macaw", 1, true, 1, true, true, true));
-
+        for (int i = 0; i < 3; i++) {
+            addItem(Food.newRandomItem(0));
+            addItem(Toy.newRandomItem(0));
+            addItem(CatLitter.newRandomItem(0));
+            addItem(Leash.newRandomItem(0));
+            addItem(Cat.newRandomItem(0));
+            addItem(Dog.newRandomItem(0));
+            addItem(Bird.newRandomItem(0));
+        }
     }
 
     public void addItem(Item item) {
@@ -171,48 +152,39 @@ public class Store {
                 + " has found that there are no more " + key + " in store and has ordered 3 more for $" + purchasePrice*3);
                 switch (key) {
                     case "dogs":
-                        orders.add(clerk
-                                .placeOrder(new Dog("Dog", purchasePrice, 0, "dog", 1, true, 0, "black", true, true)));
-                        orders.add(clerk
-                                .placeOrder(new Dog("Dog", purchasePrice, 0, "dog", 1, true, 0, "black", true, true)));
-                        orders.add(clerk
-                                .placeOrder(new Dog("Dog", purchasePrice, 0, "dog", 1, true, 0, "black", true, true)));
+                        orders.add(clerk.placeOrder(Dog.newRandomItem(-1)));
+                        orders.add(clerk.placeOrder(Dog.newRandomItem(-1)));
+                        orders.add(clerk.placeOrder(Dog.newRandomItem(-1)));
                         break;
                     case "cats":
-                        orders.add(clerk
-                                .placeOrder(new Cat("Cat", purchasePrice, 0, "cat", 1, true, "black", true, true)));
-                        orders.add(clerk
-                                .placeOrder(new Cat("Cat", purchasePrice, 0, "cat", 1, true, "black", true, true)));
-                        orders.add(clerk
-                                .placeOrder(new Cat("Cat", purchasePrice, 0, "cat", 1, true, "black", true, true)));
+                    orders.add(clerk.placeOrder(Cat.newRandomItem(-1)));
+                    orders.add(clerk.placeOrder(Cat.newRandomItem(-1)));
+                    orders.add(clerk.placeOrder(Cat.newRandomItem(-1)));
                         break;
                     case "birds":
-                        orders.add(clerk
-                                .placeOrder(new Bird("Bird", purchasePrice, 0, "bird", 1, true, 1, true, true, true)));
-                        orders.add(clerk
-                                .placeOrder(new Bird("Bird", purchasePrice, 0, "bird", 1, true, 1, true, true, true)));
-                        orders.add(clerk
-                                .placeOrder(new Bird("Bird", purchasePrice, 0, "bird", 1, true, 1, true, true, true)));
+                    orders.add(clerk.placeOrder(Bird.newRandomItem(-1)));
+                    orders.add(clerk.placeOrder(Bird.newRandomItem(-1)));
+                    orders.add(clerk.placeOrder(Bird.newRandomItem(-1)));
                         break;
                     case "food":
-                        orders.add(clerk.placeOrder(new Food("Food", purchasePrice, 0, 1, "dog", "Type")));
-                        orders.add(clerk.placeOrder(new Food("Food", purchasePrice, 0, 1, "dog", "Type")));
-                        orders.add(clerk.placeOrder(new Food("Food", purchasePrice, 0, 1, "dog", "Type")));
+                    orders.add(clerk.placeOrder(Food.newRandomItem(-1)));
+                    orders.add(clerk.placeOrder(Food.newRandomItem(-1)));
+                    orders.add(clerk.placeOrder(Food.newRandomItem(-1)));
                         break;
                     case "toys":
-                        orders.add(clerk.placeOrder(new Toy("Toy", purchasePrice, 0, "dog")));
-                        orders.add(clerk.placeOrder(new Toy("Toy", purchasePrice, 0, "dog")));
-                        orders.add(clerk.placeOrder(new Toy("Toy", purchasePrice, 0, "dog")));
+                    orders.add(clerk.placeOrder(Toy.newRandomItem(-1)));
+                    orders.add(clerk.placeOrder(Toy.newRandomItem(-1)));
+                    orders.add(clerk.placeOrder(Toy.newRandomItem(-1)));
                         break;
                     case "leashes":
-                        orders.add(clerk.placeOrder(new Leash("Leash", purchasePrice, 0, "dog")));
-                        orders.add(clerk.placeOrder(new Leash("Leash", purchasePrice, 0, "dog")));
-                        orders.add(clerk.placeOrder(new Leash("Leash", purchasePrice, 0, "dog")));
+                    orders.add(clerk.placeOrder(Leash.newRandomItem(-1)));
+                    orders.add(clerk.placeOrder(Leash.newRandomItem(-1)));
+                    orders.add(clerk.placeOrder(Leash.newRandomItem(-1)));
                         break;
                     case "cat litter":
-                        orders.add(clerk.placeOrder(new CatLitter("Cat Litter", purchasePrice, 0, 2)));
-                        orders.add(clerk.placeOrder(new CatLitter("Cat Litter", purchasePrice, 0, 2)));
-                        orders.add(clerk.placeOrder(new CatLitter("Cat Litter", purchasePrice, 0, 2)));
+                    orders.add(clerk.placeOrder(CatLitter.newRandomItem(-1)));
+                    orders.add(clerk.placeOrder(CatLitter.newRandomItem(-1)));
+                    orders.add(clerk.placeOrder(CatLitter.newRandomItem(-1)));
                         break;
                 }
             }
