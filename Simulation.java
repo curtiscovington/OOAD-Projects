@@ -30,14 +30,54 @@ public class Simulation {
         for (int i = 0; i < daysToSimulate; i++) {
             runDay(i);
         }
+        printResults();
+    }
+
+    public void printResults() {
+
+        System.out.println("********************************************************");
+        System.out.println("*                                                      *");
+        System.out.println("*                                                      *");
+        System.out.println("********************************************************");
+        System.out.println("Amount Withdrawn from the bank: $" + bank.getAmountWithdrawn());
+        System.out.println("Amount in cash register: $" + store.getCashRegister().getTotal());
+        System.out.println("Amount in inventory: $" + store.getInventoryTotal());
+        ArrayList<Item> items = store.getItems();
+        if (items.size() > 0) {
+            System.out.println("Items in inventory:");
+            for (Item item : items) {
+                System.out.println("\t" + item.getName());
+            }
+        } else {
+            System.out.println("No items left in inventory.");
+        }
+       
+        System.out.println("Amount in sales: $" + store.getItemsSoldTotal());
+        items = store.getItemsSold();
+        if (items.size() > 0) {
+            System.out.println("Items sold:");
+            for (Item item : items) {
+                System.out.println("\t" + item.getName() + " : Sale Price ($" + item.getSalePrice() + ") : Sold on (" + item.getDaySold() + ")");
+            }
+        } else {
+            System.out.println("No items sold.");
+        }
+
+        ArrayList<Pet> pets = store.getSickPets();
+        if (pets.size() > 0) {
+            System.out.println("Sick in the store: ");
+            for (Pet pet : pets) {
+                System.out.println("\t" + pet.getName());
+            }
+        } else {
+            System.out.println("No sick pets in the store.");
+        }
     }
 
     public void runDay(int currentDay) {
         store.increaseAge();
         Clerk c = getClerkToWork();
         Trainer t = getTrainerToWork();
-        store.arriveAtStore(c);
-        store.arriveAtStore(t);
 
         // Random number of customers between 3 and 10
         int numCustomers = (int) (Math.random() * (10 - 3)) + 3;
@@ -45,7 +85,7 @@ public class Simulation {
         for (int i = 0; i < numCustomers; i++) {
             customers.add(new Customer());
         }
-        store.runDay(customers);
+        store.runDay(c, t, customers);
     }
 
     public Clerk getClerkToWork() {

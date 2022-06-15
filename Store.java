@@ -26,6 +26,22 @@ public class Store {
         return itemsSold;
     }
 
+    public double getInventoryTotal() {
+        double total = 0;
+        for (Item item : items) {
+            total += item.getPurchasePrice();
+        }
+        return total;
+    }
+    
+    public double getItemsSoldTotal() {
+        double total = 0;
+        for (Item item : itemsSold) {
+            total += item.getSalePrice();
+        }
+        return total;
+    }
+
     public ArrayList<Pet> getSickPets() {
         return sickPets;
     }
@@ -109,7 +125,10 @@ public class Store {
         }
     }
 
-    public void runDay(ArrayList<Customer> customers) {
+    public void runDay(Clerk clerk, Trainer trainer, ArrayList<Customer> customers) {
+        arriveAtStore(clerk);
+        arriveAtStore(trainer);
+        
         clerkTasks();
         trainerTasks();
         openStore(customers);
