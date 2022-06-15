@@ -318,7 +318,7 @@ public class Store {
         cashRegister.deposit(item.getSalePrice());
         System.out.println("Clerk " + clerk.getName() + " has sold " + item.getName() + " for $"
                 + item.getSalePrice());
-
+        item.setDaySold(age);
         itemsSold.add(item);
         items.remove(item);
     }
