@@ -1,3 +1,4 @@
+package hw2;
 public class Food extends Supply {
     private int size;
     private String animal;

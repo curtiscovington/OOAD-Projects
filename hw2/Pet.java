@@ -1,3 +1,4 @@
+package hw2;
 // Pet is a child class of Item
 public abstract class Pet extends Item {
     private String breed;

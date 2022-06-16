@@ -1,3 +1,4 @@
+package hw2;
 public class Bank {
 
     double amountWithdrawn = 0;

@@ -1,3 +1,4 @@
+package hw2;
 public class Leash extends Supply {
     private String animal;
 

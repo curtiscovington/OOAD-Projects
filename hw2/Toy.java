@@ -1,9 +1,10 @@
-public class CatLitter extends Supply {
-    public int size;
+package hw2;
+public class Toy extends Supply {
+    private String animal;
 
-    public CatLitter(String name, double purchasePrice, int dayArrived, int size) {
+    public Toy(String name, double purchasePrice, int dayArrived, String animal) {
         super(name, purchasePrice, dayArrived);
-        this.size = size;
+        this.animal = animal;
     }
 
     static public Item newRandomItem(int dayArrived) {
@@ -14,9 +15,10 @@ public class CatLitter extends Supply {
         // random purchase price between $10 and $20
         double purchasePrice = (Math.random() * 10) + 10;
 
-        // random size between 1 and 10
-        int size = (int) (Math.random() * 10) + 1;
+        // random animal type
+        String[] animals = { "Cat", "Dog", "Bird" };
+        String animal = animals[(int) (Math.random() * animals.length)];
 
-        return new CatLitter(name, purchasePrice, dayArrived, size);
+        return new Toy(name, purchasePrice, dayArrived, animal);
     }
 }

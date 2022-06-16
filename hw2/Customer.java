@@ -1,3 +1,4 @@
+package hw2;
 public class Customer extends Person {
     // the customers intent to buy something either an Item, a Supply, or a Pet
     private String intent;

@@ -1,3 +1,4 @@
+package hw2;
 public abstract class Item {
     private String name;
     private double purchasePrice;

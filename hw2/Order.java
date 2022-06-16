@@ -1,3 +1,4 @@
+package hw2;
 public class Order {
     Item item;
     int daysToFill;

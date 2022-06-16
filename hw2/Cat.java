@@ -1,3 +1,4 @@
+package hw2;
 public class Cat extends Pet {
     private String color;
     private boolean housebroken;
