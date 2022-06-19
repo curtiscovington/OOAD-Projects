@@ -1,0 +1,1434 @@
+(base) ➜  OOAD-Project-2 git:(main) ✗ java hw2.Simulation
+Employee John the Clerk has arrived at the store.
+Employee Timmy the Trainer has arrived at the store.
+Clerk John has checked the register and found that the total is $0.0
+Clerk John has gone to the bank and withdrew $1000.0
+Clerk John has found the total of items in store are $834.5317087841331
+Timmy is feeding the animals.
+The pet Joy has become sick.
+Clerk John has opened the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Petkit food
+Clerk John has sold Petkit food for $20.43911348694012
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on NameBrand Litter
+Clerk John has sold NameBrand Litter for $27.804453257116464
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Knockoff Litter
+Clerk John has sold Knockoff Litter for $30.733861796535024
+A customer has left the store.
+A customer has arrived at the store.
+Clerk John has sold Knockoff Leash for $14.754989875728189
+A customer has left the store.
+Trainer Timmy is cleaning the cage for Sir Purrington
+Trainer Timmy is cleaning the cage for Zera
+Trainer Timmy is cleaning the cage for Kitty
+Trainer Timmy is cleaning the cage for Fido
+Trainer Timmy is cleaning the cage for Joey
+Trainer Timmy is cleaning the cage for Kitty
+Trainer Timmy is cleaning the cage for Bod
+Trainer Timmy is cleaning the cage for Boo
+Trainer Timmy is cleaning the cage for Joy
+Clerk John is vacuuming the store.
+Clerk John has locked the store.
+Employee John the Clerk has left the store for the day.
+Employee Timmy the Trainer has left the store for the day.
+Employee Sarah the Clerk has arrived at the store.
+Employee Sally the Trainer has arrived at the store.
+Clerk Sarah has checked the register and found that the total is $1093.7324184163197
+Clerk Sarah has found the total of items in store are $697.655868949613
+Sally is feeding the animals.
+The pet Boo has become sick.
+Clerk Sarah has opened the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on Sir Purrington
+Clerk Sarah has sold Sir Purrington for $173.6818943651161
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on Zera
+Trainer Sally has offered a 10% discount on Knockoff food
+Clerk Sarah has sold Knockoff food for $15.418828238040753
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on Zera
+Clerk Sarah has sold Zera for $88.65718235295402
+A customer has left the store.
+Trainer Sally is cleaning the cage for Kitty
+Trainer Sally is cleaning the cage for Fido
+Trainer Sally is cleaning the cage for Joey
+Trainer Sally is cleaning the cage for Kitty
+Trainer Sally is cleaning the cage for Bod
+Trainer Sally is cleaning the cage for Joy
+Trainer Sally is cleaning the cage for Boo
+Clerk Sarah is vacuuming the store.
+Clerk Sarah has locked the store.
+Employee Sarah the Clerk has left the store for the day.
+Employee Sally the Trainer has left the store for the day.
+Employee John the Clerk has arrived at the store.
+Employee Timmy the Trainer has arrived at the store.
+Clerk John has checked the register and found that the total is $1371.4903233724306
+Clerk John has found the total of items in store are $508.34436463915057
+Timmy is feeding the animals.
+Clerk John has opened the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Knockoff Litter
+Clerk John has sold Knockoff Litter for $27.024066116338894
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Knockoff Litter
+Clerk John has sold Knockoff Litter for $22.490024760263925
+A customer has left the store.
+A customer has arrived at the store.
+Clerk John has sold Fancy Leash for $20.53643114384518
+A customer has left the store.
+Trainer Timmy is cleaning the cage for Kitty
+Trainer Timmy is cleaning the cage for Fido
+Trainer Timmy is cleaning the cage for Joey
+Trainer Timmy is cleaning the cage for Kitty
+Trainer Timmy is cleaning the cage for Bod
+Trainer Timmy is cleaning the cage for Joy
+Trainer Timmy is cleaning the cage for Boo
+Clerk John is vacuuming the store.
+Clerk John has locked the store.
+Employee John the Clerk has left the store for the day.
+Employee Timmy the Trainer has left the store for the day.
+Employee John the Clerk has arrived at the store.
+Employee Sally the Trainer has arrived at the store.
+Clerk John has checked the register and found that the total is $1441.5408453928785
+Clerk John has found the total of items in store are $470.5683208024486
+Sally is feeding the animals.
+The sick pet Joy has fully recovered.
+The pet Fido has become sick.
+The pet Kitty has become sick.
+Clerk John has opened the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on Kitty
+Clerk John has sold Kitty for $178.99446486834512
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on Joey
+Clerk John has sold Petkit food for $26.858920981176365
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on Joey
+Clerk John has sold Joey for $155.47330231253582
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on Knockoff Litter
+Clerk John has sold Knockoff Litter for $29.65577964348151
+A customer has left the store.
+A customer has arrived at the store.
+Clerk John has sold NameBrand Litter for $34.75569262750052
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on Knockoff Leash
+Clerk John has sold Knockoff Leash for $12.899413020446834
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on Bod
+Clerk John has sold Bod for $88.85612294600283
+A customer has left the store.
+A customer has arrived at the store.
+A customer has left the store.
+A customer has arrived at the store.
+A customer has left the store.
+Trainer Sally is cleaning the cage for Boo
+Trainer Sally is cleaning the cage for Fido
+Trainer Sally is cleaning the cage for Kitty
+Clerk John is vacuuming the store.
+Clerk John has locked the store.
+Employee John the Clerk has left the store for the day.
+Employee Sally the Trainer has left the store for the day.
+Employee Sarah the Clerk has arrived at the store.
+Employee Timmy the Trainer has arrived at the store.
+Clerk Sarah has checked the register and found that the total is $1969.034541792368
+Clerk Sarah has found the total of items in store are $0.0
+	cats
+Clerk Sarah has found that there are no more cats in store and has ordered 3 more for $192.0
+	toys
+Clerk Sarah has found that there are no more toys in store and has ordered 3 more for $165.0
+	dogs
+Clerk Sarah has found that there are no more dogs in store and has ordered 3 more for $288.0
+	cat litter
+Clerk Sarah has found that there are no more cat litter in store and has ordered 3 more for $261.0
+	birds
+Clerk Sarah has found that there are no more birds in store and has ordered 3 more for $279.0
+	leashes
+Clerk Sarah has found that there are no more leashes in store and has ordered 3 more for $81.0
+	food
+Clerk Sarah has found that there are no more food in store and has ordered 3 more for $66.0
+Timmy is feeding the animals.
+Clerk Sarah has opened the store.
+A customer has arrived at the store.
+A customer has left the store.
+A customer has arrived at the store.
+A customer has left the store.
+A customer has arrived at the store.
+A customer has left the store.
+A customer has arrived at the store.
+A customer has left the store.
+A customer has arrived at the store.
+A customer has left the store.
+Trainer Timmy is cleaning the cage for Boo
+Trainer Timmy is cleaning the cage for Fido
+Trainer Timmy is cleaning the cage for Kitty
+Clerk Sarah is vacuuming the store.
+Clerk Sarah has locked the store.
+Employee Sarah the Clerk has left the store for the day.
+Employee Timmy the Trainer has left the store for the day.
+Employee John the Clerk has arrived at the store.
+Employee Sally the Trainer has arrived at the store.
+Clerk John has checked the register and found that the total is $637.0345417923679
+Clerk John has found the total of items in store are $0.0
+	cats
+Clerk John has found that there are no more cats in store and has ordered 3 more for $204.0
+	toys
+Clerk John has found that there are no more toys in store and has ordered 3 more for $108.0
+	dogs
+Clerk John has found that there are no more dogs in store and has ordered 3 more for $165.0
+	cat litter
+Clerk John has found that there are no more cat litter in store and has ordered 3 more for $204.0
+	birds
+Clerk John has found that there are no more birds in store and has ordered 3 more for $78.0
+	leashes
+Clerk John has found that there are no more leashes in store and has ordered 3 more for $72.0
+	food
+Clerk John has found that there are no more food in store and has ordered 3 more for $162.0
+Sally is feeding the animals.
+The sick pet Fido has fully recovered.
+Clerk John has opened the store.
+A customer has arrived at the store.
+A customer has left the store.
+A customer has arrived at the store.
+A customer has left the store.
+A customer has arrived at the store.
+A customer has left the store.
+A customer has arrived at the store.
+A customer has left the store.
+Trainer Sally is cleaning the cage for Boo
+Trainer Sally is cleaning the cage for Kitty
+Clerk John is vacuuming the store.
+Clerk John has locked the store.
+Employee John the Clerk has left the store for the day.
+Employee Sally the Trainer has left the store for the day.
+Employee Sarah the Clerk has arrived at the store.
+Employee Sally the Trainer has arrived at the store.
+Clerk Sarah has checked the register and found that the total is $0.0
+Clerk Sarah has gone to the bank and withdrew $1000.0
+Clerk Sarah has found the total of items in store are $313.2652557986215
+Sally is feeding the animals.
+Clerk Sarah has opened the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on Watson
+Clerk Sarah has sold Watson for $58.3865334290301
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on NameBrand Litter
+Trainer Sally has offered a 10% discount on Buddy
+Clerk Sarah has sold Buddy for $111.9157165432119
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on NameBrand Litter
+Clerk Sarah has sold Knockoff Litter for $26.19320797312838
+A customer has left the store.
+Trainer Sally is cleaning the cage for Zera
+While cleaning, Zera has escaped!
+Trainer Sally has caught the animal!
+Trainer Sally is cleaning the cage for Zera
+Trainer Sally is cleaning the cage for Boo
+Trainer Sally is cleaning the cage for Kitty
+Clerk Sarah is vacuuming the store.
+Clerk Sarah has locked the store.
+Employee Sarah the Clerk has left the store for the day.
+Employee Sally the Trainer has left the store for the day.
+Employee Sarah the Clerk has arrived at the store.
+Employee Sally the Trainer has arrived at the store.
+Clerk Sarah has checked the register and found that the total is $1196.4954579453704
+Clerk Sarah has found the total of items in store are $541.0169869759538
+Sally is feeding the animals.
+The pet Joy has become sick.
+Clerk Sarah has opened the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on NameBrand Litter
+Clerk Sarah has sold NameBrand Litter for $31.215623269219158
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on Zera
+Clerk Sarah has sold Zera for $172.2209577227841
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on Zera
+Trainer Sally has offered a 10% discount on Knockoff Leash
+Clerk Sarah has sold Knockoff Leash for $13.873474060820758
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on Zera
+Clerk Sarah has sold Zera for $118.05529777333045
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on Knockoff Leash
+Trainer Sally has offered a 10% discount on Knockoff food
+Clerk Sarah has sold Knockoff food for $21.698209856557504
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on Knockoff Leash
+Clerk Sarah has sold Knockoff Leash for $14.325108012831363
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on NameBrand Litter
+Clerk Sarah has sold NameBrand Litter for $20.51138095469221
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on Knockoff Litter
+Clerk Sarah has sold Knockoff Leash for $2.4822957255390237
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on Knockoff Litter
+Clerk Sarah has sold Knockoff Litter for $20.302500332459765
+A customer has left the store.
+Trainer Sally is cleaning the cage for Sir Purrington
+Trainer Sally is cleaning the cage for Boo
+Trainer Sally is cleaning the cage for Joey
+Trainer Sally is cleaning the cage for Boo
+Trainer Sally is cleaning the cage for Kitty
+Trainer Sally is cleaning the cage for Joy
+While cleaning, Joy has escaped!
+Trainer Sally has caught the animal!
+Clerk Sarah is vacuuming the store.
+Clerk Sarah has locked the store.
+Employee Sarah the Clerk has left the store for the day.
+Employee Sally the Trainer has left the store for the day.
+Employee Sarah the Clerk has arrived at the store.
+Employee Timmy the Trainer has arrived at the store.
+Clerk Sarah has checked the register and found that the total is $1611.1803056536046
+Clerk Sarah has found the total of items in store are $771.3520359342846
+Timmy is feeding the animals.
+The sick pet Boo has fully recovered.
+The sick pet Kitty has fully recovered.
+The sick pet Joy has fully recovered.
+The pet Bod has become sick.
+Clerk Sarah has opened the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Knockoff food
+Clerk Sarah has sold Knockoff food for $17.41571060859903
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Sir Purrington
+Clerk Sarah has sold Sir Purrington for $117.90821629989725
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Knockoff Litter
+Clerk Sarah has sold Knockoff Litter for $22.91520367893602
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Knockoff Litter
+Clerk Sarah has sold Knockoff Litter for $33.08162038006822
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Boo
+Trainer Timmy has offered a 10% discount on Joey
+Clerk Sarah has sold Joey for $78.77252204350651
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Boo
+Clerk Sarah has sold Boo for $135.8918112530496
+A customer has left the store.
+A customer has arrived at the store.
+Clerk Sarah has sold Knockoff Leash for $20.078653589748278
+A customer has left the store.
+A customer has arrived at the store.
+Clerk Sarah has sold Petkit food for $14.003836742858297
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Petkit food
+Clerk Sarah has sold Bob for $74.61943771856541
+A customer has left the store.
+Trainer Timmy is cleaning the cage for Sir Purrington
+Trainer Timmy is cleaning the cage for Bod
+Trainer Timmy is cleaning the cage for Buddy
+Trainer Timmy is cleaning the cage for Birdy
+Trainer Timmy is cleaning the cage for Watson
+Trainer Timmy is cleaning the cage for Joy
+Trainer Timmy is cleaning the cage for Bod
+Clerk Sarah is vacuuming the store.
+Clerk Sarah has locked the store.
+Employee Sarah the Clerk has left the store for the day.
+Employee Timmy the Trainer has left the store for the day.
+Employee John the Clerk has arrived at the store.
+Employee Sally the Trainer has arrived at the store.
+Clerk John has checked the register and found that the total is $2125.867317968833
+Clerk John has found the total of items in store are $516.6202738139086
+Sally is feeding the animals.
+The pet Buddy has become sick.
+Clerk John has opened the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on Petkit food
+Trainer Sally has offered a 10% discount on Sir Purrington
+Clerk John has sold Sir Purrington for $96.7997629439761
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on Petkit food
+Trainer Sally has offered a 10% discount on NameBrand Litter
+Clerk John has sold NameBrand Litter for $27.721647602762165
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on Petkit food
+Trainer Sally has offered a 10% discount on Bod
+Clerk John has sold Bod for $79.7599208866909
+A customer has left the store.
+Trainer Sally is cleaning the cage for Birdy
+Trainer Sally is cleaning the cage for Watson
+Trainer Sally is cleaning the cage for Joy
+Trainer Sally is cleaning the cage for Bob
+Trainer Sally is cleaning the cage for Boo
+Trainer Sally is cleaning the cage for Bod
+Trainer Sally is cleaning the cage for Buddy
+Clerk John is vacuuming the store.
+Clerk John has locked the store.
+Employee John the Clerk has left the store for the day.
+Employee Sally the Trainer has left the store for the day.
+Employee Sarah the Clerk has arrived at the store.
+Employee Timmy the Trainer has arrived at the store.
+Clerk Sarah has checked the register and found that the total is $2330.148649402262
+Clerk Sarah has found the total of items in store are $330.35306665297196
+Timmy is feeding the animals.
+Clerk Sarah has opened the store.
+A customer has arrived at the store.
+Clerk Sarah has sold Petkit food for $28.560538568975872
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on NameBrand Litter
+Clerk Sarah has sold NameBrand Litter for $26.345354700666928
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Birdy
+Clerk Sarah has sold Birdy for $85.60544858616583
+A customer has left the store.
+A customer has arrived at the store.
+Clerk Sarah has sold Petkit food for $21.99415725857932
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Watson
+Trainer Timmy has offered a 10% discount on Joy
+Clerk Sarah has sold Joy for $114.2764179651571
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Watson
+Clerk Sarah has sold Watson for $64.49079375495533
+A customer has left the store.
+A customer has arrived at the store.
+Clerk Sarah has sold NameBrand Litter for $24.141817993497405
+A customer has left the store.
+Trainer Timmy is cleaning the cage for Bob
+Trainer Timmy is cleaning the cage for Boo
+Trainer Timmy is cleaning the cage for Bod
+Trainer Timmy is cleaning the cage for Buddy
+Clerk Sarah is vacuuming the store.
+Clerk Sarah has locked the store.
+Employee Sarah the Clerk has left the store for the day.
+Employee Timmy the Trainer has left the store for the day.
+Employee John the Clerk has arrived at the store.
+Employee Timmy the Trainer has arrived at the store.
+Clerk John has checked the register and found that the total is $2695.5631782302603
+Clerk John has found the total of items in store are $131.49480140525387
+	dogs
+Clerk John has found that there are no more dogs in store and has ordered 3 more for $84.0
+Timmy is feeding the animals.
+The pet Bob has become sick.
+Clerk John has opened the store.
+A customer has arrived at the store.
+Clerk John has sold NameBrand Litter for $20.035886480385365
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Fancy Leash
+Clerk John has sold Fancy Leash for $9.423604316277137
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Petkit food
+Clerk John has sold Petkit food for $18.00421119924291
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on NameBrand Litter
+Clerk John has sold Knockoff Litter for $36.526251237013255
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on NameBrand Litter
+Clerk John has sold NameBrand Litter for $29.335727254363224
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Boo
+Trainer Timmy has offered a 10% discount on Knockoff Leash
+Clerk John has sold Knockoff Leash for $12.611370260644199
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Boo
+Clerk John has sold Boo for $46.54989708337372
+A customer has left the store.
+A customer has arrived at the store.
+A customer has left the store.
+Trainer Timmy is cleaning the cage for Bod
+Trainer Timmy is cleaning the cage for Buddy
+Trainer Timmy is cleaning the cage for Bob
+While cleaning, Bob has escaped!
+Clerk John has caught the animal!
+Clerk John is vacuuming the store.
+Clerk John has locked the store.
+Employee John the Clerk has left the store for the day.
+Employee Timmy the Trainer has left the store for the day.
+Employee Sarah the Clerk has arrived at the store.
+Employee Sally the Trainer has arrived at the store.
+Clerk Sarah has checked the register and found that the total is $2784.0501260615597
+Clerk Sarah has found the total of items in store are $0.0
+	cats
+Clerk Sarah has found that there are no more cats in store and has ordered 3 more for $216.0
+	toys
+Clerk Sarah has found that there are no more toys in store and has ordered 3 more for $261.0
+	dogs
+Clerk Sarah has found that there are no more dogs in store and has ordered 3 more for $180.0
+	cat litter
+Clerk Sarah has found that there are no more cat litter in store and has ordered 3 more for $267.0
+	birds
+Clerk Sarah has found that there are no more birds in store and has ordered 3 more for $222.0
+	leashes
+Clerk Sarah has found that there are no more leashes in store and has ordered 3 more for $288.0
+	food
+Clerk Sarah has found that there are no more food in store and has ordered 3 more for $135.0
+Sally is feeding the animals.
+The sick pet Bod has fully recovered.
+Clerk Sarah has opened the store.
+A customer has arrived at the store.
+A customer has left the store.
+A customer has arrived at the store.
+A customer has left the store.
+A customer has arrived at the store.
+A customer has left the store.
+A customer has arrived at the store.
+A customer has left the store.
+A customer has arrived at the store.
+A customer has left the store.
+A customer has arrived at the store.
+A customer has left the store.
+Trainer Sally is cleaning the cage for Buddy
+Trainer Sally is cleaning the cage for Bob
+Clerk Sarah is vacuuming the store.
+Clerk Sarah has locked the store.
+Employee Sarah the Clerk has left the store for the day.
+Employee Sally the Trainer has left the store for the day.
+Employee John the Clerk has arrived at the store.
+Employee Timmy the Trainer has arrived at the store.
+Clerk John has checked the register and found that the total is $1215.0501260615597
+Clerk John has found the total of items in store are $0.0
+	cats
+Clerk John has found that there are no more cats in store and has ordered 3 more for $111.0
+	toys
+Clerk John has found that there are no more toys in store and has ordered 3 more for $180.0
+	dogs
+Clerk John has found that there are no more dogs in store and has ordered 3 more for $72.0
+	cat litter
+Clerk John has found that there are no more cat litter in store and has ordered 3 more for $105.0
+	birds
+Clerk John has found that there are no more birds in store and has ordered 3 more for $159.0
+	leashes
+Clerk John has found that there are no more leashes in store and has ordered 3 more for $165.0
+	food
+Clerk John has found that there are no more food in store and has ordered 3 more for $51.0
+Timmy is feeding the animals.
+The sick pet Bob has fully recovered.
+Clerk John has opened the store.
+A customer has arrived at the store.
+A customer has left the store.
+A customer has arrived at the store.
+A customer has left the store.
+A customer has arrived at the store.
+A customer has left the store.
+A customer has arrived at the store.
+A customer has left the store.
+A customer has arrived at the store.
+A customer has left the store.
+A customer has arrived at the store.
+A customer has left the store.
+Trainer Timmy is cleaning the cage for Buddy
+Clerk John is vacuuming the store.
+Clerk John has locked the store.
+Employee John the Clerk has left the store for the day.
+Employee Timmy the Trainer has left the store for the day.
+Employee Sarah the Clerk has arrived at the store.
+Employee Sally the Trainer has arrived at the store.
+Clerk Sarah has checked the register and found that the total is $372.0501260615597
+Clerk Sarah has found the total of items in store are $474.50021728589115
+	cats
+Clerk Sarah has found that there are no more cats in store and has ordered 3 more for $288.0
+	toys
+Clerk Sarah has found that there are no more toys in store and has ordered 3 more for $243.0
+	leashes
+Clerk Sarah has found that there are no more leashes in store and has ordered 3 more for $81.0
+Sally is feeding the animals.
+Clerk Sarah has opened the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on Fido
+Clerk Sarah has sold Fido for $163.99592350214652
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on Buddy
+Clerk Sarah has sold Buddy for $65.18866890677435
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on Joy
+Clerk Sarah has sold Joy for $162.90155890113542
+A customer has left the store.
+A customer has arrived at the store.
+Clerk Sarah has sold Bod for $154.22596988510514
+A customer has left the store.
+Trainer Sally is cleaning the cage for Boo
+Trainer Sally is cleaning the cage for Birdy
+Trainer Sally is cleaning the cage for Buddy
+Clerk Sarah is vacuuming the store.
+Clerk Sarah has locked the store.
+Employee Sarah the Clerk has left the store for the day.
+Employee Sally the Trainer has left the store for the day.
+Employee John the Clerk has arrived at the store.
+Employee Sally the Trainer has arrived at the store.
+Clerk John has checked the register and found that the total is $546.3121211951614
+Clerk John has found the total of items in store are $628.8886974066202
+	dogs
+Clerk John has found that there are no more dogs in store and has ordered 3 more for $240.0
+Sally is feeding the animals.
+The sick pet Buddy has fully recovered.
+Clerk John has opened the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on Knockoff Litter
+Clerk John has sold Knockoff Litter for $20.419518831588974
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on Knockoff Litter
+Clerk John has sold Knockoff Litter for $25.538507830889333
+A customer has left the store.
+A customer has arrived at the store.
+Clerk John has sold Boo for $165.42185348050947
+A customer has left the store.
+A customer has arrived at the store.
+Clerk John has sold Birdy for $122.21726388278992
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on Petkit food
+Clerk John has sold Petkit food for $20.41958650166448
+A customer has left the store.
+Trainer Sally is cleaning the cage for Kitty
+Trainer Sally is cleaning the cage for Kitty
+Trainer Sally is cleaning the cage for Kitty
+Trainer Sally is cleaning the cage for Birdy
+Trainer Sally is cleaning the cage for Sir Purrington
+Trainer Sally is cleaning the cage for Birdy
+Clerk John is vacuuming the store.
+Clerk John has locked the store.
+Employee John the Clerk has left the store for the day.
+Employee Sally the Trainer has left the store for the day.
+Employee Sarah the Clerk has arrived at the store.
+Employee Timmy the Trainer has arrived at the store.
+Clerk Sarah has checked the register and found that the total is $660.3288517226035
+Clerk Sarah has found the total of items in store are $951.1578985405555
+Timmy is feeding the animals.
+Clerk Sarah has opened the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Kitty
+Clerk Sarah has sold Kitty for $48.314657229763895
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Kitty
+Clerk Sarah has sold Kitty for $163.02917017497344
+A customer has left the store.
+A customer has arrived at the store.
+Clerk Sarah has sold Kitty for $84.88769027378498
+A customer has left the store.
+A customer has arrived at the store.
+Clerk Sarah has sold NameBrand Litter for $37.58287754337386
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Knockoff Litter
+Clerk Sarah has sold Knockoff Litter for $32.09335208658038
+A customer has left the store.
+Trainer Timmy is cleaning the cage for Birdy
+Trainer Timmy is cleaning the cage for Sir Purrington
+Trainer Timmy is cleaning the cage for Birdy
+Trainer Timmy is cleaning the cage for Fido
+Trainer Timmy is cleaning the cage for Bod
+While cleaning, Bod has escaped!
+Trainer Timmy has caught the animal!
+Trainer Timmy is cleaning the cage for Kitty
+Trainer Timmy is cleaning the cage for Joy
+Trainer Timmy is cleaning the cage for Zera
+Clerk Sarah is vacuuming the store.
+Clerk Sarah has locked the store.
+Employee Sarah the Clerk has left the store for the day.
+Employee Timmy the Trainer has left the store for the day.
+Employee Sarah the Clerk has arrived at the store.
+Employee Timmy the Trainer has arrived at the store.
+Clerk Sarah has checked the register and found that the total is $1026.2365990310802
+Clerk Sarah has found the total of items in store are $1245.997851723824
+Timmy is feeding the animals.
+The pet Kitty has become sick.
+Clerk Sarah has opened the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Birdy
+Clerk Sarah has sold Knockoff Leash for $8.54197830457675
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Birdy
+Clerk Sarah has sold Birdy for $57.10899553883954
+A customer has left the store.
+A customer has arrived at the store.
+Clerk Sarah has sold Fancy Leash for $12.92964805475535
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Knockoff food
+Clerk Sarah has sold Knockoff food for $17.756319481950595
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Knockoff food
+Clerk Sarah has sold Knockoff food for $12.215959071603233
+A customer has left the store.
+A customer has arrived at the store.
+Clerk Sarah has sold Sir Purrington for $166.06376724100497
+A customer has left the store.
+Trainer Timmy is cleaning the cage for Birdy
+Trainer Timmy is cleaning the cage for Fido
+Trainer Timmy is cleaning the cage for Bod
+Trainer Timmy is cleaning the cage for Kitty
+Trainer Timmy is cleaning the cage for Joy
+Trainer Timmy is cleaning the cage for Zera
+Trainer Timmy is cleaning the cage for Watson
+Trainer Timmy is cleaning the cage for Bod
+Trainer Timmy is cleaning the cage for Joy
+Trainer Timmy is cleaning the cage for Zera
+Trainer Timmy is cleaning the cage for Fido
+Trainer Timmy is cleaning the cage for Fido
+While cleaning, Fido has escaped!
+Clerk Sarah has caught the animal!
+Trainer Timmy is cleaning the cage for Kitty
+Clerk Sarah is vacuuming the store.
+Clerk Sarah has locked the store.
+Employee Sarah the Clerk has left the store for the day.
+Employee Timmy the Trainer has left the store for the day.
+Employee John the Clerk has arrived at the store.
+Employee Timmy the Trainer has arrived at the store.
+Clerk John has checked the register and found that the total is $1300.8532667238107
+Clerk John has found the total of items in store are $1216.343292651005
+Timmy is feeding the animals.
+Clerk John has opened the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on NameBrand Litter
+Trainer Timmy has offered a 10% discount on Birdy
+Trainer Timmy has offered a 10% discount on Knockoff Leash
+Clerk John has sold Knockoff Leash for $7.197667635694542
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on NameBrand Litter
+Clerk John has sold NameBrand Litter for $25.09408702351107
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Birdy
+Clerk John has sold Birdy for $139.98163289854946
+A customer has left the store.
+Trainer Timmy is cleaning the cage for Fido
+Trainer Timmy is cleaning the cage for Bod
+Trainer Timmy is cleaning the cage for Kitty
+Trainer Timmy is cleaning the cage for Joy
+Trainer Timmy is cleaning the cage for Zera
+Trainer Timmy is cleaning the cage for Watson
+Trainer Timmy is cleaning the cage for Bod
+Trainer Timmy is cleaning the cage for Joy
+While cleaning, Joy has escaped!
+Clerk John has caught the animal!
+Trainer Timmy is cleaning the cage for Zera
+Trainer Timmy is cleaning the cage for Fido
+Trainer Timmy is cleaning the cage for Fido
+Trainer Timmy is cleaning the cage for Watson
+Trainer Timmy is cleaning the cage for Sir Purrington
+Trainer Timmy is cleaning the cage for Joy
+Trainer Timmy is cleaning the cage for Kitty
+Clerk John is vacuuming the store.
+Clerk John has locked the store.
+Employee John the Clerk has left the store for the day.
+Employee Timmy the Trainer has left the store for the day.
+Employee John the Clerk has arrived at the store.
+Employee Sally the Trainer has arrived at the store.
+Clerk John has checked the register and found that the total is $1473.1266542815658
+Clerk John has found the total of items in store are $1120.635855118919
+Sally is feeding the animals.
+Clerk John has opened the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on Knockoff Leash
+Clerk John has sold Knockoff Leash for $11.581665033323562
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on Petkit food
+Clerk John has sold Petkit food for $15.409916973426789
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on Knockoff Litter
+Clerk John has sold Knockoff Litter for $25.945219432595138
+A customer has left the store.
+Trainer Sally is cleaning the cage for Fido
+Trainer Sally is cleaning the cage for Bod
+Trainer Sally is cleaning the cage for Kitty
+Trainer Sally is cleaning the cage for Joy
+Trainer Sally is cleaning the cage for Zera
+Trainer Sally is cleaning the cage for Watson
+Trainer Sally is cleaning the cage for Bod
+Trainer Sally is cleaning the cage for Joy
+Trainer Sally is cleaning the cage for Zera
+Trainer Sally is cleaning the cage for Fido
+Trainer Sally is cleaning the cage for Fido
+Trainer Sally is cleaning the cage for Watson
+Trainer Sally is cleaning the cage for Sir Purrington
+Trainer Sally is cleaning the cage for Joy
+Trainer Sally is cleaning the cage for Kitty
+While cleaning, Kitty has escaped!
+Trainer Sally has caught the animal!
+Clerk John is vacuuming the store.
+Clerk John has locked the store.
+Employee John the Clerk has left the store for the day.
+Employee Sally the Trainer has left the store for the day.
+Employee Sarah the Clerk has arrived at the store.
+Employee Timmy the Trainer has arrived at the store.
+Clerk Sarah has checked the register and found that the total is $1526.0634557209114
+Clerk Sarah has found the total of items in store are $1091.2265209859495
+Timmy is feeding the animals.
+The sick pet Kitty has fully recovered.
+Clerk Sarah has opened the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Knockoff Litter
+Clerk Sarah has sold Knockoff Litter for $26.303219183069324
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Fido
+Clerk Sarah has sold Fido for $141.09548501698222
+A customer has left the store.
+A customer has arrived at the store.
+Clerk Sarah has sold Bod for $155.870126040613
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Fancy Leash
+Trainer Timmy has offered a 10% discount on Kitty
+Clerk Sarah has sold Kitty for $166.40590203916477
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Fancy Leash
+Clerk Sarah has sold Fancy Leash for $2.801157700768839
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on NameBrand Litter
+Clerk Sarah has sold NameBrand Litter for $18.854793884465643
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Knockoff Litter
+Clerk Sarah has sold Knockoff Litter for $31.203435505811257
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Joy
+Clerk Sarah has sold Joy for $70.58202978527636
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on NameBrand Litter
+Clerk Sarah has sold NameBrand Litter for $29.320672531801563
+A customer has left the store.
+Trainer Timmy is cleaning the cage for Zera
+Trainer Timmy is cleaning the cage for Watson
+Trainer Timmy is cleaning the cage for Bod
+Trainer Timmy is cleaning the cage for Joy
+Trainer Timmy is cleaning the cage for Zera
+Trainer Timmy is cleaning the cage for Fido
+Trainer Timmy is cleaning the cage for Fido
+Trainer Timmy is cleaning the cage for Watson
+Trainer Timmy is cleaning the cage for Sir Purrington
+Trainer Timmy is cleaning the cage for Joy
+Clerk Sarah is vacuuming the store.
+Clerk Sarah has locked the store.
+Employee Sarah the Clerk has left the store for the day.
+Employee Timmy the Trainer has left the store for the day.
+Employee John the Clerk has arrived at the store.
+Employee Timmy the Trainer has arrived at the store.
+Clerk John has checked the register and found that the total is $2168.5002774088643
+Clerk John has found the total of items in store are $742.9766270504542
+Timmy is feeding the animals.
+The pet Watson has become sick.
+The pet Bod has become sick.
+The pet Joy has become sick.
+Clerk John has opened the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Zera
+Clerk John has sold Zera for $165.93055107545285
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Petkit food
+Clerk John has sold Petkit food for $11.45557267863287
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Knockoff Litter
+Clerk John has sold Knockoff Litter for $29.71247807348534
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Knockoff Litter
+Clerk John has sold Knockoff Litter for $32.037829336050976
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Knockoff Leash
+Trainer Timmy has offered a 10% discount on NameBrand Litter
+Clerk John has sold NameBrand Litter for $21.64179670405082
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Knockoff Leash
+Trainer Timmy has offered a 10% discount on NameBrand Litter
+Clerk John has sold NameBrand Litter for $29.808828325691806
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Knockoff Leash
+Clerk John has sold Knockoff Leash for $11.363969268928226
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Zera
+Trainer Timmy has offered a 10% discount on Fancy Leash
+Clerk John has sold Fancy Leash for $13.865570915871468
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Zera
+Clerk John has sold Zera for $95.83035060840693
+A customer has left the store.
+Trainer Timmy is cleaning the cage for Fido
+Trainer Timmy is cleaning the cage for Fido
+While cleaning, Fido has escaped!
+Trainer Timmy has caught the animal!
+Trainer Timmy is cleaning the cage for Watson
+Trainer Timmy is cleaning the cage for Sir Purrington
+Trainer Timmy is cleaning the cage for Joy
+Trainer Timmy is cleaning the cage for Watson
+Trainer Timmy is cleaning the cage for Bod
+Trainer Timmy is cleaning the cage for Joy
+Clerk John is vacuuming the store.
+Clerk John has locked the store.
+Employee John the Clerk has left the store for the day.
+Employee Timmy the Trainer has left the store for the day.
+Employee John the Clerk has arrived at the store.
+Employee Timmy the Trainer has arrived at the store.
+Clerk John has checked the register and found that the total is $2580.1472243954354
+Clerk John has found the total of items in store are $349.91417871612305
+	cat litter
+Clerk John has found that there are no more cat litter in store and has ordered 3 more for $84.0
+	birds
+Clerk John has found that there are no more birds in store and has ordered 3 more for $201.0
+Timmy is feeding the animals.
+The sick pet Joy has fully recovered.
+Clerk John has opened the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Knockoff food
+Clerk John has sold Knockoff food for $16.73456375348179
+A customer has left the store.
+A customer has arrived at the store.
+Clerk John has sold Knockoff Litter for $34.001400971096736
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Knockoff Leash
+Clerk John has sold Knockoff Leash for $13.508435712498239
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Fido
+Trainer Timmy has offered a 10% discount on Fido
+Clerk John has sold Fido for $133.98566663191457
+A customer has left the store.
+A customer has arrived at the store.
+Clerk John has sold Fido for $165.65158462843885
+A customer has left the store.
+Trainer Timmy is cleaning the cage for Watson
+Trainer Timmy is cleaning the cage for Sir Purrington
+Trainer Timmy is cleaning the cage for Joy
+Trainer Timmy is cleaning the cage for Watson
+Trainer Timmy is cleaning the cage for Bod
+Clerk John is vacuuming the store.
+Clerk John has locked the store.
+Employee John the Clerk has left the store for the day.
+Employee Timmy the Trainer has left the store for the day.
+Employee Sarah the Clerk has arrived at the store.
+Employee Sally the Trainer has arrived at the store.
+Clerk Sarah has checked the register and found that the total is $2659.0288760928656
+Clerk Sarah has found the total of items in store are $158.84953808419155
+	toys
+Clerk Sarah has found that there are no more toys in store and has ordered 3 more for $105.0
+	cat litter
+Clerk Sarah has found that there are no more cat litter in store and has ordered 3 more for $39.0
+	birds
+Clerk Sarah has found that there are no more birds in store and has ordered 3 more for $138.0
+	food
+Clerk Sarah has found that there are no more food in store and has ordered 3 more for $81.0
+Sally is feeding the animals.
+The sick pet Bod has fully recovered.
+Clerk Sarah has opened the store.
+A customer has arrived at the store.
+Clerk Sarah has sold Watson for $128.58890578114253
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on Sir Purrington
+Clerk Sarah has sold Sir Purrington for $107.28925173845546
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on Fancy Leash
+Clerk Sarah has sold Joy for $51.288669558291886
+A customer has left the store.
+A customer has arrived at the store.
+Clerk Sarah has sold Fancy Leash for $18.61122111955378
+A customer has left the store.
+A customer has arrived at the store.
+A customer has left the store.
+Trainer Sally is cleaning the cage for Watson
+Clerk Sarah is vacuuming the store.
+Clerk Sarah has locked the store.
+Employee Sarah the Clerk has left the store for the day.
+Employee Sally the Trainer has left the store for the day.
+Employee John the Clerk has arrived at the store.
+Employee Sally the Trainer has arrived at the store.
+Clerk John has checked the register and found that the total is $2601.806924290309
+Clerk John has found the total of items in store are $121.5342933076519
+	cats
+Clerk John has found that there are no more cats in store and has ordered 3 more for $123.0
+	toys
+Clerk John has found that there are no more toys in store and has ordered 3 more for $267.0
+	dogs
+Clerk John has found that there are no more dogs in store and has ordered 3 more for $186.0
+	leashes
+Clerk John has found that there are no more leashes in store and has ordered 3 more for $90.0
+	food
+Clerk John has found that there are no more food in store and has ordered 3 more for $60.0
+Sally is feeding the animals.
+Clerk John has opened the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on Knockoff Litter
+Clerk John has sold Knockoff Litter for $33.84197584944866
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on Zera
+Clerk John has sold Zera for $95.26897375264961
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on Birdy
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on Birdy
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on Birdy
+A customer has left the store.
+Trainer Sally is cleaning the cage for Birdy
+Trainer Sally is cleaning the cage for Watson
+Clerk John is vacuuming the store.
+Clerk John has locked the store.
+Employee John the Clerk has left the store for the day.
+Employee Sally the Trainer has left the store for the day.
+Employee John the Clerk has arrived at the store.
+Employee Sally the Trainer has arrived at the store.
+Clerk John has checked the register and found that the total is $2004.9178738924072
+Clerk John has found the total of items in store are $294.04839455067247
+	cats
+Clerk John has found that there are no more cats in store and has ordered 3 more for $51.0
+	dogs
+Clerk John has found that there are no more dogs in store and has ordered 3 more for $51.0
+	cat litter
+Clerk John has found that there are no more cat litter in store and has ordered 3 more for $276.0
+	leashes
+Clerk John has found that there are no more leashes in store and has ordered 3 more for $78.0
+Sally is feeding the animals.
+Clerk John has opened the store.
+A customer has arrived at the store.
+Clerk John has sold Birdy for $99.61197594630569
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on Boo
+Clerk John has sold Boo for $146.76526893980466
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on Knockoff Litter
+Clerk John has sold Knockoff Litter for $34.1232097486506
+A customer has left the store.
+A customer has arrived at the store.
+Clerk John has sold Joey for $67.12013976229639
+A customer has left the store.
+A customer has arrived at the store.
+Clerk John has sold Birdy for $160.86330982828125
+A customer has left the store.
+A customer has arrived at the store.
+Clerk John has sold Petkit food for $15.576740400214087
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on Petkit food
+Clerk John has sold Petkit food for $23.789858521960426
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on Knockoff food
+Clerk John has sold Knockoff food for $15.753823637407125
+A customer has left the store.
+Trainer Sally is cleaning the cage for Watson
+Clerk John is vacuuming the store.
+Clerk John has locked the store.
+Employee John the Clerk has left the store for the day.
+Employee Sally the Trainer has left the store for the day.
+Employee John the Clerk has arrived at the store.
+Employee Timmy the Trainer has arrived at the store.
+Clerk John has checked the register and found that the total is $2112.5222006773274
+Clerk John has found the total of items in store are $301.6413220914447
+Timmy is feeding the animals.
+The sick pet Watson has fully recovered.
+Clerk John has opened the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Knockoff Litter
+Clerk John has sold NameBrand Litter for $25.419073748750574
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Knockoff Litter
+Clerk John has sold Knockoff Litter for $21.98609518924126
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Birdy
+Clerk John has sold Kitty for $87.73702254072607
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Birdy
+Clerk John has sold Birdy for $156.43053571340175
+A customer has left the store.
+A customer has arrived at the store.
+Clerk John has sold NameBrand Litter for $34.59878858761316
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Fido
+Trainer Timmy has offered a 10% discount on Joy
+Trainer Timmy has offered a 10% discount on Fancy Leash
+Trainer Timmy has offered a 10% discount on Knockoff food
+Clerk John has sold Knockoff food for $17.340805051790205
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Fido
+Trainer Timmy has offered a 10% discount on Joy
+Clerk John has sold Joy for $98.32543143945338
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Fido
+Clerk John has sold Fido for $102.80552788066208
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Fancy Leash
+A customer has left the store.
+Clerk John is vacuuming the store.
+Clerk John has locked the store.
+Employee John the Clerk has left the store for the day.
+Employee Timmy the Trainer has left the store for the day.
+Employee Sarah the Clerk has arrived at the store.
+Employee Sally the Trainer has arrived at the store.
+Clerk Sarah has checked the register and found that the total is $2657.1654808289654
+Clerk Sarah has found the total of items in store are $407.84384586487437
+	birds
+Clerk Sarah has found that there are no more birds in store and has ordered 3 more for $264.0
+	food
+Clerk Sarah has found that there are no more food in store and has ordered 3 more for $282.0
+Sally is feeding the animals.
+Clerk Sarah has opened the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on Fancy Leash
+Clerk Sarah has sold Fancy Leash for $13.08658810067098
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on NameBrand Litter
+Clerk Sarah has sold NameBrand Litter for $30.527121399903727
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on NameBrand Litter
+Clerk Sarah has sold NameBrand Litter for $25.756520776519032
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on NameBrand Litter
+Clerk Sarah has sold NameBrand Litter for $31.4976973667892
+A customer has left the store.
+A customer has arrived at the store.
+Clerk Sarah has sold NameBrand Litter for $33.737430885239945
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on NameBrand Litter
+Clerk Sarah has sold NameBrand Litter for $31.27036263615574
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on Watson
+Clerk Sarah has sold Watson for $169.0000228226609
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on Kitty
+Clerk Sarah has sold Kitty for $46.36885826383915
+A customer has left the store.
+Trainer Sally is cleaning the cage for Bod
+Trainer Sally is cleaning the cage for Watson
+Clerk Sarah is vacuuming the store.
+Clerk Sarah has locked the store.
+Employee Sarah the Clerk has left the store for the day.
+Employee Sally the Trainer has left the store for the day.
+Employee John the Clerk has arrived at the store.
+Employee Timmy the Trainer has arrived at the store.
+Clerk John has checked the register and found that the total is $2492.4100830807442
+Clerk John has found the total of items in store are $467.60892170339656
+	birds
+Clerk John has found that there are no more birds in store and has ordered 3 more for $195.0
+Timmy is feeding the animals.
+The pet Watson has become sick.
+Clerk John has opened the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on NameBrand Litter
+Clerk John has sold NameBrand Litter for $30.087004880993344
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Bod
+Clerk John has sold Bod for $120.11035291498811
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on NameBrand Litter
+Trainer Timmy has offered a 10% discount on Fancy Leash
+Clerk John has sold Fancy Leash for $15.74718315836033
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on NameBrand Litter
+Clerk John has sold NameBrand Litter for $27.497669984739613
+A customer has left the store.
+A customer has arrived at the store.
+Clerk John has sold NameBrand Litter for $30.12669048610375
+A customer has left the store.
+A customer has arrived at the store.
+Clerk John has sold Knockoff Leash for $10.690704292751715
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Knockoff Leash
+Clerk John has sold Knockoff Leash for $9.357811701685941
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Knockoff food
+Clerk John has sold Knockoff food for $18.173037172764168
+A customer has left the store.
+Trainer Timmy is cleaning the cage for Bob
+Trainer Timmy is cleaning the cage for Fido
+Trainer Timmy is cleaning the cage for Fido
+Trainer Timmy is cleaning the cage for Watson
+Clerk John is vacuuming the store.
+Clerk John has locked the store.
+Employee John the Clerk has left the store for the day.
+Employee Timmy the Trainer has left the store for the day.
+Employee Sarah the Clerk has arrived at the store.
+Employee Sally the Trainer has arrived at the store.
+Clerk Sarah has checked the register and found that the total is $2559.2005376731313
+Clerk Sarah has found the total of items in store are $625.5529740781702
+	toys
+Clerk Sarah has found that there are no more toys in store and has ordered 3 more for $237.0
+Sally is feeding the animals.
+Clerk Sarah has opened the store.
+A customer has arrived at the store.
+Clerk Sarah has sold Petkit food for $21.113908337870473
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on Bob
+Clerk Sarah has sold Bob for $157.18193437110256
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on Fido
+Trainer Sally has offered a 10% discount on Fido
+Trainer Sally has offered a 10% discount on NameBrand Litter
+Clerk Sarah has sold Knockoff Litter for $34.49930679001396
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on Fido
+Clerk Sarah has sold Fido for $94.90797931896796
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on Fido
+Clerk Sarah has sold Fido for $89.92360537499181
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on NameBrand Litter
+Clerk Sarah has sold NameBrand Litter for $29.11607881701626
+A customer has left the store.
+A customer has arrived at the store.
+Clerk Sarah has sold Kitty for $153.03707916807213
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on Bod
+Clerk Sarah has sold Bod for $135.36580689644182
+A customer has left the store.
+Trainer Sally is cleaning the cage for Zera
+Trainer Sally is cleaning the cage for Birdy
+Trainer Sally is cleaning the cage for Boo
+Trainer Sally is cleaning the cage for Watson
+Clerk Sarah is vacuuming the store.
+Clerk Sarah has locked the store.
+Employee Sarah the Clerk has left the store for the day.
+Employee Sally the Trainer has left the store for the day.
+********************************************************
+*                                                      *
+*                                                      *
+********************************************************
+Amount Withdrawn from the bank: $2000.0
+Amount in cash register: $3037.3462367476086
+Amount in inventory: $239.84149094212512
+Items in inventory:
+	Knockoff Leash
+	Knockoff Leash
+	Zera
+	Birdy
+	Boo
+	Knockoff food
+	Petkit food
+Amount in sales: $8922.430904601537
+Items sold:
+	Petkit food : Sale Price ($20.43911348694012) : Sold on (1)
+	NameBrand Litter : Sale Price ($27.804453257116464) : Sold on (1)
+	Knockoff Litter : Sale Price ($30.733861796535024) : Sold on (1)
+	Knockoff Leash : Sale Price ($14.754989875728189) : Sold on (1)
+	Sir Purrington : Sale Price ($173.6818943651161) : Sold on (2)
+	Knockoff food : Sale Price ($15.418828238040753) : Sold on (2)
+	Zera : Sale Price ($88.65718235295402) : Sold on (2)
+	Knockoff Litter : Sale Price ($27.024066116338894) : Sold on (3)
+	Knockoff Litter : Sale Price ($22.490024760263925) : Sold on (3)
+	Fancy Leash : Sale Price ($20.53643114384518) : Sold on (3)
+	Kitty : Sale Price ($178.99446486834512) : Sold on (4)
+	Petkit food : Sale Price ($26.858920981176365) : Sold on (4)
+	Joey : Sale Price ($155.47330231253582) : Sold on (4)
+	Knockoff Litter : Sale Price ($29.65577964348151) : Sold on (4)
+	NameBrand Litter : Sale Price ($34.75569262750052) : Sold on (4)
+	Knockoff Leash : Sale Price ($12.899413020446834) : Sold on (4)
+	Bod : Sale Price ($88.85612294600283) : Sold on (4)
+	Watson : Sale Price ($58.3865334290301) : Sold on (7)
+	Buddy : Sale Price ($111.9157165432119) : Sold on (7)
+	Knockoff Litter : Sale Price ($26.19320797312838) : Sold on (7)
+	NameBrand Litter : Sale Price ($31.215623269219158) : Sold on (8)
+	Zera : Sale Price ($172.2209577227841) : Sold on (8)
+	Knockoff Leash : Sale Price ($13.873474060820758) : Sold on (8)
+	Zera : Sale Price ($118.05529777333045) : Sold on (8)
+	Knockoff food : Sale Price ($21.698209856557504) : Sold on (8)
+	Knockoff Leash : Sale Price ($14.325108012831363) : Sold on (8)
+	NameBrand Litter : Sale Price ($20.51138095469221) : Sold on (8)
+	Knockoff Leash : Sale Price ($2.4822957255390237) : Sold on (8)
+	Knockoff Litter : Sale Price ($20.302500332459765) : Sold on (8)
+	Knockoff food : Sale Price ($17.41571060859903) : Sold on (9)
+	Sir Purrington : Sale Price ($117.90821629989725) : Sold on (9)
+	Knockoff Litter : Sale Price ($22.91520367893602) : Sold on (9)
+	Knockoff Litter : Sale Price ($33.08162038006822) : Sold on (9)
+	Joey : Sale Price ($78.77252204350651) : Sold on (9)
+	Boo : Sale Price ($135.8918112530496) : Sold on (9)
+	Knockoff Leash : Sale Price ($20.078653589748278) : Sold on (9)
+	Petkit food : Sale Price ($14.003836742858297) : Sold on (9)
+	Bob : Sale Price ($74.61943771856541) : Sold on (9)
+	Sir Purrington : Sale Price ($96.7997629439761) : Sold on (10)
+	NameBrand Litter : Sale Price ($27.721647602762165) : Sold on (10)
+	Bod : Sale Price ($79.7599208866909) : Sold on (10)
+	Petkit food : Sale Price ($28.560538568975872) : Sold on (11)
+	NameBrand Litter : Sale Price ($26.345354700666928) : Sold on (11)
+	Birdy : Sale Price ($85.60544858616583) : Sold on (11)
+	Petkit food : Sale Price ($21.99415725857932) : Sold on (11)
+	Joy : Sale Price ($114.2764179651571) : Sold on (11)
+	Watson : Sale Price ($64.49079375495533) : Sold on (11)
+	NameBrand Litter : Sale Price ($24.141817993497405) : Sold on (11)
+	NameBrand Litter : Sale Price ($20.035886480385365) : Sold on (12)
+	Fancy Leash : Sale Price ($9.423604316277137) : Sold on (12)
+	Petkit food : Sale Price ($18.00421119924291) : Sold on (12)
+	Knockoff Litter : Sale Price ($36.526251237013255) : Sold on (12)
+	NameBrand Litter : Sale Price ($29.335727254363224) : Sold on (12)
+	Knockoff Leash : Sale Price ($12.611370260644199) : Sold on (12)
+	Boo : Sale Price ($46.54989708337372) : Sold on (12)
+	Fido : Sale Price ($163.99592350214652) : Sold on (15)
+	Buddy : Sale Price ($65.18866890677435) : Sold on (15)
+	Joy : Sale Price ($162.90155890113542) : Sold on (15)
+	Bod : Sale Price ($154.22596988510514) : Sold on (15)
+	Knockoff Litter : Sale Price ($20.419518831588974) : Sold on (16)
+	Knockoff Litter : Sale Price ($25.538507830889333) : Sold on (16)
+	Boo : Sale Price ($165.42185348050947) : Sold on (16)
+	Birdy : Sale Price ($122.21726388278992) : Sold on (16)
+	Petkit food : Sale Price ($20.41958650166448) : Sold on (16)
+	Kitty : Sale Price ($48.314657229763895) : Sold on (17)
+	Kitty : Sale Price ($163.02917017497344) : Sold on (17)
+	Kitty : Sale Price ($84.88769027378498) : Sold on (17)
+	NameBrand Litter : Sale Price ($37.58287754337386) : Sold on (17)
+	Knockoff Litter : Sale Price ($32.09335208658038) : Sold on (17)
+	Knockoff Leash : Sale Price ($8.54197830457675) : Sold on (18)
+	Birdy : Sale Price ($57.10899553883954) : Sold on (18)
+	Fancy Leash : Sale Price ($12.92964805475535) : Sold on (18)
+	Knockoff food : Sale Price ($17.756319481950595) : Sold on (18)
+	Knockoff food : Sale Price ($12.215959071603233) : Sold on (18)
+	Sir Purrington : Sale Price ($166.06376724100497) : Sold on (18)
+	Knockoff Leash : Sale Price ($7.197667635694542) : Sold on (19)
+	NameBrand Litter : Sale Price ($25.09408702351107) : Sold on (19)
+	Birdy : Sale Price ($139.98163289854946) : Sold on (19)
+	Knockoff Leash : Sale Price ($11.581665033323562) : Sold on (20)
+	Petkit food : Sale Price ($15.409916973426789) : Sold on (20)
+	Knockoff Litter : Sale Price ($25.945219432595138) : Sold on (20)
+	Knockoff Litter : Sale Price ($26.303219183069324) : Sold on (21)
+	Fido : Sale Price ($141.09548501698222) : Sold on (21)
+	Bod : Sale Price ($155.870126040613) : Sold on (21)
+	Kitty : Sale Price ($166.40590203916477) : Sold on (21)
+	Fancy Leash : Sale Price ($2.801157700768839) : Sold on (21)
+	NameBrand Litter : Sale Price ($18.854793884465643) : Sold on (21)
+	Knockoff Litter : Sale Price ($31.203435505811257) : Sold on (21)
+	Joy : Sale Price ($70.58202978527636) : Sold on (21)
+	NameBrand Litter : Sale Price ($29.320672531801563) : Sold on (21)
+	Zera : Sale Price ($165.93055107545285) : Sold on (22)
+	Petkit food : Sale Price ($11.45557267863287) : Sold on (22)
+	Knockoff Litter : Sale Price ($29.71247807348534) : Sold on (22)
+	Knockoff Litter : Sale Price ($32.037829336050976) : Sold on (22)
+	NameBrand Litter : Sale Price ($21.64179670405082) : Sold on (22)
+	NameBrand Litter : Sale Price ($29.808828325691806) : Sold on (22)
+	Knockoff Leash : Sale Price ($11.363969268928226) : Sold on (22)
+	Fancy Leash : Sale Price ($13.865570915871468) : Sold on (22)
+	Zera : Sale Price ($95.83035060840693) : Sold on (22)
+	Knockoff food : Sale Price ($16.73456375348179) : Sold on (23)
+	Knockoff Litter : Sale Price ($34.001400971096736) : Sold on (23)
+	Knockoff Leash : Sale Price ($13.508435712498239) : Sold on (23)
+	Fido : Sale Price ($133.98566663191457) : Sold on (23)
+	Fido : Sale Price ($165.65158462843885) : Sold on (23)
+	Watson : Sale Price ($128.58890578114253) : Sold on (24)
+	Sir Purrington : Sale Price ($107.28925173845546) : Sold on (24)
+	Joy : Sale Price ($51.288669558291886) : Sold on (24)
+	Fancy Leash : Sale Price ($18.61122111955378) : Sold on (24)
+	Knockoff Litter : Sale Price ($33.84197584944866) : Sold on (25)
+	Zera : Sale Price ($95.26897375264961) : Sold on (25)
+	Birdy : Sale Price ($99.61197594630569) : Sold on (26)
+	Boo : Sale Price ($146.76526893980466) : Sold on (26)
+	Knockoff Litter : Sale Price ($34.1232097486506) : Sold on (26)
+	Joey : Sale Price ($67.12013976229639) : Sold on (26)
+	Birdy : Sale Price ($160.86330982828125) : Sold on (26)
+	Petkit food : Sale Price ($15.576740400214087) : Sold on (26)
+	Petkit food : Sale Price ($23.789858521960426) : Sold on (26)
+	Knockoff food : Sale Price ($15.753823637407125) : Sold on (26)
+	NameBrand Litter : Sale Price ($25.419073748750574) : Sold on (27)
+	Knockoff Litter : Sale Price ($21.98609518924126) : Sold on (27)
+	Kitty : Sale Price ($87.73702254072607) : Sold on (27)
+	Birdy : Sale Price ($156.43053571340175) : Sold on (27)
+	NameBrand Litter : Sale Price ($34.59878858761316) : Sold on (27)
+	Knockoff food : Sale Price ($17.340805051790205) : Sold on (27)
+	Joy : Sale Price ($98.32543143945338) : Sold on (27)
+	Fido : Sale Price ($102.80552788066208) : Sold on (27)
+	Fancy Leash : Sale Price ($13.08658810067098) : Sold on (28)
+	NameBrand Litter : Sale Price ($30.527121399903727) : Sold on (28)
+	NameBrand Litter : Sale Price ($25.756520776519032) : Sold on (28)
+	NameBrand Litter : Sale Price ($31.4976973667892) : Sold on (28)
+	NameBrand Litter : Sale Price ($33.737430885239945) : Sold on (28)
+	NameBrand Litter : Sale Price ($31.27036263615574) : Sold on (28)
+	Watson : Sale Price ($169.0000228226609) : Sold on (28)
+	Kitty : Sale Price ($46.36885826383915) : Sold on (28)
+	NameBrand Litter : Sale Price ($30.087004880993344) : Sold on (29)
+	Bod : Sale Price ($120.11035291498811) : Sold on (29)
+	Fancy Leash : Sale Price ($15.74718315836033) : Sold on (29)
+	NameBrand Litter : Sale Price ($27.497669984739613) : Sold on (29)
+	NameBrand Litter : Sale Price ($30.12669048610375) : Sold on (29)
+	Knockoff Leash : Sale Price ($10.690704292751715) : Sold on (29)
+	Knockoff Leash : Sale Price ($9.357811701685941) : Sold on (29)
+	Knockoff food : Sale Price ($18.173037172764168) : Sold on (29)
+	Petkit food : Sale Price ($21.113908337870473) : Sold on (30)
+	Bob : Sale Price ($157.18193437110256) : Sold on (30)
+	Knockoff Litter : Sale Price ($34.49930679001396) : Sold on (30)
+	Fido : Sale Price ($94.90797931896796) : Sold on (30)
+	Fido : Sale Price ($89.92360537499181) : Sold on (30)
+	NameBrand Litter : Sale Price ($29.11607881701626) : Sold on (30)
+	Kitty : Sale Price ($153.03707916807213) : Sold on (30)
+	Bod : Sale Price ($135.36580689644182) : Sold on (30)
+Sick in the store: 
+	Watson
