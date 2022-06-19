@@ -316,7 +316,7 @@ public class Store {
         }
     }
 
-    // Decorator Pattern 
+    // Decorator Pattern for add on itmes
     // Wrap item with add on items
     Item addOnItems(Item item) {
 
@@ -334,11 +334,11 @@ public class Store {
             }
 
             // 25% chance customer will be buy pre paid vet visits
-            // will buy 1 to 4 buy change
+            
             if (Math.random() < 0.25) {
 
-                int max_prepaid = 4;
-                int min_prepaid = 1 ;
+                int max_prepaid = 4; // max number to be bought 
+                int min_prepaid = 1 ; // min to be bought
                 // get a int from min_prepaid to max_prepaid randomly
                 int number_prepaid = (int)(  Math.random()  * (max_prepaid - min_prepaid) + min_prepaid); 
 
