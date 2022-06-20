@@ -194,6 +194,7 @@ public class Store {
 
     public void trainerTasks() {
         feedAnimals();
+        trainAnimals();
     }
 
     public void increaseAge() {
@@ -315,6 +316,16 @@ public class Store {
             items.remove(p);
         }
     }
+
+
+    public void trainAnimals() {
+
+        System.out.println(trainer.getName() + " is training the animals.");
+        trainer.trainAnimals(this.items);
+
+    }
+
+
 
     // Decorator Pattern for add on itmes
     // Wrap item with add on items

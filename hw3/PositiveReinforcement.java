@@ -19,4 +19,10 @@ public class PositiveReinforcement implements TrainingAlgorithm {
         }
         return isHousebroken;
     }
+
+
+    public String getTraningAlgoName() {
+        
+        return "Positive Reinforcement";
+    }
 }

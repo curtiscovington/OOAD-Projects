@@ -21,5 +21,8 @@ public class Haphazard implements TrainingAlgorithm {
 
     }
 
-    
+    public String getTraningAlgoName() {
+        
+        return "Haphazard";
+    }
 }

@@ -21,4 +21,10 @@ public class NegativeReinforcement implements TrainingAlgorithm {
         }
         return isHousebroken;
     }
+
+    public String getTraningAlgoName() {
+        
+        return "Negative Reinforcement";
+    }
+
 }
