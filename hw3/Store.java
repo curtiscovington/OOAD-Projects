@@ -194,6 +194,7 @@ public class Store {
 
     public void trainerTasks() {
         feedAnimals();
+        trainAnimals();
     }
 
     public void increaseAge() {
@@ -233,6 +234,7 @@ public class Store {
                 }
 
                 if (bought) {
+                    item = addOnItems(item);
                     sellItem(item);
                     break;
                 }
@@ -313,6 +315,51 @@ public class Store {
         for (Pet p : pets) {
             items.remove(p);
         }
+    }
+
+
+    public void trainAnimals() {
+
+        System.out.println(trainer.getName() + " is training the animals.");
+        trainer.trainAnimals(this.items);
+
+    }
+
+
+
+    // Decorator Pattern for add on itmes
+    // Wrap item with add on items
+    Item addOnItems(Item item) {
+
+        if (item instanceof Pet){  // 
+            // 50% chance customer will be buy microchip
+            if (Math.random() < 0.50) {
+                item = new Microchip(item, "Microchip", 50.00, 0);
+                item.setSalePrice(50.00);
+            }    
+
+            // 25% chance customer will be buy pet insurance
+            if (Math.random() < 0.25) {
+                item = new Insurance(item, "Pet Insurance", 50.00, 0);
+                item.setSalePrice(50.00);
+            }
+
+            // 25% chance customer will be buy pre paid vet visits
+            
+            if (Math.random() < 0.25) {
+
+                int max_prepaid = 4; // max number to be bought 
+                int min_prepaid = 1 ; // min to be bought
+                // get a int from min_prepaid to max_prepaid randomly
+                int number_prepaid = (int)(  Math.random()  * (max_prepaid - min_prepaid) + min_prepaid); 
+
+                item = new PrepaidVet(item, "Prepad Vet", 25.00, 0, number_prepaid);
+                item.setSalePrice(25.00);
+
+            }
+
+       }    
+        return item; 
     }
 
     void sellItem(Item item) {
