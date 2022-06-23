@@ -1,0 +1,8 @@
+ArriveAtStoreEvent: ( John the Clerk )
+ArriveAtStoreEvent: ( Sally the Clerk )
+ProcessDeliveriesEvent: ( John the Clerk ), itemsAdded: 0
+CheckRegisterEvent: ( John the Clerk ), amount: 1915.7088015855334
+DoInventoryEvent: ( John the Clerk ), pets: 11, supplies: 11, purchasePrice: 885.9211755900436
+( John the Clerk )
+LeaveStoreEvent: ( John the Clerk )
+LeaveStoreEvent: ( Sally the Clerk )

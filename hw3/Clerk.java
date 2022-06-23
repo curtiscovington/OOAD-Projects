@@ -58,7 +58,12 @@ public class Clerk extends Employee {
             }
         }
 
+        int totalPets = dogCount + catCount + birdCount + ferretCount + snakeCount;
+        int totalSupplies = leashCount + toyCount + foodCount + catLitterCount + treatCount;
+
         HashMap<String, Number> inventory = new HashMap<String, Number>();
+        inventory.put("pets", totalPets);
+        inventory.put("supplies", totalSupplies);
         inventory.put("dogs", dogCount);
         inventory.put("cats", catCount);
         inventory.put("snakes", snakeCount);
@@ -76,5 +81,10 @@ public class Clerk extends Employee {
 
     public Order placeOrder(Item item) {
         return new Order(item);
+    }
+
+    @Override
+    public String getEmployeeType() {
+        return "Clerk";
     }
 }

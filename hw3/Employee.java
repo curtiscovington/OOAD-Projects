@@ -35,5 +35,14 @@ public class Employee extends Person {
     public void takeDayOff() { 
         daysWorkedInARow = 0;
     }
+
+    public String getEmployeeType() {
+        return "Employee";
+    }
+
+    @Override
+    public String toString() {
+        return "Employee{" + "name=" + name + ", daysWorkedInARow=" + daysWorkedInARow + '}';
+    }
     
 }

@@ -1,0 +1,9 @@
+ArriveAtStoreEvent: ( John the Clerk )
+ArriveAtStoreEvent: ( Sally the Clerk )
+ProcessDeliveriesEvent: ( John the Clerk ), itemsAdded: 4
+CheckRegisterEvent: ( John the Clerk ), amount: 3353.9057084657125
+DoInventoryEvent: ( John the Clerk ), pets: 21, supplies: 39, purchasePrice: 1841.1340594365236
+( John the Clerk )
+AnimalEscapeEvent: ( Sally the Clerk ), pet: Coco
+LeaveStoreEvent: ( John the Clerk )
+LeaveStoreEvent: ( Sally the Clerk )

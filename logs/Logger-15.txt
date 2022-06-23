@@ -1,0 +1,11 @@
+ArriveAtStoreEvent: ( John the Clerk )
+ArriveAtStoreEvent: ( Timmy the Clerk )
+ProcessDeliveriesEvent: ( John the Clerk ), itemsAdded: 4
+CheckRegisterEvent: ( John the Clerk ), amount: 2918.3885279481433
+DoInventoryEvent: ( John the Clerk ), pets: 19, supplies: 40, purchasePrice: 1669.6242680821701
+( John the Clerk )
+AnimalEscapeEvent: ( Timmy the Clerk ), pet: Sir Purrington
+AnimalEscapeEvent: ( Timmy the Clerk ), pet: Bod
+AnimalEscapeEvent: ( Timmy the Clerk ), pet: NOPE
+LeaveStoreEvent: ( John the Clerk )
+LeaveStoreEvent: ( Timmy the Clerk )

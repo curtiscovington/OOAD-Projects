@@ -1,0 +1,9 @@
+ArriveAtStoreEvent: ( Jack the Clerk )
+ArriveAtStoreEvent: ( Timmy the Clerk )
+ProcessDeliveriesEvent: ( Jack the Clerk ), itemsAdded: 7
+CheckRegisterEvent: ( Jack the Clerk ), amount: 2824.341870886551
+DoInventoryEvent: ( Jack the Clerk ), pets: 21, supplies: 41, purchasePrice: 1799.7093856515253
+( Jack the Clerk )
+AnimalEscapeEvent: ( Timmy the Clerk ), pet: Lucas
+LeaveStoreEvent: ( Jack the Clerk )
+LeaveStoreEvent: ( Timmy the Clerk )

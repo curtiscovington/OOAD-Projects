@@ -1,0 +1,9 @@
+ArriveAtStoreEvent: ( Jack the Clerk )
+ArriveAtStoreEvent: ( Dianne the Clerk )
+ProcessDeliveriesEvent: ( Jack the Clerk ), itemsAdded: 2
+CheckRegisterEvent: ( Jack the Clerk ), amount: 4058.5251863091735
+DoInventoryEvent: ( Jack the Clerk ), pets: 14, supplies: 42, purchasePrice: 1485.6010619988679
+( Jack the Clerk )
+AnimalEscapeEvent: ( Dianne the Clerk ), pet: Buddy
+LeaveStoreEvent: ( Jack the Clerk )
+LeaveStoreEvent: ( Dianne the Clerk )

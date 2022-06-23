@@ -88,4 +88,9 @@ public class Trainer extends Employee {
             }
         }
     }
+
+    @Override
+    public String getEmployeeType() {
+        return "Clerk";
+    }
 }

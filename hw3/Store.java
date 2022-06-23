@@ -1,5 +1,6 @@
 package hw3;
 
+import java.beans.PropertyChangeSupport;
 import java.util.ArrayList;
 import java.util.HashMap;
 
@@ -13,6 +14,11 @@ public class Store {
     Clerk clerk;
 
     ArrayList<Order> orders = new ArrayList<Order>();
+
+    Logger logger;
+
+    // observable pattern for employee actions
+    PropertyChangeSupport employeeActionsObservable;
 
     int age = 0;
 
@@ -50,6 +56,7 @@ public class Store {
 
     // Constructor
     public Store() {
+        employeeActionsObservable = new PropertyChangeSupport(this);
         // three instances of each lowest subclass
         for (int i = 0; i < 3; i++) {
             addItem(Food.newRandomItem(0));
@@ -76,10 +83,12 @@ public class Store {
     public void arriveAtStore(Person p) {
         // if the person is an employee
         if (p instanceof Employee) {
+            employeeActionsObservable.firePropertyChange("arriveAtStore", null, new ArriveAtStoreEvent((Employee) p ));
             ((Employee) p).arriveAtStore();
             String name = ((Employee) p).getName();
             String employeeType;
             if (p instanceof Clerk) {
+                
                 employeeType = "Clerk";
                 clerk = (Clerk) p;
             } else {
@@ -95,6 +104,7 @@ public class Store {
     public void leaveStore(Person p) {
         // if the person is an employee
         if (p instanceof Employee) {
+            employeeActionsObservable.firePropertyChange("leaveStore", null, new LeaveStoreEvent((Employee) p ));
             String name = ((Employee) p).getName();
             String employeeType;
             if (p instanceof Clerk) {
@@ -128,10 +138,13 @@ public class Store {
     }
 
     public void clerkTasks() {
-        processDeliveries();
+        int itemsAdded = processDeliveries();
+        employeeActionsObservable.firePropertyChange("processDeliveries", null, new ProcessDeliveriesEvent(clerk, itemsAdded));
 
         // check the register
         double amount = clerk.checkRegister(cashRegister);
+        employeeActionsObservable.firePropertyChange("checkRegister", null, new CheckRegisterEvent(clerk, amount));
+
         System.out.println(
                 "Clerk " + clerk.getName() + " has checked the register and found that the total is $" + amount);
 
@@ -140,12 +153,17 @@ public class Store {
             amount = clerk.goToBank(1000);
             System.out.println("Clerk " + clerk.getName() + " has gone to the bank and withdrew $" + amount);
             cashRegister.deposit(amount);
+            
+            employeeActionsObservable.firePropertyChange("goToBank", null, new GoToBankEvent(clerk, cashRegister.getTotal()));
         }
 
         HashMap<String, Number> inventory = clerk.doInventory(items);
+
+        employeeActionsObservable.firePropertyChange("doInventory", null, new DoInventoryEvent(clerk, (int)inventory.get("pets"), (int)inventory.get("supplies"), (double)inventory.get("total")));
+        
         System.out.println(
                 "Clerk " + clerk.getName() + " has found the total of items in store are $" + inventory.get("total"));
-
+        int itemsOrdered = 0;
         for (String key : inventory.keySet()) {
             if (key != "total" && inventory.get(key).intValue() == 0) {
                 System.out.println("\t" + key);
@@ -161,6 +179,7 @@ public class Store {
                         orders.add(clerk.placeOrder(Dog.newRandomItem(-1)));
                         orders.add(clerk.placeOrder(Dog.newRandomItem(-1)));
                         orders.add(clerk.placeOrder(Dog.newRandomItem(-1)));
+                        itemsOrdered += 3;
                         break;
                     case "cats":
                         System.out.println("Clerk " + clerk.getName()
@@ -169,6 +188,7 @@ public class Store {
                         orders.add(clerk.placeOrder(Cat.newRandomItem(-1)));
                         orders.add(clerk.placeOrder(Cat.newRandomItem(-1)));
                         orders.add(clerk.placeOrder(Cat.newRandomItem(-1)));
+                        itemsOrdered += 3;
                         break;
                     case "birds":
                         System.out.println("Clerk " + clerk.getName()
@@ -177,6 +197,7 @@ public class Store {
                         orders.add(clerk.placeOrder(Bird.newRandomItem(-1)));
                         orders.add(clerk.placeOrder(Bird.newRandomItem(-1)));
                         orders.add(clerk.placeOrder(Bird.newRandomItem(-1)));
+                        itemsOrdered += 3;
                         break;
                     case "snakes":
                         System.out.println("Clerk " + clerk.getName()
@@ -185,6 +206,7 @@ public class Store {
                         orders.add(clerk.placeOrder(Snake.newRandomItem(-1)));
                         orders.add(clerk.placeOrder(Snake.newRandomItem(-1)));
                         orders.add(clerk.placeOrder(Snake.newRandomItem(-1)));
+                        itemsOrdered += 3;
                         break;
                     case "ferrets":
                         System.out.println("Clerk " + clerk.getName()
@@ -193,6 +215,7 @@ public class Store {
                         orders.add(clerk.placeOrder(Ferret.newRandomItem(-1)));
                         orders.add(clerk.placeOrder(Ferret.newRandomItem(-1)));
                         orders.add(clerk.placeOrder(Ferret.newRandomItem(-1)));
+                        itemsOrdered += 3;
                         break;
                     case "treats":
                         System.out.println("Clerk " + clerk.getName()
@@ -201,6 +224,7 @@ public class Store {
                         orders.add(clerk.placeOrder(Treat.newRandomItem(-1)));
                         orders.add(clerk.placeOrder(Treat.newRandomItem(-1)));
                         orders.add(clerk.placeOrder(Treat.newRandomItem(-1)));
+                        itemsOrdered += 3;
                         break;
                     case "food":
                         System.out.println("Clerk " + clerk.getName()
@@ -209,6 +233,7 @@ public class Store {
                         orders.add(clerk.placeOrder(Food.newRandomItem(-1)));
                         orders.add(clerk.placeOrder(Food.newRandomItem(-1)));
                         orders.add(clerk.placeOrder(Food.newRandomItem(-1)));
+                        itemsOrdered += 3;
                         break;
                     case "toys":
                         // orders.add(clerk.placeOrder(Toy.newRandomItem(-1)));
@@ -222,6 +247,7 @@ public class Store {
                         orders.add(clerk.placeOrder(Leash.newRandomItem(-1)));
                         orders.add(clerk.placeOrder(Leash.newRandomItem(-1)));
                         orders.add(clerk.placeOrder(Leash.newRandomItem(-1)));
+                        itemsOrdered += 3;
                         break;
                     case "cat litter":
                         System.out.println("Clerk " + clerk.getName()
@@ -230,10 +256,16 @@ public class Store {
                         orders.add(clerk.placeOrder(CatLitter.newRandomItem(-1)));
                         orders.add(clerk.placeOrder(CatLitter.newRandomItem(-1)));
                         orders.add(clerk.placeOrder(CatLitter.newRandomItem(-1)));
+                        itemsOrdered += 3;
                         break;
                 }
             }
         }
+
+        if (itemsOrdered > 0) {
+            employeeActionsObservable.firePropertyChange("placeAnOrder", null, new PlaceAnOrderEvent(clerk, itemsOrdered));
+        }
+
     }
 
     public void trainerTasks() {
@@ -243,6 +275,9 @@ public class Store {
 
     public void increaseAge() {
         age++;
+        employeeActionsObservable.removePropertyChangeListener(logger);
+        logger = new Logger(age);
+        employeeActionsObservable.addPropertyChangeListener(logger);
     }
 
     public void openStore(ArrayList<Customer> customers) {
@@ -296,6 +331,8 @@ public class Store {
                 System.out.println("Trainer " + trainer.getName() + " is cleaning the cage for " + item.getName());
                 // 5% chance of the pet will escape
                 if (Math.random() < 0.05) {
+                    // publish animal escaped event
+                    employeeActionsObservable.firePropertyChange("animalEscaped", null, new AnimalEscapeEvent(trainer, (Pet)item));
                     System.out.println("While cleaning, " + item.getName() + " has escaped!");
                     catchAnimal();
                 }
@@ -306,6 +343,8 @@ public class Store {
             System.out.println("Trainer " + trainer.getName() + " is cleaning the cage for " + pet.getName());
             // 5% chance of the pet will escape
             if (Math.random() < 0.05) {
+                // publish animal escaped event
+                employeeActionsObservable.firePropertyChange("animalEscaped", null, new AnimalEscapeEvent(trainer, pet));
                 System.out.println("While cleaning, " + pet.getName() + " has escaped!");
                 catchAnimal();
             }
@@ -414,8 +453,10 @@ public class Store {
         items.remove(item);
     }
 
-    void processDeliveries() {
+    // processes the deliveries and returns the number of items added to the store
+    int processDeliveries() {
         ArrayList<Order> ordersToRemove = new ArrayList<Order>();
+        int itemsAdded = 0;
         // process the orders
         for (Order order : orders) {
             Item item = order.checkForOrder();
@@ -423,6 +464,7 @@ public class Store {
                 item.setDayArrived(age);
                 // add the item to the items list
                 items.add(item);
+                itemsAdded++;
                 // remove the order from the orders list
                 ordersToRemove.add(order);
             }
@@ -431,5 +473,7 @@ public class Store {
         for (Order order : ordersToRemove) {
             orders.remove(order);
         }
+
+        return itemsAdded;
     }
 }

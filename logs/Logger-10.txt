@@ -1,0 +1,10 @@
+ArriveAtStoreEvent: ( Sarah the Clerk )
+ArriveAtStoreEvent: ( Dianne the Clerk )
+ProcessDeliveriesEvent: ( Sarah the Clerk ), itemsAdded: 18
+CheckRegisterEvent: ( Sarah the Clerk ), amount: 911.7302120337182
+DoInventoryEvent: ( Sarah the Clerk ), pets: 13, supplies: 24, purchasePrice: 1134.0309807792037
+( Sarah the Clerk )
+AnimalEscapeEvent: ( Dianne the Clerk ), pet: Sir Purrington
+AnimalEscapeEvent: ( Dianne the Clerk ), pet: Bob
+LeaveStoreEvent: ( Sarah the Clerk )
+LeaveStoreEvent: ( Dianne the Clerk )
