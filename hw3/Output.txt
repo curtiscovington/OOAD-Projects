@@ -1,0 +1,2483 @@
+(base) ➜  OOAD-Projects git:(main) ✗ java hw3.Simulation 
+Employee Jack the Clerk has arrived at the store.
+Employee Timmy the Trainer has arrived at the store.
+Clerk Jack has checked the register and found that the total is $0.0
+Clerk Jack has gone to the bank and withdrew $1000.0
+Clerk Jack has found the total of items in store are $1257.1591695677341
+	treats
+Clerk Jack has found that there are no more treats in store and has ordered 3 more for $84.0
+Timmy is feeding the animals.
+The pet Fido has become sick.
+The pet Snek has become sick.
+Timmy is training the animals.
+Trainer Timmy using Negative Reinforcement for Cat is now not housebroken
+Clerk Jack has opened the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Knockoff food
+Clerk Jack has sold Knockoff food for $14.387616045503627
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Knockoff Toy
+Clerk Jack has sold Knockoff Toy for $19.465429959636193
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Knockoff Litter
+Trainer Timmy has offered a 10% discount on Knockoff Leash
+Trainer Timmy has offered a 10% discount on Watson
+Trainer Timmy has offered a 10% discount on Boo
+Clerk Jack has sold Boo and 1 Prepad Vet for $123.83385008851137
+A customer has left the store.
+A customer has arrived at the store.
+Clerk Jack has sold Knockoff Litter for $26.86217628365185
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Knockoff Leash
+Clerk Jack has sold Knockoff Leash for $9.008023483524202
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Watson
+Trainer Timmy has offered a 10% discount on Boo
+Clerk Jack has sold Boo and Microchip for $148.83385008851138
+A customer has left the store.
+Trainer Timmy is cleaning the cage for Watson
+Trainer Timmy is cleaning the cage for Boo
+Trainer Timmy is cleaning the cage for Bod
+Trainer Timmy is cleaning the cage for Watson
+Trainer Timmy is cleaning the cage for Bod
+Trainer Timmy is cleaning the cage for Zera
+Trainer Timmy is cleaning the cage for Buddy
+Trainer Timmy is cleaning the cage for NOPE
+Trainer Timmy is cleaning the cage for Sir Purrington
+Trainer Timmy is cleaning the cage for Joy
+Trainer Timmy is cleaning the cage for Boo
+Trainer Timmy is cleaning the cage for Adams
+Trainer Timmy is cleaning the cage for Fido
+Trainer Timmy is cleaning the cage for Snek
+Trainer Timmy is cleaning the cage for Snek
+Clerk Jack is vacuuming the store.
+Clerk Jack has locked the store.
+Employee Jack the Clerk has left the store for the day.
+Employee Timmy the Trainer has left the store for the day.
+Tracker Day 1
+
+********************************************************
+*                                                      *
+*                                                      *
+	Clerks		Sold	Purchase Price
+	Jack		1	$13.431088141825924
+
+	Trainers	Sold	Purchase Price
+	Timmy		5	$98.81170527148001
+*                                                      *
+*                                                      *
+********************************************************
+
+Employee Dianne is sick.
+Employee Jack the Clerk has arrived at the store.
+Employee Sally the Trainer has arrived at the store.
+Clerk Jack has checked the register and found that the total is $1258.3909459493386
+Clerk Jack has found the total of items in store are $983.4657335088978
+	treats
+Clerk Jack has found that there are no more treats in store and has ordered 3 more for $195.0
+Sally is feeding the animals.
+The sick pet Snek has fully recovered.
+The pet Watson has become sick.
+The pet Sir Purrington has become sick.
+The pet Joy has become sick.
+Sally is training the animals.
+Trainer Sally using Positive Reinforcement for Cat is now housebroken
+Trainer Sally using Positive Reinforcement for Dog is now housebroken
+Clerk Jack has opened the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on Boo
+Clerk Jack has sold Boo and Microchip for $148.83385008851138
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on Boo
+Clerk Jack has sold Boo and Microchip for $148.83385008851138
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on Boo
+Clerk Jack has sold Boo for $98.83385008851137
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on Bod
+Clerk Jack has sold Bod and Microchip and Pet Insurance for $207.82608774950657
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on Bod
+Clerk Jack has sold Bod and Microchip for $157.82608774950657
+A customer has left the store.
+Trainer Sally is cleaning the cage for Bod
+Trainer Sally is cleaning the cage for Watson
+Trainer Sally is cleaning the cage for Bod
+Trainer Sally is cleaning the cage for Zera
+Trainer Sally is cleaning the cage for Buddy
+Trainer Sally is cleaning the cage for NOPE
+Trainer Sally is cleaning the cage for Boo
+Trainer Sally is cleaning the cage for Adams
+Trainer Sally is cleaning the cage for Fido
+Trainer Sally is cleaning the cage for Snek
+Trainer Sally is cleaning the cage for Watson
+Trainer Sally is cleaning the cage for Sir Purrington
+Trainer Sally is cleaning the cage for Joy
+Clerk Jack is vacuuming the store.
+Clerk Jack has locked the store.
+Employee Jack the Clerk has left the store for the day.
+Employee Sally the Trainer has left the store for the day.
+Tracker Day 2
+
+********************************************************
+*                                                      *
+*                                                      *
+	Clerks		Sold	Purchase Price
+	Jack		1	$13.431088141825924
+
+	Trainers	Sold	Purchase Price
+	Sally		5	$254.90769449361744
+	Timmy		5	$98.81170527148001
+*                                                      *
+*                                                      *
+********************************************************
+
+Employee John the Clerk has arrived at the store.
+Employee Dianne the Trainer has arrived at the store.
+Clerk John has checked the register and found that the total is $1825.5446717138857
+Clerk John has found the total of items in store are $708.6027446686373
+	treats
+Clerk John has found that there are no more treats in store and has ordered 3 more for $60.0
+Dianne is feeding the animals.
+Dianne is training the animals.
+Clerk John has opened the store.
+A customer has arrived at the store.
+Trainer Dianne has offered a 10% discount on Bod
+Clerk John has sold Bod and Microchip and Pet Insurance and 1 Prepad Vet for $232.82608774950657
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Dianne has offered a 10% discount on Bod
+Clerk John has sold Bod and Pet Insurance for $157.82608774950657
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Dianne has offered a 10% discount on Bod
+Clerk John has sold Bod and Microchip for $157.82608774950657
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Dianne has offered a 10% discount on Bod
+Clerk John has sold Bod and Microchip for $157.82608774950657
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Dianne has offered a 10% discount on Bod
+Trainer Dianne has offered a 10% discount on Knockoff Treat
+Trainer Dianne has offered a 10% discount on Knockoff food
+Clerk John has sold Knockoff food for $19.904569602619986
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Dianne has offered a 10% discount on Bod
+Clerk John has sold Bod and Pet Insurance and 1 Prepad Vet for $182.82608774950657
+A customer has left the store.
+Trainer Dianne is cleaning the cage for Bod
+Trainer Dianne is cleaning the cage for Watson
+Trainer Dianne is cleaning the cage for Bod
+Trainer Dianne is cleaning the cage for Zera
+Trainer Dianne is cleaning the cage for Buddy
+Trainer Dianne is cleaning the cage for NOPE
+Trainer Dianne is cleaning the cage for Boo
+Trainer Dianne is cleaning the cage for Adams
+Trainer Dianne is cleaning the cage for Fido
+Trainer Dianne is cleaning the cage for Snek
+Trainer Dianne is cleaning the cage for Watson
+Trainer Dianne is cleaning the cage for Sir Purrington
+Trainer Dianne is cleaning the cage for Joy
+Clerk John is vacuuming the store.
+Clerk John has locked the store.
+Employee John the Clerk has left the store for the day.
+Employee Dianne the Trainer has left the store for the day.
+Tracker Day 3
+
+********************************************************
+*                                                      *
+*                                                      *
+	Clerks		Sold	Purchase Price
+	Jack		1	$13.431088141825924
+
+	Trainers	Sold	Purchase Price
+	Dianne		6	$211.05809422367776
+	Sally		5	$254.90769449361744
+	Timmy		5	$98.81170527148001
+*                                                      *
+*                                                      *
+********************************************************
+
+Employee Sarah is sick.
+Employee Sarah the Clerk has arrived at the store.
+Employee Sally the Trainer has arrived at the store.
+Clerk Sarah has checked the register and found that the total is $2674.579680064039
+Clerk Sarah has found the total of items in store are $715.3332653785452
+	treats
+Clerk Sarah has found that there are no more treats in store and has ordered 3 more for $261.0
+Sally is feeding the animals.
+The sick pet Sir Purrington has fully recovered.
+Sally is training the animals.
+Clerk Sarah has opened the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on Bod
+Trainer Sally has offered a 10% discount on Knockoff Treat
+Clerk Sarah has sold Knockoff Treat for $18.182337089182845
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on Bod
+Clerk Sarah has sold Bod for $107.82608774950657
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on Knockoff Toy
+Trainer Sally has offered a 10% discount on Knockoff Litter
+Clerk Sarah has sold Knockoff Litter for $32.367792650553746
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on Knockoff Toy
+Clerk Sarah has sold Knockoff Toy for $20.876900766169648
+A customer has left the store.
+Trainer Sally is cleaning the cage for Watson
+Trainer Sally is cleaning the cage for Bod
+Trainer Sally is cleaning the cage for Zera
+Trainer Sally is cleaning the cage for Buddy
+Trainer Sally is cleaning the cage for NOPE
+Trainer Sally is cleaning the cage for Boo
+Trainer Sally is cleaning the cage for Adams
+Trainer Sally is cleaning the cage for Fido
+Trainer Sally is cleaning the cage for Snek
+Trainer Sally is cleaning the cage for Watson
+Trainer Sally is cleaning the cage for Joy
+Clerk Sarah is vacuuming the store.
+Clerk Sarah has locked the store.
+Employee Sarah the Clerk has left the store for the day.
+Employee Sally the Trainer has left the store for the day.
+Tracker Day 4
+
+********************************************************
+*                                                      *
+*                                                      *
+	Clerks		Sold	Purchase Price
+	Jack		1	$13.431088141825924
+
+	Trainers	Sold	Purchase Price
+	Dianne		6	$211.05809422367776
+	Sally		9	$354.492760191069
+	Timmy		5	$98.81170527148001
+*                                                      *
+*                                                      *
+********************************************************
+
+Employee Sarah the Clerk has arrived at the store.
+Employee Sally the Trainer has arrived at the store.
+Clerk Sarah has checked the register and found that the total is $2592.832798319452
+Clerk Sarah has found the total of items in store are $671.7158150703232
+	treats
+Clerk Sarah has found that there are no more treats in store and has ordered 3 more for $117.0
+Sally is feeding the animals.
+Sally is training the animals.
+Clerk Sarah has opened the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on Fancy Leash
+Clerk Sarah has sold Fancy Leash for $8.765887386475583
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on Watson
+Clerk Sarah has sold Watson and Microchip and Pet Insurance for $251.87803351544912
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on Watson
+Clerk Sarah has sold Watson for $151.87803351544912
+A customer has left the store.
+Trainer Sally is cleaning the cage for Bod
+Trainer Sally is cleaning the cage for Zera
+Trainer Sally is cleaning the cage for Buddy
+Trainer Sally is cleaning the cage for NOPE
+Trainer Sally is cleaning the cage for Boo
+Trainer Sally is cleaning the cage for Adams
+Trainer Sally is cleaning the cage for Fido
+Trainer Sally is cleaning the cage for Snek
+Trainer Sally is cleaning the cage for Watson
+Trainer Sally is cleaning the cage for Joy
+Clerk Sarah is vacuuming the store.
+Clerk Sarah has locked the store.
+Employee Sarah the Clerk has left the store for the day.
+Employee Sally the Trainer has left the store for the day.
+Tracker Day 5
+
+********************************************************
+*                                                      *
+*                                                      *
+	Clerks		Sold	Purchase Price
+	Jack		1	$13.431088141825924
+
+	Trainers	Sold	Purchase Price
+	Dianne		6	$211.05809422367776
+	Sally		12	$493.7393829143605
+	Timmy		5	$98.81170527148001
+*                                                      *
+*                                                      *
+********************************************************
+
+Employee Sarah the Clerk has arrived at the store.
+Employee Sally the Trainer has arrived at the store.
+Clerk Sarah has checked the register and found that the total is $2888.3547527368264
+Clerk Sarah has found the total of items in store are $617.7437645576658
+	treats
+Clerk Sarah has found that there are no more treats in store and has ordered 3 more for $120.0
+	cats
+Clerk Sarah has found that there are no more cats in store and has ordered 3 more for $255.0
+Sally is feeding the animals.
+Sally is training the animals.
+Clerk Sarah has opened the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on Bod
+Clerk Sarah has sold Bod for $154.0441830666562
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on Zera
+Clerk Sarah has sold Zera and Microchip and Pet Insurance for $156.2329238899079
+A customer has left the store.
+A customer has arrived at the store.
+Clerk Sarah has sold Zera for $62.48102654434212
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on Buddy
+Clerk Sarah has sold Buddy for $92.98618339352835
+A customer has left the store.
+Trainer Sally is cleaning the cage for NOPE
+Trainer Sally is cleaning the cage for Boo
+Trainer Sally is cleaning the cage for Adams
+Trainer Sally is cleaning the cage for Fido
+Trainer Sally is cleaning the cage for Snek
+While cleaning, Snek has escaped!
+Trainer Sally has caught the animal!
+Trainer Sally is cleaning the cage for Watson
+While cleaning, Watson has escaped!
+Trainer Sally has caught the animal!
+Trainer Sally is cleaning the cage for Joy
+Clerk Sarah is vacuuming the store.
+Clerk Sarah has locked the store.
+Employee Sarah the Clerk has left the store for the day.
+Employee Sally the Trainer has left the store for the day.
+Tracker Day 6
+
+********************************************************
+*                                                      *
+*                                                      *
+	Clerks		Sold	Purchase Price
+	Sarah		1	$31.24051327217106
+	Jack		1	$13.431088141825924
+
+	Trainers	Sold	Purchase Price
+	Dianne		6	$211.05809422367776
+	Sally		15	$680.9784753922407
+	Timmy		5	$98.81170527148001
+*                                                      *
+*                                                      *
+********************************************************
+
+Employee Jack the Clerk has arrived at the store.
+Employee Dianne the Trainer has arrived at the store.
+Clerk Jack has checked the register and found that the total is $2979.099069631261
+Clerk Jack has found the total of items in store are $522.7999307080453
+	treats
+Clerk Jack has found that there are no more treats in store and has ordered 3 more for $75.0
+	cats
+Clerk Jack has found that there are no more cats in store and has ordered 3 more for $213.0
+	dogs
+Clerk Jack has found that there are no more dogs in store and has ordered 3 more for $111.0
+Dianne is feeding the animals.
+Dianne is training the animals.
+Clerk Jack has opened the store.
+A customer has arrived at the store.
+Clerk Jack has sold NOPE and Microchip for $227.15100392544502
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Dianne has offered a 10% discount on NOPE
+Clerk Jack has sold NOPE and Microchip and Pet Insurance for $259.4359035329005
+A customer has left the store.
+A customer has arrived at the store.
+Clerk Jack has sold NOPE and Microchip for $227.15100392544502
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Dianne has offered a 10% discount on NOPE
+Clerk Jack has sold NOPE for $159.43590353290054
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Dianne has offered a 10% discount on NameBrand Treat
+Trainer Dianne has offered a 10% discount on Petkit food
+Clerk Jack has sold Petkit food for $24.162673761031648
+A customer has left the store.
+Trainer Dianne is cleaning the cage for Boo
+Trainer Dianne is cleaning the cage for Adams
+While cleaning, Adams has escaped!
+Trainer Dianne has caught the animal!
+Trainer Dianne is cleaning the cage for Fido
+Trainer Dianne is cleaning the cage for Snek
+Trainer Dianne is cleaning the cage for Watson
+Trainer Dianne is cleaning the cage for Joy
+Clerk Jack is vacuuming the store.
+Clerk Jack has locked the store.
+Employee Jack the Clerk has left the store for the day.
+Employee Dianne the Trainer has left the store for the day.
+Tracker Day 7
+
+********************************************************
+*                                                      *
+*                                                      *
+	Clerks		Sold	Purchase Price
+	Sarah		1	$31.24051327217106
+	Jack		1	$13.431088141825924
+
+	Trainers	Sold	Purchase Price
+	Dianne		11	$463.05730383141787
+	Sally		15	$680.9784753922407
+	Timmy		5	$98.81170527148001
+*                                                      *
+*                                                      *
+********************************************************
+
+Employee Sarah the Clerk has arrived at the store.
+Employee Timmy the Trainer has arrived at the store.
+Clerk Sarah has checked the register and found that the total is $3477.4355583089837
+Clerk Sarah has found the total of items in store are $547.6463279640429
+	snakes
+Clerk Sarah has found that there are no more snakes in store and has ordered 3 more for $111.0
+	food
+Clerk Sarah has found that there are no more food in store and has ordered 3 more for $132.0
+	treats
+Clerk Sarah has found that there are no more treats in store and has ordered 3 more for $198.0
+	dogs
+Clerk Sarah has found that there are no more dogs in store and has ordered 3 more for $141.0
+Timmy is feeding the animals.
+The sick pet Fido has fully recovered.
+Timmy is training the animals.
+Trainer Timmy using Negative Reinforcement for Cat is now housebroken
+Clerk Sarah has opened the store.
+A customer has arrived at the store.
+Clerk Sarah has sold NameBrand Treat for $21.805596888182396
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Knockoff Toy
+Clerk Sarah has sold Knockoff Toy for $22.609956466471488
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on NameBrand Litter
+Trainer Timmy has offered a 10% discount on Knockoff Leash
+Clerk Sarah has sold Knockoff Leash for $14.087200233320461
+A customer has left the store.
+Trainer Timmy is cleaning the cage for Boo
+Trainer Timmy is cleaning the cage for Adams
+While cleaning, Adams has escaped!
+Clerk Sarah has caught the animal!
+Trainer Timmy is cleaning the cage for Bob
+Trainer Timmy is cleaning the cage for Snek
+Trainer Timmy is cleaning the cage for Watson
+Trainer Timmy is cleaning the cage for Joy
+Clerk Sarah is vacuuming the store.
+Clerk Sarah has locked the store.
+Employee Sarah the Clerk has left the store for the day.
+Employee Timmy the Trainer has left the store for the day.
+Tracker Day 8
+
+********************************************************
+*                                                      *
+*                                                      *
+	Clerks		Sold	Purchase Price
+	Sarah		2	$42.14331171626226
+	Jack		1	$13.431088141825924
+
+	Trainers	Sold	Purchase Price
+	Dianne		11	$463.05730383141787
+	Sally		15	$680.9784753922407
+	Timmy		7	$119.1990145491422
+*                                                      *
+*                                                      *
+********************************************************
+
+Employee Jack the Clerk has arrived at the store.
+Employee Dianne the Trainer has arrived at the store.
+Clerk Jack has checked the register and found that the total is $2953.9383118969577
+Clerk Jack has found the total of items in store are $760.0669403438676
+	snakes
+Clerk Jack has found that there are no more snakes in store and has ordered 3 more for $273.0
+	leashes
+Clerk Jack has found that there are no more leashes in store and has ordered 3 more for $249.0
+	food
+Clerk Jack has found that there are no more food in store and has ordered 3 more for $258.0
+	treats
+Clerk Jack has found that there are no more treats in store and has ordered 3 more for $228.0
+Dianne is feeding the animals.
+The pet Boo has become sick.
+Dianne is training the animals.
+Clerk Jack has opened the store.
+A customer has arrived at the store.
+Trainer Dianne has offered a 10% discount on NameBrand Litter
+Clerk Jack has sold NameBrand Litter for $34.05868266976127
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Dianne has offered a 10% discount on Adams
+Clerk Jack has sold Adams and Microchip and 1 Prepad Vet for $191.03506912790738
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Dianne has offered a 10% discount on Adams
+Trainer Dianne has offered a 10% discount on NameBrand Treat
+Clerk Jack has sold NameBrand Treat for $33.2638355195163
+A customer has left the store.
+Trainer Dianne is cleaning the cage for Adams
+Trainer Dianne is cleaning the cage for Bob
+Trainer Dianne is cleaning the cage for Kitty
+Trainer Dianne is cleaning the cage for Bob
+Trainer Dianne is cleaning the cage for Fido
+Trainer Dianne is cleaning the cage for Snek
+Trainer Dianne is cleaning the cage for Watson
+Trainer Dianne is cleaning the cage for Joy
+Trainer Dianne is cleaning the cage for Boo
+Clerk Jack is vacuuming the store.
+Clerk Jack has locked the store.
+Employee Jack the Clerk has left the store for the day.
+Employee Dianne the Trainer has left the store for the day.
+Tracker Day 9
+
+********************************************************
+*                                                      *
+*                                                      *
+	Clerks		Sold	Purchase Price
+	Sarah		2	$42.14331171626226
+	Jack		1	$13.431088141825924
+
+	Trainers	Sold	Purchase Price
+	Dianne		14	$525.4587028254609
+	Sally		15	$680.9784753922407
+	Timmy		7	$119.1990145491422
+*                                                      *
+*                                                      *
+********************************************************
+
+Employee John is sick.
+Employee Jack the Clerk has arrived at the store.
+Employee Timmy the Trainer has arrived at the store.
+Clerk Jack has checked the register and found that the total is $2204.2958992141425
+Clerk Jack has found the total of items in store are $1070.226961473184
+	birds
+Clerk Jack has found that there are no more birds in store and has ordered 3 more for $192.0
+	leashes
+Clerk Jack has found that there are no more leashes in store and has ordered 3 more for $30.0
+	food
+Clerk Jack has found that there are no more food in store and has ordered 3 more for $270.0
+	treats
+Clerk Jack has found that there are no more treats in store and has ordered 3 more for $99.0
+	cat litter
+Clerk Jack has found that there are no more cat litter in store and has ordered 3 more for $216.0
+Timmy is feeding the animals.
+Timmy is training the animals.
+Trainer Timmy using Negative Reinforcement for Cat is now not housebroken
+Trainer Timmy using Negative Reinforcement for Cat is now housebroken
+Trainer Timmy using Negative Reinforcement for Dog is now housebroken
+Clerk Jack has opened the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Adams
+Clerk Jack has sold Adams and Microchip for $166.03506912790738
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Adams
+Trainer Timmy has offered a 10% discount on NameBrand Treat
+Clerk Jack has sold NameBrand Treat for $21.965998625782884
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Adams
+Clerk Jack has sold Adams and Pet Insurance and 3 Prepad Vet for $241.03506912790738
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Adams
+Clerk Jack has sold Knockoff Treat for $35.57722986717111
+A customer has left the store.
+Trainer Timmy is cleaning the cage for Adams
+Trainer Timmy is cleaning the cage for Bob
+Trainer Timmy is cleaning the cage for Kitty
+Trainer Timmy is cleaning the cage for Bob
+Trainer Timmy is cleaning the cage for Fido
+Trainer Timmy is cleaning the cage for Bob
+Trainer Timmy is cleaning the cage for Watson
+Trainer Timmy is cleaning the cage for Bod
+While cleaning, Bod has escaped!
+Trainer Timmy has caught the animal!
+Trainer Timmy is cleaning the cage for Snek
+Trainer Timmy is cleaning the cage for SnAKEEEEEEEE
+Trainer Timmy is cleaning the cage for NoooooooooOOo
+While cleaning, NoooooooooOOo has escaped!
+Clerk Jack has caught the animal!
+Trainer Timmy is cleaning the cage for Buddy
+Trainer Timmy is cleaning the cage for Snek
+Trainer Timmy is cleaning the cage for Watson
+Trainer Timmy is cleaning the cage for Joy
+Trainer Timmy is cleaning the cage for Boo
+Clerk Jack is vacuuming the store.
+Clerk Jack has locked the store.
+Employee Jack the Clerk has left the store for the day.
+Employee Timmy the Trainer has left the store for the day.
+Tracker Day 10
+
+********************************************************
+*                                                      *
+*                                                      *
+	Clerks		Sold	Purchase Price
+	Sarah		2	$42.14331171626226
+	Jack		2	$31.21970307541148
+
+	Trainers	Sold	Purchase Price
+	Dianne		14	$525.4587028254609
+	Sally		15	$680.9784753922407
+	Timmy		10	$206.40234711902156
+*                                                      *
+*                                                      *
+********************************************************
+
+Employee Sarah the Clerk has arrived at the store.
+Employee Timmy the Trainer has arrived at the store.
+Clerk Sarah has checked the register and found that the total is $1861.9092659629111
+Clerk Sarah has found the total of items in store are $1289.8415909331245
+	birds
+Clerk Sarah has found that there are no more birds in store and has ordered 3 more for $144.0
+	treats
+Clerk Sarah has found that there are no more treats in store and has ordered 3 more for $282.0
+	cat litter
+Clerk Sarah has found that there are no more cat litter in store and has ordered 3 more for $63.0
+Timmy is feeding the animals.
+The sick pet Boo has fully recovered.
+Timmy is training the animals.
+Trainer Timmy using Negative Reinforcement for Cat is now not housebroken
+Trainer Timmy using Negative Reinforcement for Dog is now housebroken
+Trainer Timmy using Negative Reinforcement for Cat is now housebroken
+Trainer Timmy using Negative Reinforcement for Dog is now not housebroken
+Clerk Sarah has opened the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Adams
+Clerk Sarah has sold Adams and Pet Insurance and 1 Prepad Vet for $191.03506912790738
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Adams
+Trainer Timmy has offered a 10% discount on NameBrand Treat
+Clerk Sarah has sold NameBrand Treat for $35.81757027819086
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Adams
+Clerk Sarah has sold Adams and Microchip for $166.03506912790738
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Adams
+Clerk Sarah has sold Adams and Pet Insurance for $166.03506912790738
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Adams
+Clerk Sarah has sold Adams and Microchip and 1 Prepad Vet for $191.03506912790738
+A customer has left the store.
+Trainer Timmy is cleaning the cage for Adams
+Trainer Timmy is cleaning the cage for Bob
+Trainer Timmy is cleaning the cage for Kitty
+Trainer Timmy is cleaning the cage for Bob
+Trainer Timmy is cleaning the cage for Fido
+Trainer Timmy is cleaning the cage for Bob
+Trainer Timmy is cleaning the cage for Watson
+Trainer Timmy is cleaning the cage for Bod
+Trainer Timmy is cleaning the cage for Snek
+Trainer Timmy is cleaning the cage for SnAKEEEEEEEE
+Trainer Timmy is cleaning the cage for NoooooooooOOo
+Trainer Timmy is cleaning the cage for Buddy
+While cleaning, Buddy has escaped!
+Trainer Timmy has caught the animal!
+Trainer Timmy is cleaning the cage for Sir Purrington
+Trainer Timmy is cleaning the cage for Fido
+Trainer Timmy is cleaning the cage for Bod
+Trainer Timmy is cleaning the cage for Snek
+Trainer Timmy is cleaning the cage for Watson
+Trainer Timmy is cleaning the cage for Joy
+Clerk Sarah is vacuuming the store.
+Clerk Sarah has locked the store.
+Employee Sarah the Clerk has left the store for the day.
+Employee Timmy the Trainer has left the store for the day.
+Tracker Day 11
+
+********************************************************
+*                                                      *
+*                                                      *
+	Clerks		Sold	Purchase Price
+	Sarah		2	$42.14331171626226
+	Jack		2	$31.21970307541148
+
+	Trainers	Sold	Purchase Price
+	Dianne		14	$525.4587028254609
+	Sally		15	$680.9784753922407
+	Timmy		15	$376.300997273572
+*                                                      *
+*                                                      *
+********************************************************
+
+Employee Sarah is sick.
+Employee Jack the Clerk has arrived at the store.
+Employee Timmy the Trainer has arrived at the store.
+Clerk Jack has checked the register and found that the total is $2122.8671127527314
+Clerk Jack has found the total of items in store are $1576.5318328023982
+	treats
+Clerk Jack has found that there are no more treats in store and has ordered 3 more for $45.0
+Timmy is feeding the animals.
+Timmy is training the animals.
+Trainer Timmy using Negative Reinforcement for Dog is now housebroken
+Trainer Timmy using Negative Reinforcement for Cat is now not housebroken
+Clerk Jack has opened the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Adams
+Clerk Jack has sold Adams for $116.03506912790739
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Knockoff Treat
+Clerk Jack has sold Knockoff Treat for $23.43252307830792
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Knockoff Treat
+Clerk Jack has sold Knockoff Treat for $20.249872846625326
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on NameBrand Treat
+Trainer Timmy has offered a 10% discount on Knockoff Treat
+Clerk Jack has sold Knockoff Treat for $29.693273750538125
+A customer has left the store.
+A customer has arrived at the store.
+Clerk Jack has sold NameBrand Treat for $23.60193499721005
+A customer has left the store.
+Trainer Timmy is cleaning the cage for Bob
+Trainer Timmy is cleaning the cage for Kitty
+Trainer Timmy is cleaning the cage for Bob
+Trainer Timmy is cleaning the cage for Fido
+Trainer Timmy is cleaning the cage for Bob
+Trainer Timmy is cleaning the cage for Watson
+Trainer Timmy is cleaning the cage for Bod
+While cleaning, Bod has escaped!
+Trainer Timmy has caught the animal!
+Trainer Timmy is cleaning the cage for Snek
+Trainer Timmy is cleaning the cage for SnAKEEEEEEEE
+Trainer Timmy is cleaning the cage for NoooooooooOOo
+While cleaning, NoooooooooOOo has escaped!
+Clerk Jack has caught the animal!
+Trainer Timmy is cleaning the cage for Buddy
+Trainer Timmy is cleaning the cage for Sir Purrington
+Trainer Timmy is cleaning the cage for Fido
+Trainer Timmy is cleaning the cage for Bod
+Trainer Timmy is cleaning the cage for Buddy
+Trainer Timmy is cleaning the cage for Noperino
+Trainer Timmy is cleaning the cage for SnAKEEEEEEEE
+Trainer Timmy is cleaning the cage for Birdy
+Trainer Timmy is cleaning the cage for Snek
+Trainer Timmy is cleaning the cage for Watson
+Trainer Timmy is cleaning the cage for Joy
+Clerk Jack is vacuuming the store.
+Clerk Jack has locked the store.
+Employee Jack the Clerk has left the store for the day.
+Employee Timmy the Trainer has left the store for the day.
+Tracker Day 12
+
+********************************************************
+*                                                      *
+*                                                      *
+	Clerks		Sold	Purchase Price
+	Sarah		2	$42.14331171626226
+	Jack		3	$43.020670574016506
+
+	Trainers	Sold	Purchase Price
+	Dianne		14	$525.4587028254609
+	Sally		15	$680.9784753922407
+	Timmy		19	$481.52918549767134
+*                                                      *
+*                                                      *
+********************************************************
+
+Employee John the Clerk has arrived at the store.
+Employee Sally the Trainer has arrived at the store.
+Clerk John has checked the register and found that the total is $2290.87978655332
+Clerk John has found the total of items in store are $1751.4402407856826
+	treats
+Clerk John has found that there are no more treats in store and has ordered 3 more for $198.0
+	ferrets
+Clerk John has found that there are no more ferrets in store and has ordered 3 more for $87.0
+Sally is feeding the animals.
+The sick pet Snek has fully recovered.
+The pet Birdy has become sick.
+Sally is training the animals.
+Trainer Sally using Positive Reinforcement for Cat is now housebroken
+Trainer Sally using Positive Reinforcement for Cat is now housebroken
+Trainer Sally using Positive Reinforcement for Cat is now housebroken
+Trainer Sally using Positive Reinforcement for Dog is now housebroken
+Clerk John has opened the store.
+A customer has arrived at the store.
+Clerk John has sold Knockoff Treat for $37.5566180317819
+A customer has left the store.
+A customer has arrived at the store.
+Clerk John has sold Knockoff Treat for $32.561144135676514
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on NameBrand Treat
+Clerk John has sold NameBrand Treat for $30.8682186437512
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on NameBrand Treat
+Trainer Sally has offered a 10% discount on Knockoff Treat
+Clerk John has sold Knockoff Treat for $22.434498367779536
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on NameBrand Treat
+Clerk John has sold NameBrand Treat for $31.009073293019824
+A customer has left the store.
+Trainer Sally is cleaning the cage for Bob
+Trainer Sally is cleaning the cage for Kitty
+Trainer Sally is cleaning the cage for Bob
+Trainer Sally is cleaning the cage for Fido
+Trainer Sally is cleaning the cage for Bob
+Trainer Sally is cleaning the cage for Watson
+Trainer Sally is cleaning the cage for Bod
+Trainer Sally is cleaning the cage for Snek
+Trainer Sally is cleaning the cage for SnAKEEEEEEEE
+Trainer Sally is cleaning the cage for NoooooooooOOo
+Trainer Sally is cleaning the cage for Buddy
+Trainer Sally is cleaning the cage for Sir Purrington
+Trainer Sally is cleaning the cage for Fido
+Trainer Sally is cleaning the cage for Bod
+Trainer Sally is cleaning the cage for Buddy
+Trainer Sally is cleaning the cage for Noperino
+Trainer Sally is cleaning the cage for SnAKEEEEEEEE
+Trainer Sally is cleaning the cage for SnAKEEEEEEEE
+Trainer Sally is cleaning the cage for Zera
+Trainer Sally is cleaning the cage for Boo
+Trainer Sally is cleaning the cage for Boo
+Trainer Sally is cleaning the cage for Watson
+Trainer Sally is cleaning the cage for Joy
+Trainer Sally is cleaning the cage for Birdy
+Clerk John is vacuuming the store.
+Clerk John has locked the store.
+Employee John the Clerk has left the store for the day.
+Employee Sally the Trainer has left the store for the day.
+Tracker Day 13
+
+********************************************************
+*                                                      *
+*                                                      *
+	Clerks		Sold	Purchase Price
+	John		2	$35.058881083729204
+	Sarah		2	$42.14331171626226
+	Jack		3	$43.020670574016506
+
+	Trainers	Sold	Purchase Price
+	Dianne		14	$525.4587028254609
+	Sally		18	$727.8183588947688
+	Timmy		19	$481.52918549767134
+*                                                      *
+*                                                      *
+********************************************************
+
+Employee Sarah the Clerk has arrived at the store.
+Employee Sally the Trainer has arrived at the store.
+Clerk Sarah has checked the register and found that the total is $2160.3093390253293
+Clerk Sarah has found the total of items in store are $1885.456500106292
+	treats
+Clerk Sarah has found that there are no more treats in store and has ordered 3 more for $45.0
+	ferrets
+Clerk Sarah has found that there are no more ferrets in store and has ordered 3 more for $48.0
+Sally is feeding the animals.
+The sick pet Birdy has fully recovered.
+Sally is training the animals.
+Clerk Sarah has opened the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on Knockoff Treat
+Clerk Sarah has sold Knockoff Treat for $18.747569394115963
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on Knockoff Treat
+Clerk Sarah has sold Knockoff Treat for $20.71330179128843
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on NameBrand Treat
+Trainer Sally has offered a 10% discount on Bob
+Clerk Sarah has sold Bob and Microchip and 2 Prepad Vet for $278.0241017474914
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on NameBrand Treat
+Trainer Sally has offered a 10% discount on Bob
+Clerk Sarah has sold Bob and Microchip for $228.0241017474914
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on NameBrand Treat
+Trainer Sally has offered a 10% discount on Bob
+Clerk Sarah has sold Bob and Microchip for $228.0241017474914
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on NameBrand Treat
+Clerk Sarah has sold NameBrand Treat for $29.584688815948063
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on Bob
+Clerk Sarah has sold Bob for $178.0241017474914
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on NameBrand Treat
+Clerk Sarah has sold NameBrand Treat for $20.670830454433332
+A customer has left the store.
+Trainer Sally is cleaning the cage for Kitty
+Trainer Sally is cleaning the cage for Bob
+Trainer Sally is cleaning the cage for Fido
+Trainer Sally is cleaning the cage for Bob
+Trainer Sally is cleaning the cage for Watson
+Trainer Sally is cleaning the cage for Bod
+Trainer Sally is cleaning the cage for Snek
+While cleaning, Snek has escaped!
+Trainer Sally has caught the animal!
+Trainer Sally is cleaning the cage for SnAKEEEEEEEE
+Trainer Sally is cleaning the cage for NoooooooooOOo
+Trainer Sally is cleaning the cage for Buddy
+Trainer Sally is cleaning the cage for Sir Purrington
+Trainer Sally is cleaning the cage for Fido
+Trainer Sally is cleaning the cage for Bod
+Trainer Sally is cleaning the cage for Buddy
+Trainer Sally is cleaning the cage for Noperino
+Trainer Sally is cleaning the cage for SnAKEEEEEEEE
+Trainer Sally is cleaning the cage for SnAKEEEEEEEE
+Trainer Sally is cleaning the cage for Zera
+Trainer Sally is cleaning the cage for Boo
+Trainer Sally is cleaning the cage for Boo
+Trainer Sally is cleaning the cage for Zera
+Trainer Sally is cleaning the cage for Zera
+Trainer Sally is cleaning the cage for Watson
+Trainer Sally is cleaning the cage for Joy
+While cleaning, Joy has escaped!
+Clerk Sarah has caught the animal!
+Clerk Sarah is vacuuming the store.
+Clerk Sarah has locked the store.
+Employee Sarah the Clerk has left the store for the day.
+Employee Sally the Trainer has left the store for the day.
+Tracker Day 14
+
+********************************************************
+*                                                      *
+*                                                      *
+	Clerks		Sold	Purchase Price
+	John		2	$35.058881083729204
+	Sarah		2	$42.14331171626226
+	Jack		3	$43.020670574016506
+
+	Trainers	Sold	Purchase Price
+	Dianne		14	$525.4587028254609
+	Sally		26	$1001.5630767854783
+	Timmy		19	$481.52918549767134
+*                                                      *
+*                                                      *
+********************************************************
+
+Employee Sarah the Clerk has arrived at the store.
+Employee Timmy the Trainer has arrived at the store.
+Clerk Sarah has checked the register and found that the total is $3069.1221364710805
+Clerk Sarah has found the total of items in store are $1893.2676708426732
+	treats
+Clerk Sarah has found that there are no more treats in store and has ordered 3 more for $177.0
+Timmy is feeding the animals.
+The pet SnAKEEEEEEEE has become sick.
+Timmy is training the animals.
+Trainer Timmy using Negative Reinforcement for Dog is now not housebroken
+Trainer Timmy using Negative Reinforcement for Dog is now not housebroken
+Clerk Sarah has opened the store.
+A customer has arrived at the store.
+Clerk Sarah has sold Knockoff Treat for $30.816967552001287
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on NameBrand Treat
+Clerk Sarah has sold NameBrand Treat for $32.02722254292741
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Kitty
+Clerk Sarah has sold Kitty and 2 Prepad Vet for $131.30326598315685
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Kitty
+Trainer Timmy has offered a 10% discount on Knockoff Treat
+Clerk Sarah has sold Knockoff Treat for $28.893630432514044
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Kitty
+Trainer Timmy has offered a 10% discount on NameBrand Treat
+Trainer Timmy has offered a 10% discount on Bob
+Trainer Timmy has offered a 10% discount on Fido
+Clerk Sarah has sold Fido and Microchip for $104.83629810160834
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Kitty
+Clerk Sarah has sold Kitty and Microchip and Pet Insurance for $181.30326598315685
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Kitty
+Clerk Sarah has sold Kitty and Pet Insurance for $131.30326598315685
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Kitty
+Clerk Sarah has sold Kitty and Pet Insurance for $131.30326598315685
+A customer has left the store.
+Trainer Timmy is cleaning the cage for Kitty
+Trainer Timmy is cleaning the cage for Bob
+Trainer Timmy is cleaning the cage for Fido
+Trainer Timmy is cleaning the cage for Bob
+Trainer Timmy is cleaning the cage for Watson
+Trainer Timmy is cleaning the cage for Bod
+Trainer Timmy is cleaning the cage for Snek
+Trainer Timmy is cleaning the cage for NoooooooooOOo
+Trainer Timmy is cleaning the cage for Buddy
+Trainer Timmy is cleaning the cage for Sir Purrington
+Trainer Timmy is cleaning the cage for Fido
+Trainer Timmy is cleaning the cage for Bod
+Trainer Timmy is cleaning the cage for Buddy
+Trainer Timmy is cleaning the cage for Noperino
+Trainer Timmy is cleaning the cage for SnAKEEEEEEEE
+Trainer Timmy is cleaning the cage for SnAKEEEEEEEE
+Trainer Timmy is cleaning the cage for Zera
+Trainer Timmy is cleaning the cage for Boo
+Trainer Timmy is cleaning the cage for Boo
+Trainer Timmy is cleaning the cage for Zera
+Trainer Timmy is cleaning the cage for Zera
+While cleaning, Zera has escaped!
+Trainer Timmy has caught the animal!
+Trainer Timmy is cleaning the cage for Bod
+Trainer Timmy is cleaning the cage for Lucas
+Trainer Timmy is cleaning the cage for Watson
+Trainer Timmy is cleaning the cage for Joy
+Trainer Timmy is cleaning the cage for SnAKEEEEEEEE
+Clerk Sarah is vacuuming the store.
+Clerk Sarah has locked the store.
+Employee Sarah the Clerk has left the store for the day.
+Employee Timmy the Trainer has left the store for the day.
+Tracker Day 15
+
+********************************************************
+*                                                      *
+*                                                      *
+	Clerks		Sold	Purchase Price
+	John		2	$35.058881083729204
+	Sarah		3	$57.551795492262904
+	Jack		3	$43.020670574016506
+
+	Trainers	Sold	Purchase Price
+	Dianne		14	$525.4587028254609
+	Sally		26	$1001.5630767854783
+	Timmy		26	$740.374103817361
+*                                                      *
+*                                                      *
+********************************************************
+
+Employee John the Clerk has arrived at the store.
+Employee Timmy the Trainer has arrived at the store.
+Clerk John has checked the register and found that the total is $3663.9093190327594
+Clerk John has found the total of items in store are $2046.767079651614
+	treats
+Clerk John has found that there are no more treats in store and has ordered 3 more for $264.0
+Timmy is feeding the animals.
+Timmy is training the animals.
+Trainer Timmy using Negative Reinforcement for Dog is now housebroken
+Clerk John has opened the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Kitty
+Clerk John has sold Kitty and Microchip and Pet Insurance for $181.30326598315685
+A customer has left the store.
+A customer has arrived at the store.
+Clerk John has sold Kitty for $90.33696220350762
+A customer has left the store.
+A customer has arrived at the store.
+Clerk John has sold NameBrand Treat for $27.995094993820647
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Bob
+Clerk John has sold Bob for $168.01719237696085
+A customer has left the store.
+A customer has arrived at the store.
+Clerk John has sold Fido and Microchip and 2 Prepad Vet for $160.92922011289815
+A customer has left the store.
+Trainer Timmy is cleaning the cage for Fido
+Trainer Timmy is cleaning the cage for Bob
+Trainer Timmy is cleaning the cage for Watson
+Trainer Timmy is cleaning the cage for Bod
+Trainer Timmy is cleaning the cage for Snek
+Trainer Timmy is cleaning the cage for NoooooooooOOo
+Trainer Timmy is cleaning the cage for Buddy
+Trainer Timmy is cleaning the cage for Sir Purrington
+Trainer Timmy is cleaning the cage for Fido
+Trainer Timmy is cleaning the cage for Bod
+Trainer Timmy is cleaning the cage for Buddy
+Trainer Timmy is cleaning the cage for Noperino
+Trainer Timmy is cleaning the cage for SnAKEEEEEEEE
+Trainer Timmy is cleaning the cage for SnAKEEEEEEEE
+Trainer Timmy is cleaning the cage for Zera
+Trainer Timmy is cleaning the cage for Boo
+Trainer Timmy is cleaning the cage for Boo
+Trainer Timmy is cleaning the cage for Zera
+Trainer Timmy is cleaning the cage for Zera
+Trainer Timmy is cleaning the cage for Bod
+Trainer Timmy is cleaning the cage for Lucas
+Trainer Timmy is cleaning the cage for Adams
+Trainer Timmy is cleaning the cage for Adams
+Trainer Timmy is cleaning the cage for Bod
+Trainer Timmy is cleaning the cage for Watson
+Trainer Timmy is cleaning the cage for Joy
+Trainer Timmy is cleaning the cage for SnAKEEEEEEEE
+Clerk John is vacuuming the store.
+Clerk John has locked the store.
+Employee John the Clerk has left the store for the day.
+Employee Timmy the Trainer has left the store for the day.
+Tracker Day 16
+
+********************************************************
+*                                                      *
+*                                                      *
+	Clerks		Sold	Purchase Price
+	John		4	$94.22490968239335
+	Sarah		3	$57.551795492262904
+	Jack		3	$43.020670574016506
+
+	Trainers	Sold	Purchase Price
+	Dianne		14	$525.4587028254609
+	Sally		26	$1001.5630767854783
+	Timmy		29	$908.7169884712281
+*                                                      *
+*                                                      *
+********************************************************
+
+Employee Sarah is sick.
+Employee Jack the Clerk has arrived at the store.
+Employee Dianne the Trainer has arrived at the store.
+Clerk Jack has checked the register and found that the total is $4028.4910547031036
+Clerk Jack has found the total of items in store are $2025.4687988729393
+	treats
+Clerk Jack has found that there are no more treats in store and has ordered 3 more for $81.0
+Dianne is feeding the animals.
+The sick pet Watson has fully recovered.
+The pet SnAKEEEEEEEE has become sick.
+Dianne is training the animals.
+Trainer Dianne using Positive Reinforcement for Dog is now housebroken
+Clerk Jack has opened the store.
+A customer has arrived at the store.
+Clerk Jack has sold Fido and 1 Prepad Vet for $85.92922011289815
+A customer has left the store.
+A customer has arrived at the store.
+Clerk Jack has sold Fido and Microchip for $110.92922011289815
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Dianne has offered a 10% discount on Fido
+Clerk Jack has sold Fido and Microchip for $104.83629810160834
+A customer has left the store.
+A customer has arrived at the store.
+Clerk Jack has sold Fido for $60.92922011289815
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Dianne has offered a 10% discount on Bob
+Trainer Dianne has offered a 10% discount on Watson
+Clerk Jack has sold Watson and Microchip for $183.36821315059905
+A customer has left the store.
+Trainer Dianne is cleaning the cage for Bob
+Trainer Dianne is cleaning the cage for Watson
+Trainer Dianne is cleaning the cage for Bod
+Trainer Dianne is cleaning the cage for Snek
+Trainer Dianne is cleaning the cage for NoooooooooOOo
+Trainer Dianne is cleaning the cage for Buddy
+Trainer Dianne is cleaning the cage for Sir Purrington
+Trainer Dianne is cleaning the cage for Fido
+Trainer Dianne is cleaning the cage for Bod
+Trainer Dianne is cleaning the cage for Buddy
+Trainer Dianne is cleaning the cage for Noperino
+While cleaning, Noperino has escaped!
+Trainer Dianne has caught the animal!
+Trainer Dianne is cleaning the cage for SnAKEEEEEEEE
+Trainer Dianne is cleaning the cage for Zera
+While cleaning, Zera has escaped!
+Trainer Dianne has caught the animal!
+Trainer Dianne is cleaning the cage for Boo
+Trainer Dianne is cleaning the cage for Boo
+Trainer Dianne is cleaning the cage for Zera
+Trainer Dianne is cleaning the cage for Zera
+Trainer Dianne is cleaning the cage for Bod
+Trainer Dianne is cleaning the cage for Lucas
+Trainer Dianne is cleaning the cage for Adams
+Trainer Dianne is cleaning the cage for Adams
+Trainer Dianne is cleaning the cage for Bod
+Trainer Dianne is cleaning the cage for Joy
+Trainer Dianne is cleaning the cage for Joy
+Trainer Dianne is cleaning the cage for SnAKEEEEEEEE
+Trainer Dianne is cleaning the cage for SnAKEEEEEEEE
+Clerk Jack is vacuuming the store.
+Clerk Jack has locked the store.
+Employee Jack the Clerk has left the store for the day.
+Employee Dianne the Trainer has left the store for the day.
+Tracker Day 17
+
+********************************************************
+*                                                      *
+*                                                      *
+	Clerks		Sold	Purchase Price
+	John		4	$94.22490968239335
+	Sarah		3	$57.551795492262904
+	Jack		4	$73.48528063046558
+
+	Trainers	Sold	Purchase Price
+	Dianne		18	$700.4587028254609
+	Sally		26	$1001.5630767854783
+	Timmy		29	$908.7169884712281
+*                                                      *
+*                                                      *
+********************************************************
+
+Employee John the Clerk has arrived at the store.
+Employee Timmy the Trainer has arrived at the store.
+Clerk John has checked the register and found that the total is $4493.483226294005
+Clerk John has found the total of items in store are $1976.5482920616685
+	treats
+Clerk John has found that there are no more treats in store and has ordered 3 more for $69.0
+Timmy is feeding the animals.
+Timmy is training the animals.
+Trainer Timmy using Negative Reinforcement for Dog is now housebroken
+Clerk John has opened the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Bob
+Trainer Timmy has offered a 10% discount on Watson
+Clerk John has sold Watson for $133.36821315059905
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Bob
+Clerk John has sold Bob and Microchip for $127.68407799898971
+A customer has left the store.
+A customer has arrived at the store.
+Clerk John has sold Bob and Pet Insurance for $136.31564222109967
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Bob
+Clerk John has sold Bob and Microchip and Pet Insurance for $177.68407799898972
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Bob
+Trainer Timmy has offered a 10% discount on Bod
+Clerk John has sold Bod and Microchip for $159.863210463341
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Bob
+Clerk John has sold Bob and 3 Prepad Vet for $152.68407799898972
+A customer has left the store.
+Trainer Timmy is cleaning the cage for Bob
+Trainer Timmy is cleaning the cage for Bod
+Trainer Timmy is cleaning the cage for Snek
+Trainer Timmy is cleaning the cage for NoooooooooOOo
+Trainer Timmy is cleaning the cage for Buddy
+Trainer Timmy is cleaning the cage for Sir Purrington
+Trainer Timmy is cleaning the cage for Fido
+Trainer Timmy is cleaning the cage for Bod
+Trainer Timmy is cleaning the cage for Buddy
+Trainer Timmy is cleaning the cage for Noperino
+Trainer Timmy is cleaning the cage for SnAKEEEEEEEE
+Trainer Timmy is cleaning the cage for Zera
+Trainer Timmy is cleaning the cage for Boo
+Trainer Timmy is cleaning the cage for Boo
+Trainer Timmy is cleaning the cage for Zera
+Trainer Timmy is cleaning the cage for Zera
+Trainer Timmy is cleaning the cage for Bod
+Trainer Timmy is cleaning the cage for Lucas
+Trainer Timmy is cleaning the cage for Adams
+Trainer Timmy is cleaning the cage for Adams
+Trainer Timmy is cleaning the cage for Bod
+Trainer Timmy is cleaning the cage for Joy
+Trainer Timmy is cleaning the cage for Joy
+Trainer Timmy is cleaning the cage for SnAKEEEEEEEE
+Trainer Timmy is cleaning the cage for SnAKEEEEEEEE
+Clerk John is vacuuming the store.
+Clerk John has locked the store.
+Employee John the Clerk has left the store for the day.
+Employee Timmy the Trainer has left the store for the day.
+Tracker Day 18
+
+********************************************************
+*                                                      *
+*                                                      *
+	Clerks		Sold	Purchase Price
+	John		4	$94.22490968239335
+	Sarah		3	$57.551795492262904
+	Jack		4	$73.48528063046558
+
+	Trainers	Sold	Purchase Price
+	Dianne		18	$700.4587028254609
+	Sally		26	$1001.5630767854783
+	Timmy		35	$1207.8104402215608
+*                                                      *
+*                                                      *
+********************************************************
+
+Employee Jack the Clerk has arrived at the store.
+Employee Dianne the Trainer has arrived at the store.
+Clerk Jack has checked the register and found that the total is $5312.082526126014
+Clerk Jack has found the total of items in store are $1946.321911190308
+	treats
+Clerk Jack has found that there are no more treats in store and has ordered 3 more for $81.0
+Dianne is feeding the animals.
+The sick pet Joy has fully recovered.
+The sick pet SnAKEEEEEEEE has fully recovered.
+The pet Bod has become sick.
+The pet Buddy has become sick.
+Dianne is training the animals.
+Clerk Jack has opened the store.
+A customer has arrived at the store.
+Trainer Dianne has offered a 10% discount on Bob
+Trainer Dianne has offered a 10% discount on Bod
+Clerk Jack has sold Bod and Microchip for $159.863210463341
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Dianne has offered a 10% discount on Bob
+Clerk Jack has sold Bob for $77.68407799898971
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Dianne has offered a 10% discount on Bod
+Clerk Jack has sold Bod and Pet Insurance and 2 Prepad Vet for $209.863210463341
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Dianne has offered a 10% discount on Bod
+Trainer Dianne has offered a 10% discount on Snek
+Clerk Jack has sold Snek and Microchip for $174.75774426250206
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Dianne has offered a 10% discount on Bod
+Clerk Jack has sold Bod for $109.863210463341
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Dianne has offered a 10% discount on Snek
+Trainer Dianne has offered a 10% discount on NoooooooooOOo
+Clerk Jack has sold NoooooooooOOo for $94.56719241318845
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Dianne has offered a 10% discount on Snek
+Clerk Jack has sold Snek for $124.75774426250206
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Dianne has offered a 10% discount on Knockoff Treat
+Trainer Dianne has offered a 10% discount on Buddy
+Clerk Jack has sold Buddy and Microchip for $215.51006085482047
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Dianne has offered a 10% discount on Knockoff Treat
+Clerk Jack has sold Knockoff Treat for $26.415907311706853
+A customer has left the store.
+Trainer Dianne is cleaning the cage for Buddy
+Trainer Dianne is cleaning the cage for Sir Purrington
+Trainer Dianne is cleaning the cage for Fido
+Trainer Dianne is cleaning the cage for Noperino
+Trainer Dianne is cleaning the cage for SnAKEEEEEEEE
+Trainer Dianne is cleaning the cage for Zera
+Trainer Dianne is cleaning the cage for Boo
+Trainer Dianne is cleaning the cage for Boo
+Trainer Dianne is cleaning the cage for Zera
+Trainer Dianne is cleaning the cage for Zera
+While cleaning, Zera has escaped!
+Trainer Dianne has caught the animal!
+Trainer Dianne is cleaning the cage for Bod
+Trainer Dianne is cleaning the cage for Lucas
+Trainer Dianne is cleaning the cage for Adams
+Trainer Dianne is cleaning the cage for Adams
+Trainer Dianne is cleaning the cage for Bod
+Trainer Dianne is cleaning the cage for Joy
+Trainer Dianne is cleaning the cage for SnAKEEEEEEEE
+While cleaning, SnAKEEEEEEEE has escaped!
+Clerk Jack has caught the animal!
+Trainer Dianne is cleaning the cage for Bod
+Trainer Dianne is cleaning the cage for Buddy
+Clerk Jack is vacuuming the store.
+Clerk Jack has locked the store.
+Employee Jack the Clerk has left the store for the day.
+Employee Dianne the Trainer has left the store for the day.
+Tracker Day 19
+
+********************************************************
+*                                                      *
+*                                                      *
+	Clerks		Sold	Purchase Price
+	John		4	$94.22490968239335
+	Sarah		3	$57.551795492262904
+	Jack		4	$73.48528063046558
+
+	Trainers	Sold	Purchase Price
+	Dianne		27	$1116.174331964199
+	Sally		26	$1001.5630767854783
+	Timmy		35	$1207.8104402215608
+*                                                      *
+*                                                      *
+********************************************************
+
+Employee John the Clerk has arrived at the store.
+Employee Dianne the Trainer has arrived at the store.
+Clerk John has checked the register and found that the total is $6424.364884619747
+Clerk John has found the total of items in store are $1665.4652257580567
+	treats
+Clerk John has found that there are no more treats in store and has ordered 3 more for $78.0
+Dianne is feeding the animals.
+The sick pet Bod has fully recovered.
+The pet Boo has become sick.
+Dianne is training the animals.
+Clerk John has opened the store.
+A customer has arrived at the store.
+Trainer Dianne has offered a 10% discount on Buddy
+Trainer Dianne has offered a 10% discount on NameBrand Treat
+Clerk John has sold NameBrand Treat for $20.689539154179283
+A customer has left the store.
+A customer has arrived at the store.
+Clerk John has sold Buddy and Microchip and 1 Prepad Vet for $258.90006761646714
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Dianne has offered a 10% discount on Buddy
+Trainer Dianne has offered a 10% discount on Sir Purrington
+Clerk John has sold Sir Purrington for $51.61731883796751
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Dianne has offered a 10% discount on Buddy
+Clerk John has sold Buddy and Microchip and 3 Prepad Vet for $290.5100608548205
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Dianne has offered a 10% discount on Buddy
+Clerk John has sold Buddy and Microchip and Pet Insurance for $265.5100608548205
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Dianne has offered a 10% discount on Buddy
+Clerk John has sold Buddy for $165.51006085482047
+A customer has left the store.
+Trainer Dianne is cleaning the cage for Fido
+Trainer Dianne is cleaning the cage for Noperino
+Trainer Dianne is cleaning the cage for SnAKEEEEEEEE
+Trainer Dianne is cleaning the cage for Zera
+Trainer Dianne is cleaning the cage for Boo
+Trainer Dianne is cleaning the cage for Zera
+Trainer Dianne is cleaning the cage for Zera
+Trainer Dianne is cleaning the cage for Bod
+Trainer Dianne is cleaning the cage for Lucas
+Trainer Dianne is cleaning the cage for Adams
+Trainer Dianne is cleaning the cage for Adams
+Trainer Dianne is cleaning the cage for Bod
+Trainer Dianne is cleaning the cage for Joy
+Trainer Dianne is cleaning the cage for SnAKEEEEEEEE
+Trainer Dianne is cleaning the cage for Buddy
+Trainer Dianne is cleaning the cage for Boo
+Clerk John is vacuuming the store.
+Clerk John has locked the store.
+Employee John the Clerk has left the store for the day.
+Employee Dianne the Trainer has left the store for the day.
+Tracker Day 20
+
+********************************************************
+*                                                      *
+*                                                      *
+	Clerks		Sold	Purchase Price
+	John		4	$94.22490968239335
+	Sarah		3	$57.551795492262904
+	Jack		4	$73.48528063046558
+
+	Trainers	Sold	Purchase Price
+	Dianne		33	$1348.2948424347362
+	Sally		26	$1001.5630767854783
+	Timmy		35	$1207.8104402215608
+*                                                      *
+*                                                      *
+********************************************************
+
+Employee Jack is sick.
+Employee Sally is sick.
+Employee Sally is sick.
+Employee John the Clerk has arrived at the store.
+Employee Sally the Trainer has arrived at the store.
+Clerk John has checked the register and found that the total is $7399.101992792821
+Clerk John has found the total of items in store are $1499.2406187351216
+	treats
+Clerk John has found that there are no more treats in store and has ordered 3 more for $183.0
+	cats
+Clerk John has found that there are no more cats in store and has ordered 3 more for $33.0
+Sally is feeding the animals.
+Sally is training the animals.
+Clerk John has opened the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on Fido
+Clerk John has sold Fido and Microchip for $196.3393374389528
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on Fido
+Clerk John has sold Fido and Microchip and Pet Insurance and 2 Prepad Vet for $296.33933743895284
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on Fido
+Clerk John has sold Fido for $146.3393374389528
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Sally has offered a 10% discount on Knockoff food
+Clerk John has sold Knockoff food for $23.79234848336214
+A customer has left the store.
+Trainer Sally is cleaning the cage for Noperino
+Trainer Sally is cleaning the cage for SnAKEEEEEEEE
+Trainer Sally is cleaning the cage for Zera
+Trainer Sally is cleaning the cage for Boo
+Trainer Sally is cleaning the cage for Zera
+Trainer Sally is cleaning the cage for Zera
+Trainer Sally is cleaning the cage for Bod
+Trainer Sally is cleaning the cage for Lucas
+Trainer Sally is cleaning the cage for Adams
+Trainer Sally is cleaning the cage for Adams
+Trainer Sally is cleaning the cage for Bod
+Trainer Sally is cleaning the cage for Joy
+Trainer Sally is cleaning the cage for SnAKEEEEEEEE
+Trainer Sally is cleaning the cage for Buddy
+Trainer Sally is cleaning the cage for Boo
+Clerk John is vacuuming the store.
+Clerk John has locked the store.
+Employee John the Clerk has left the store for the day.
+Employee Sally the Trainer has left the store for the day.
+Tracker Day 21
+
+********************************************************
+*                                                      *
+*                                                      *
+	Clerks		Sold	Purchase Price
+	John		4	$94.22490968239335
+	Sarah		3	$57.551795492262904
+	Jack		4	$73.48528063046558
+
+	Trainers	Sold	Purchase Price
+	Dianne		33	$1348.2948424347362
+	Sally		30	$1171.0806800756532
+	Timmy		35	$1207.8104402215608
+*                                                      *
+*                                                      *
+********************************************************
+
+Employee Jack the Clerk has arrived at the store.
+Employee Timmy the Trainer has arrived at the store.
+Clerk Jack has checked the register and found that the total is $7845.91235359304
+Clerk Jack has found the total of items in store are $1433.1110511198576
+	treats
+Clerk Jack has found that there are no more treats in store and has ordered 3 more for $258.0
+	cats
+Clerk Jack has found that there are no more cats in store and has ordered 3 more for $135.0
+	dogs
+Clerk Jack has found that there are no more dogs in store and has ordered 3 more for $249.0
+Timmy is feeding the animals.
+The sick pet SnAKEEEEEEEE has fully recovered.
+The sick pet Boo has fully recovered.
+Timmy is training the animals.
+Clerk Jack has opened the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Knockoff food
+Clerk Jack has sold Knockoff food for $25.586609007505544
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Knockoff food
+Trainer Timmy has offered a 10% discount on Knockoff Treat
+Trainer Timmy has offered a 10% discount on Knockoff Leash
+Clerk Jack has sold Knockoff Leash for $5.380322167362504
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Knockoff food
+Clerk Jack has sold Knockoff food for $17.92277315341792
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Knockoff Treat
+Clerk Jack has sold Knockoff Treat for $30.196408283530364
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on NameBrand Treat
+Trainer Timmy has offered a 10% discount on Knockoff Treat
+Clerk Jack has sold Knockoff Treat for $34.82146273479995
+A customer has left the store.
+Trainer Timmy is cleaning the cage for Noperino
+Trainer Timmy is cleaning the cage for SnAKEEEEEEEE
+Trainer Timmy is cleaning the cage for Zera
+Trainer Timmy is cleaning the cage for Boo
+Trainer Timmy is cleaning the cage for Zera
+Trainer Timmy is cleaning the cage for Zera
+Trainer Timmy is cleaning the cage for Bod
+Trainer Timmy is cleaning the cage for Lucas
+Trainer Timmy is cleaning the cage for Adams
+Trainer Timmy is cleaning the cage for Adams
+Trainer Timmy is cleaning the cage for Bod
+Trainer Timmy is cleaning the cage for Joy
+Trainer Timmy is cleaning the cage for Buddy
+Clerk Jack is vacuuming the store.
+Clerk Jack has locked the store.
+Employee Jack the Clerk has left the store for the day.
+Employee Timmy the Trainer has left the store for the day.
+Tracker Day 22
+
+********************************************************
+*                                                      *
+*                                                      *
+	Clerks		Sold	Purchase Price
+	John		4	$94.22490968239335
+	Sarah		3	$57.551795492262904
+	Jack		4	$73.48528063046558
+
+	Trainers	Sold	Purchase Price
+	Dianne		33	$1348.2948424347362
+	Sally		30	$1171.0806800756532
+	Timmy		40	$1271.0924265252368
+*                                                      *
+*                                                      *
+********************************************************
+
+Employee Sarah the Clerk has arrived at the store.
+Employee Sally the Trainer has arrived at the store.
+Clerk Sarah has checked the register and found that the total is $7317.819928939656
+Clerk Sarah has found the total of items in store are $1433.6686674447924
+	treats
+Clerk Sarah has found that there are no more treats in store and has ordered 3 more for $264.0
+	dogs
+Clerk Sarah has found that there are no more dogs in store and has ordered 3 more for $180.0
+Sally is feeding the animals.
+The pet Noperino has become sick.
+The pet SnAKEEEEEEEE has become sick.
+Sally is training the animals.
+Trainer Sally using Positive Reinforcement for Cat is now housebroken
+Clerk Sarah has opened the store.
+A customer has arrived at the store.
+Clerk Sarah has sold NameBrand Treat for $30.766078570832683
+A customer has left the store.
+A customer has arrived at the store.
+Clerk Sarah has sold Fancy Leash for $19.702971862536565
+A customer has left the store.
+A customer has arrived at the store.
+Clerk Sarah has sold Knockoff food for $11.380541067843842
+A customer has left the store.
+A customer has arrived at the store.
+Clerk Sarah has sold Knockoff food for $12.257754505548979
+A customer has left the store.
+Trainer Sally is cleaning the cage for Zera
+Trainer Sally is cleaning the cage for Boo
+Trainer Sally is cleaning the cage for Zera
+Trainer Sally is cleaning the cage for Zera
+Trainer Sally is cleaning the cage for Bod
+Trainer Sally is cleaning the cage for Lucas
+Trainer Sally is cleaning the cage for Adams
+Trainer Sally is cleaning the cage for Adams
+Trainer Sally is cleaning the cage for Bod
+Trainer Sally is cleaning the cage for Joy
+Trainer Sally is cleaning the cage for Watson
+Trainer Sally is cleaning the cage for Buddy
+Trainer Sally is cleaning the cage for Noperino
+Trainer Sally is cleaning the cage for SnAKEEEEEEEE
+Clerk Sarah is vacuuming the store.
+Clerk Sarah has locked the store.
+Employee Sarah the Clerk has left the store for the day.
+Employee Sally the Trainer has left the store for the day.
+Tracker Day 23
+
+********************************************************
+*                                                      *
+*                                                      *
+	Clerks		Sold	Purchase Price
+	John		4	$94.22490968239335
+	Sarah		7	$94.60546849564393
+	Jack		4	$73.48528063046558
+
+	Trainers	Sold	Purchase Price
+	Dianne		33	$1348.2948424347362
+	Sally		30	$1171.0806800756532
+	Timmy		40	$1271.0924265252368
+*                                                      *
+*                                                      *
+********************************************************
+
+Employee Sarah the Clerk has arrived at the store.
+Employee Dianne the Trainer has arrived at the store.
+Clerk Sarah has checked the register and found that the total is $6947.927274946419
+Clerk Sarah has found the total of items in store are $1499.5970253629648
+	snakes
+Clerk Sarah has found that there are no more snakes in store and has ordered 3 more for $87.0
+	treats
+Clerk Sarah has found that there are no more treats in store and has ordered 3 more for $213.0
+Dianne is feeding the animals.
+The sick pet Buddy has fully recovered.
+The pet Zera has become sick.
+Dianne is training the animals.
+Clerk Sarah has opened the store.
+A customer has arrived at the store.
+Clerk Sarah has sold Petkit food for $11.21344969622006
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Dianne has offered a 10% discount on Knockoff Treat
+Clerk Sarah has sold Knockoff Treat for $28.873955420427286
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Dianne has offered a 10% discount on NameBrand Treat
+Clerk Sarah has sold NameBrand Treat for $30.22542130068769
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Dianne has offered a 10% discount on Fancy Leash
+Clerk Sarah has sold Fancy Leash for $9.91323915575181
+A customer has left the store.
+Trainer Dianne is cleaning the cage for Boo
+Trainer Dianne is cleaning the cage for Zera
+Trainer Dianne is cleaning the cage for Zera
+Trainer Dianne is cleaning the cage for Bod
+Trainer Dianne is cleaning the cage for Lucas
+Trainer Dianne is cleaning the cage for Adams
+Trainer Dianne is cleaning the cage for Adams
+Trainer Dianne is cleaning the cage for Bod
+Trainer Dianne is cleaning the cage for Joy
+Trainer Dianne is cleaning the cage for Watson
+Trainer Dianne is cleaning the cage for Buddy
+Trainer Dianne is cleaning the cage for Bod
+Trainer Dianne is cleaning the cage for Noperino
+Trainer Dianne is cleaning the cage for SnAKEEEEEEEE
+Trainer Dianne is cleaning the cage for Zera
+Clerk Sarah is vacuuming the store.
+Clerk Sarah has locked the store.
+Employee Sarah the Clerk has left the store for the day.
+Employee Dianne the Trainer has left the store for the day.
+Tracker Day 24
+
+********************************************************
+*                                                      *
+*                                                      *
+	Clerks		Sold	Purchase Price
+	John		4	$94.22490968239335
+	Sarah		8	$100.21219334375397
+	Jack		4	$73.48528063046558
+
+	Trainers	Sold	Purchase Price
+	Dianne		36	$1386.635184588551
+	Sally		30	$1171.0806800756532
+	Timmy		40	$1271.0924265252368
+*                                                      *
+*                                                      *
+********************************************************
+
+Employee Jack the Clerk has arrived at the store.
+Employee Timmy the Trainer has arrived at the store.
+Clerk Jack has checked the register and found that the total is $6728.153340519506
+Clerk Jack has found the total of items in store are $1741.453549709785
+	snakes
+Clerk Jack has found that there are no more snakes in store and has ordered 3 more for $33.0
+	treats
+Clerk Jack has found that there are no more treats in store and has ordered 3 more for $48.0
+Timmy is feeding the animals.
+The sick pet Noperino has fully recovered.
+The sick pet SnAKEEEEEEEE has fully recovered.
+The sick pet Zera has fully recovered.
+The pet Adams has become sick.
+The pet Joy has become sick.
+The pet Bod has become sick.
+The pet Bob has become sick.
+Timmy is training the animals.
+Trainer Timmy using Negative Reinforcement for Cat is now not housebroken
+Trainer Timmy using Negative Reinforcement for Dog is now housebroken
+Trainer Timmy using Negative Reinforcement for Cat is now not housebroken
+Trainer Timmy using Negative Reinforcement for Dog is now not housebroken
+Trainer Timmy using Negative Reinforcement for Dog is now housebroken
+Clerk Jack has opened the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Fancy Leash
+Clerk Jack has sold Fancy Leash for $13.075984557713024
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Petkit food
+Clerk Jack has sold Petkit food for $22.26015083878511
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on NameBrand Treat
+Trainer Timmy has offered a 10% discount on Knockoff Litter
+Clerk Jack has sold Knockoff Litter for $26.73680118290292
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on NameBrand Treat
+Clerk Jack has sold NameBrand Treat for $29.682005924397412
+A customer has left the store.
+A customer has arrived at the store.
+Clerk Jack has sold Knockoff Litter for $22.332327425246614
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Fancy Leash
+Clerk Jack has sold Fancy Leash for $3.847475262829141
+A customer has left the store.
+Trainer Timmy is cleaning the cage for Boo
+Trainer Timmy is cleaning the cage for Zera
+Trainer Timmy is cleaning the cage for Zera
+Trainer Timmy is cleaning the cage for Bod
+Trainer Timmy is cleaning the cage for Lucas
+Trainer Timmy is cleaning the cage for Adams
+Trainer Timmy is cleaning the cage for Bod
+Trainer Timmy is cleaning the cage for Watson
+Trainer Timmy is cleaning the cage for Buddy
+Trainer Timmy is cleaning the cage for Watson
+Trainer Timmy is cleaning the cage for Sir Purrington
+Trainer Timmy is cleaning the cage for Fido
+Trainer Timmy is cleaning the cage for Buddy
+Trainer Timmy is cleaning the cage for Adams
+Trainer Timmy is cleaning the cage for Joy
+Trainer Timmy is cleaning the cage for Bod
+Trainer Timmy is cleaning the cage for Bob
+While cleaning, Bob has escaped!
+Trainer Timmy has caught the animal!
+Clerk Jack is vacuuming the store.
+Clerk Jack has locked the store.
+Employee Jack the Clerk has left the store for the day.
+Employee Timmy the Trainer has left the store for the day.
+Tracker Day 25
+
+********************************************************
+*                                                      *
+*                                                      *
+	Clerks		Sold	Purchase Price
+	John		4	$94.22490968239335
+	Sarah		8	$100.21219334375397
+	Jack		5	$84.65144434308888
+
+	Trainers	Sold	Purchase Price
+	Dianne		36	$1386.635184588551
+	Sally		30	$1171.0806800756532
+	Timmy		45	$1324.2048808400298
+*                                                      *
+*                                                      *
+********************************************************
+
+Employee Timmy is sick.
+Employee Jack the Clerk has arrived at the store.
+Employee Timmy the Trainer has arrived at the store.
+Clerk Jack has checked the register and found that the total is $6765.088085711381
+Clerk Jack has found the total of items in store are $1726.1931562171753
+	treats
+Clerk Jack has found that there are no more treats in store and has ordered 3 more for $153.0
+Timmy is feeding the animals.
+The sick pet Bod has fully recovered.
+Timmy is training the animals.
+Trainer Timmy using Negative Reinforcement for Cat is now housebroken
+Clerk Jack has opened the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Boo
+Clerk Jack has sold Boo for $63.270011072526536
+A customer has left the store.
+A customer has arrived at the store.
+Clerk Jack has sold Petkit food for $21.902744277455312
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Petkit food
+Trainer Timmy has offered a 10% discount on Knockoff Treat
+Clerk Jack has sold Knockoff Treat for $18.63826692349272
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Petkit food
+Trainer Timmy has offered a 10% discount on NameBrand Litter
+Trainer Timmy has offered a 10% discount on Knockoff Treat
+Trainer Timmy has offered a 10% discount on Knockoff Litter
+Trainer Timmy has offered a 10% discount on Knockoff Leash
+Clerk Jack has sold Knockoff Leash for $4.488603337671086
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Petkit food
+Clerk Jack has sold Petkit food for $20.00548399190541
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on NameBrand Litter
+Clerk Jack has sold NameBrand Litter for $27.917204995858228
+A customer has left the store.
+Trainer Timmy is cleaning the cage for Zera
+Trainer Timmy is cleaning the cage for Zera
+Trainer Timmy is cleaning the cage for Bod
+Trainer Timmy is cleaning the cage for Lucas
+Trainer Timmy is cleaning the cage for Adams
+Trainer Timmy is cleaning the cage for Bod
+Trainer Timmy is cleaning the cage for Watson
+Trainer Timmy is cleaning the cage for Buddy
+Trainer Timmy is cleaning the cage for Watson
+Trainer Timmy is cleaning the cage for Sir Purrington
+Trainer Timmy is cleaning the cage for Fido
+Trainer Timmy is cleaning the cage for Buddy
+Trainer Timmy is cleaning the cage for Kitty
+Trainer Timmy is cleaning the cage for Bob
+Trainer Timmy is cleaning the cage for SnAKEEEEEEEE
+Trainer Timmy is cleaning the cage for Adams
+Trainer Timmy is cleaning the cage for Joy
+Trainer Timmy is cleaning the cage for Bob
+Clerk Jack is vacuuming the store.
+Clerk Jack has locked the store.
+Employee Jack the Clerk has left the store for the day.
+Employee Timmy the Trainer has left the store for the day.
+Tracker Day 26
+
+********************************************************
+*                                                      *
+*                                                      *
+	Clerks		Sold	Purchase Price
+	John		4	$94.22490968239335
+	Sarah		8	$100.21219334375397
+	Jack		6	$95.60281648181655
+
+	Trainers	Sold	Purchase Price
+	Dianne		36	$1386.635184588551
+	Sally		30	$1171.0806800756532
+	Timmy		50	$1398.8268643519486
+*                                                      *
+*                                                      *
+********************************************************
+
+Employee Sally is sick.
+Employee Timmy is sick.
+Employee Jack the Clerk has arrived at the store.
+Employee Dianne the Trainer has arrived at the store.
+Clerk Jack has checked the register and found that the total is $6768.31040031029
+Clerk Jack has found the total of items in store are $1819.9433733695885
+	leashes
+Clerk Jack has found that there are no more leashes in store and has ordered 3 more for $285.0
+	food
+Clerk Jack has found that there are no more food in store and has ordered 3 more for $168.0
+	treats
+Clerk Jack has found that there are no more treats in store and has ordered 3 more for $147.0
+Dianne is feeding the animals.
+Dianne is training the animals.
+Trainer Dianne using Positive Reinforcement for Cat is now housebroken
+Trainer Dianne using Positive Reinforcement for Dog is now housebroken
+Clerk Jack has opened the store.
+A customer has arrived at the store.
+Trainer Dianne has offered a 10% discount on Knockoff Treat
+Clerk Jack has sold Knockoff Treat for $24.523399256974958
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Dianne has offered a 10% discount on Knockoff Litter
+Clerk Jack has sold Knockoff Litter for $31.30542370302904
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Dianne has offered a 10% discount on Knockoff Treat
+Clerk Jack has sold Knockoff Treat for $28.138528130914207
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Dianne has offered a 10% discount on Zera
+Clerk Jack has sold Zera and Microchip for $201.7955478631451
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Dianne has offered a 10% discount on Zera
+Clerk Jack has sold Zera and Microchip for $201.7955478631451
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Dianne has offered a 10% discount on Zera
+Clerk Jack has sold Zera and Microchip and 2 Prepad Vet for $251.7955478631451
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Dianne has offered a 10% discount on Zera
+Clerk Jack has sold Zera for $151.7955478631451
+A customer has left the store.
+A customer has arrived at the store.
+Clerk Jack has sold Zera and Microchip and Pet Insurance for $253.2111754150731
+A customer has left the store.
+Trainer Dianne is cleaning the cage for Zera
+Trainer Dianne is cleaning the cage for Bod
+Trainer Dianne is cleaning the cage for Lucas
+Trainer Dianne is cleaning the cage for Adams
+Trainer Dianne is cleaning the cage for Bod
+Trainer Dianne is cleaning the cage for Watson
+Trainer Dianne is cleaning the cage for Buddy
+Trainer Dianne is cleaning the cage for Watson
+Trainer Dianne is cleaning the cage for Sir Purrington
+Trainer Dianne is cleaning the cage for Fido
+Trainer Dianne is cleaning the cage for Buddy
+Trainer Dianne is cleaning the cage for Kitty
+Trainer Dianne is cleaning the cage for Bob
+Trainer Dianne is cleaning the cage for SnAKEEEEEEEE
+Trainer Dianne is cleaning the cage for Joy
+Trainer Dianne is cleaning the cage for Joy
+Trainer Dianne is cleaning the cage for NoooooooooOOo
+Trainer Dianne is cleaning the cage for Adams
+Trainer Dianne is cleaning the cage for Joy
+Trainer Dianne is cleaning the cage for Bob
+Clerk Jack is vacuuming the store.
+Clerk Jack has locked the store.
+Employee Jack the Clerk has left the store for the day.
+Employee Dianne the Trainer has left the store for the day.
+Tracker Day 27
+
+********************************************************
+*                                                      *
+*                                                      *
+	Clerks		Sold	Purchase Price
+	John		4	$94.22490968239335
+	Sarah		8	$100.21219334375397
+	Jack		6	$95.60281648181655
+
+	Trainers	Sold	Purchase Price
+	Dianne		44	$1692.614572896364
+	Sally		30	$1171.0806800756532
+	Timmy		50	$1398.8268643519486
+*                                                      *
+*                                                      *
+********************************************************
+
+Employee Sarah the Clerk has arrived at the store.
+Employee Dianne the Trainer has arrived at the store.
+Clerk Sarah has checked the register and found that the total is $7312.67111826886
+Clerk Sarah has found the total of items in store are $1840.9214567494962
+	leashes
+Clerk Sarah has found that there are no more leashes in store and has ordered 3 more for $132.0
+	food
+Clerk Sarah has found that there are no more food in store and has ordered 3 more for $234.0
+	treats
+Clerk Sarah has found that there are no more treats in store and has ordered 3 more for $192.0
+Dianne is feeding the animals.
+The sick pet Adams has fully recovered.
+The sick pet Bob has fully recovered.
+Dianne is training the animals.
+Clerk Sarah has opened the store.
+A customer has arrived at the store.
+Clerk Sarah has sold Zera and Microchip for $203.2111754150731
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Dianne has offered a 10% discount on Zera
+Clerk Sarah has sold Zera and Microchip for $187.89005787356578
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Dianne has offered a 10% discount on Zera
+Clerk Sarah has sold Zera and Microchip and Pet Insurance and 1 Prepad Vet for $262.89005787356575
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Dianne has offered a 10% discount on Zera
+Clerk Sarah has sold Zera and 2 Prepad Vet for $187.89005787356578
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Dianne has offered a 10% discount on Zera
+Clerk Sarah has sold Knockoff Treat for $21.84472887979737
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Dianne has offered a 10% discount on Zera
+Clerk Sarah has sold Zera and Microchip for $187.89005787356578
+A customer has left the store.
+Trainer Dianne is cleaning the cage for Zera
+Trainer Dianne is cleaning the cage for Bod
+Trainer Dianne is cleaning the cage for Lucas
+Trainer Dianne is cleaning the cage for Adams
+Trainer Dianne is cleaning the cage for Bod
+Trainer Dianne is cleaning the cage for Watson
+Trainer Dianne is cleaning the cage for Buddy
+Trainer Dianne is cleaning the cage for Watson
+Trainer Dianne is cleaning the cage for Sir Purrington
+While cleaning, Sir Purrington has escaped!
+Clerk Sarah has caught the animal!
+Trainer Dianne is cleaning the cage for Fido
+Trainer Dianne is cleaning the cage for Buddy
+Trainer Dianne is cleaning the cage for Kitty
+Trainer Dianne is cleaning the cage for Bob
+Trainer Dianne is cleaning the cage for SnAKEEEEEEEE
+Trainer Dianne is cleaning the cage for Joy
+Trainer Dianne is cleaning the cage for Joy
+Trainer Dianne is cleaning the cage for NoooooooooOOo
+While cleaning, NoooooooooOOo has escaped!
+Trainer Dianne has caught the animal!
+Trainer Dianne is cleaning the cage for NOPE
+Trainer Dianne is cleaning the cage for NoooooooooOOo
+Trainer Dianne is cleaning the cage for Joy
+Clerk Sarah is vacuuming the store.
+Clerk Sarah has locked the store.
+Employee Sarah the Clerk has left the store for the day.
+Employee Dianne the Trainer has left the store for the day.
+Tracker Day 28
+
+********************************************************
+*                                                      *
+*                                                      *
+	Clerks		Sold	Purchase Price
+	John		4	$94.22490968239335
+	Sarah		9	$111.13455778365265
+	Jack		6	$95.60281648181655
+
+	Trainers	Sold	Purchase Price
+	Dianne		49	$1892.614572896364
+	Sally		30	$1171.0806800756532
+	Timmy		50	$1398.8268643519486
+*                                                      *
+*                                                      *
+********************************************************
+
+Employee John the Clerk has arrived at the store.
+Employee Dianne the Trainer has arrived at the store.
+Clerk John has checked the register and found that the total is $7806.287254057992
+Clerk John has found the total of items in store are $2074.978435244604
+	treats
+Clerk John has found that there are no more treats in store and has ordered 3 more for $111.0
+Dianne is feeding the animals.
+The pet SnAKEEEEEEEE has become sick.
+Dianne is training the animals.
+Clerk John has opened the store.
+A customer has arrived at the store.
+Trainer Dianne has offered a 10% discount on Zera
+Clerk John has sold Zera for $137.89005787356578
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Dianne has offered a 10% discount on NameBrand Treat
+Clerk John has sold NameBrand Treat for $33.60683442688128
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Dianne has offered a 10% discount on NameBrand Litter
+Trainer Dianne has offered a 10% discount on NameBrand Litter
+Trainer Dianne has offered a 10% discount on NameBrand Treat
+Clerk John has sold NameBrand Treat for $31.053398184212007
+A customer has left the store.
+A customer has arrived at the store.
+Clerk John has sold NameBrand Litter for $36.476948941063554
+A customer has left the store.
+Trainer Dianne is cleaning the cage for Bod
+Trainer Dianne is cleaning the cage for Lucas
+Trainer Dianne is cleaning the cage for Adams
+While cleaning, Adams has escaped!
+Trainer Dianne has caught the animal!
+Trainer Dianne is cleaning the cage for Bod
+Trainer Dianne is cleaning the cage for Watson
+Trainer Dianne is cleaning the cage for Buddy
+Trainer Dianne is cleaning the cage for Watson
+Trainer Dianne is cleaning the cage for Sir Purrington
+Trainer Dianne is cleaning the cage for Fido
+Trainer Dianne is cleaning the cage for Buddy
+Trainer Dianne is cleaning the cage for Kitty
+Trainer Dianne is cleaning the cage for Bob
+Trainer Dianne is cleaning the cage for Joy
+Trainer Dianne is cleaning the cage for Joy
+Trainer Dianne is cleaning the cage for NoooooooooOOo
+While cleaning, NoooooooooOOo has escaped!
+Trainer Dianne has caught the animal!
+Trainer Dianne is cleaning the cage for NOPE
+Trainer Dianne is cleaning the cage for NoooooooooOOo
+Trainer Dianne is cleaning the cage for Noperino
+Trainer Dianne is cleaning the cage for SnAKEEEEEEEE
+Trainer Dianne is cleaning the cage for Joy
+Trainer Dianne is cleaning the cage for SnAKEEEEEEEE
+Clerk John is vacuuming the store.
+Clerk John has locked the store.
+Employee John the Clerk has left the store for the day.
+Employee Dianne the Trainer has left the store for the day.
+Tracker Day 29
+
+********************************************************
+*                                                      *
+*                                                      *
+	Clerks		Sold	Purchase Price
+	John		5	$112.46338415292513
+	Sarah		9	$111.13455778365265
+	Jack		6	$95.60281648181655
+
+	Trainers	Sold	Purchase Price
+	Dianne		52	$2005.142512054508
+	Sally		30	$1171.0806800756532
+	Timmy		50	$1398.8268643519486
+*                                                      *
+*                                                      *
+********************************************************
+
+Employee Jack is sick.
+Employee Sarah the Clerk has arrived at the store.
+Employee Timmy the Trainer has arrived at the store.
+Clerk Sarah has checked the register and found that the total is $7934.314493483715
+Clerk Sarah has found the total of items in store are $1934.0136475891593
+	birds
+Clerk Sarah has found that there are no more birds in store and has ordered 3 more for $129.0
+	treats
+Clerk Sarah has found that there are no more treats in store and has ordered 3 more for $114.0
+Timmy is feeding the animals.
+The pet Kitty has become sick.
+The pet NOPE has become sick.
+Timmy is training the animals.
+Trainer Timmy using Negative Reinforcement for Dog is now not housebroken
+Trainer Timmy using Negative Reinforcement for Cat is now not housebroken
+Trainer Timmy using Negative Reinforcement for Dog is now not housebroken
+Clerk Sarah has opened the store.
+A customer has arrived at the store.
+Clerk Sarah has sold NameBrand Litter for $29.226939865711113
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Knockoff Treat
+Clerk Sarah has sold Knockoff Treat for $26.37048908145202
+A customer has left the store.
+A customer has arrived at the store.
+Trainer Timmy has offered a 10% discount on Knockoff Treat
+Clerk Sarah has sold Knockoff Treat for $33.45998686548548
+A customer has left the store.
+A customer has arrived at the store.
+Clerk Sarah has sold Bod and Microchip for $109.23400801704463
+A customer has left the store.
+Trainer Timmy is cleaning the cage for Bod
+Trainer Timmy is cleaning the cage for Lucas
+Trainer Timmy is cleaning the cage for Adams
+Trainer Timmy is cleaning the cage for Bod
+Trainer Timmy is cleaning the cage for Watson
+Trainer Timmy is cleaning the cage for Buddy
+Trainer Timmy is cleaning the cage for Watson
+Trainer Timmy is cleaning the cage for Sir Purrington
+Trainer Timmy is cleaning the cage for Fido
+Trainer Timmy is cleaning the cage for Buddy
+Trainer Timmy is cleaning the cage for Bob
+Trainer Timmy is cleaning the cage for Joy
+Trainer Timmy is cleaning the cage for Joy
+Trainer Timmy is cleaning the cage for NoooooooooOOo
+Trainer Timmy is cleaning the cage for NoooooooooOOo
+Trainer Timmy is cleaning the cage for Noperino
+Trainer Timmy is cleaning the cage for SnAKEEEEEEEE
+Trainer Timmy is cleaning the cage for Joy
+Trainer Timmy is cleaning the cage for SnAKEEEEEEEE
+Trainer Timmy is cleaning the cage for Kitty
+Trainer Timmy is cleaning the cage for NOPE
+Clerk Sarah is vacuuming the store.
+Clerk Sarah has locked the store.
+Employee Sarah the Clerk has left the store for the day.
+Employee Timmy the Trainer has left the store for the day.
+Tracker Day 30
+
+********************************************************
+*                                                      *
+*                                                      *
+	Clerks		Sold	Purchase Price
+	John		5	$112.46338415292513
+	Sarah		10	$125.7480277165082
+	Jack		6	$95.60281648181655
+
+	Trainers	Sold	Purchase Price
+	Dianne		52	$2005.142512054508
+	Sally		30	$1171.0806800756532
+	Timmy		53	$1482.0660176558029
+*                                                      *
+*                                                      *
+********************************************************
+
+********************************************************
+*                                                      *
+*                                                      *
+********************************************************
+Amount Withdrawn from the bank: $1000.0
+Amount in cash register: $7889.605917313408
+Amount in inventory: $1722.7586907250472
+Items in inventory:
+	Bod
+	Lucas
+	NameBrand Treat
+	Knockoff Treat
+	Adams
+	Bod
+	NameBrand Treat
+	Knockoff Treat
+	Knockoff Treat
+	NameBrand Treat
+	Knockoff Treat
+	NameBrand Treat
+	Knockoff Treat
+	NameBrand Treat
+	Knockoff Treat
+	NameBrand Treat
+	NameBrand Treat
+	Knockoff Treat
+	Knockoff Treat
+	Knockoff Treat
+	NameBrand Treat
+	NameBrand Treat
+	NameBrand Treat
+	NameBrand Treat
+	Knockoff Treat
+	Watson
+	Knockoff Treat
+	Knockoff Treat
+	NameBrand Treat
+	NameBrand Treat
+	Knockoff Treat
+	NameBrand Treat
+	Buddy
+	Knockoff Treat
+	Watson
+	NameBrand Treat
+	Sir Purrington
+	Fido
+	Knockoff Treat
+	Knockoff Treat
+	Buddy
+	NameBrand Treat
+	Bob
+	NameBrand Treat
+	Knockoff Treat
+	NameBrand Treat
+	Knockoff Treat
+	Joy
+	Joy
+	NoooooooooOOo
+	NoooooooooOOo
+	NameBrand Treat
+	Noperino
+	SnAKEEEEEEEE
+	NameBrand Treat
+	NameBrand Treat
+	Knockoff Treat
+	Knockoff Treat
+	NameBrand Treat
+	Fancy Leash
+	Fancy Leash
+	Knockoff Leash
+	Petkit food
+	Knockoff food
+	NameBrand Treat
+	NameBrand Treat
+	Fancy Leash
+	Knockoff food
+	NameBrand Treat
+	Knockoff Treat
+	NameBrand Treat
+Amount in sales: $15758.114338240319
+Items sold:
+	Knockoff food : Sale Price ($14.387616045503627) : Sold on (1)
+	Knockoff Toy : Sale Price ($19.465429959636193) : Sold on (1)
+	Boo and 1 Prepad Vet : Sale Price ($123.83385008851137) : Sold on (1)
+	Knockoff Litter : Sale Price ($26.86217628365185) : Sold on (1)
+	Knockoff Leash : Sale Price ($9.008023483524202) : Sold on (1)
+	Boo and Microchip : Sale Price ($148.83385008851138) : Sold on (1)
+	Boo and Microchip : Sale Price ($148.83385008851138) : Sold on (2)
+	Boo and Microchip : Sale Price ($148.83385008851138) : Sold on (2)
+	Boo : Sale Price ($98.83385008851137) : Sold on (2)
+	Bod and Microchip and Pet Insurance : Sale Price ($207.82608774950657) : Sold on (2)
+	Bod and Microchip : Sale Price ($157.82608774950657) : Sold on (2)
+	Bod and Microchip and Pet Insurance and 1 Prepad Vet : Sale Price ($232.82608774950657) : Sold on (3)
+	Bod and Pet Insurance : Sale Price ($157.82608774950657) : Sold on (3)
+	Bod and Microchip : Sale Price ($157.82608774950657) : Sold on (3)
+	Bod and Microchip : Sale Price ($157.82608774950657) : Sold on (3)
+	Knockoff food : Sale Price ($19.904569602619986) : Sold on (3)
+	Bod and Pet Insurance and 1 Prepad Vet : Sale Price ($182.82608774950657) : Sold on (3)
+	Knockoff Treat : Sale Price ($18.182337089182845) : Sold on (4)
+	Bod : Sale Price ($107.82608774950657) : Sold on (4)
+	Knockoff Litter : Sale Price ($32.367792650553746) : Sold on (4)
+	Knockoff Toy : Sale Price ($20.876900766169648) : Sold on (4)
+	Fancy Leash : Sale Price ($8.765887386475583) : Sold on (5)
+	Watson and Microchip and Pet Insurance : Sale Price ($251.87803351544912) : Sold on (5)
+	Watson : Sale Price ($151.87803351544912) : Sold on (5)
+	Bod : Sale Price ($154.0441830666562) : Sold on (6)
+	Zera and Microchip and Pet Insurance : Sale Price ($162.48102654434211) : Sold on (6)
+	Zera : Sale Price ($62.48102654434212) : Sold on (6)
+	Buddy : Sale Price ($92.98618339352835) : Sold on (6)
+	NOPE and Microchip : Sale Price ($209.43590353290054) : Sold on (7)
+	NOPE and Microchip and Pet Insurance : Sale Price ($259.4359035329005) : Sold on (7)
+	NOPE and Microchip : Sale Price ($209.43590353290054) : Sold on (7)
+	NOPE : Sale Price ($159.43590353290054) : Sold on (7)
+	Petkit food : Sale Price ($24.162673761031648) : Sold on (7)
+	NameBrand Treat : Sale Price ($21.805596888182396) : Sold on (8)
+	Knockoff Toy : Sale Price ($22.609956466471488) : Sold on (8)
+	Knockoff Leash : Sale Price ($14.087200233320461) : Sold on (8)
+	NameBrand Litter : Sale Price ($34.05868266976127) : Sold on (9)
+	Adams and Microchip and 1 Prepad Vet : Sale Price ($191.03506912790738) : Sold on (9)
+	NameBrand Treat : Sale Price ($33.2638355195163) : Sold on (9)
+	Adams and Microchip : Sale Price ($166.03506912790738) : Sold on (10)
+	NameBrand Treat : Sale Price ($21.965998625782884) : Sold on (10)
+	Adams and Pet Insurance and 3 Prepad Vet : Sale Price ($241.03506912790738) : Sold on (10)
+	Knockoff Treat : Sale Price ($35.57722986717111) : Sold on (10)
+	Adams and Pet Insurance and 1 Prepad Vet : Sale Price ($191.03506912790738) : Sold on (11)
+	NameBrand Treat : Sale Price ($35.81757027819086) : Sold on (11)
+	Adams and Microchip : Sale Price ($166.03506912790738) : Sold on (11)
+	Adams and Pet Insurance : Sale Price ($166.03506912790738) : Sold on (11)
+	Adams and Microchip and 1 Prepad Vet : Sale Price ($191.03506912790738) : Sold on (11)
+	Adams : Sale Price ($116.03506912790739) : Sold on (12)
+	Knockoff Treat : Sale Price ($23.43252307830792) : Sold on (12)
+	Knockoff Treat : Sale Price ($20.249872846625326) : Sold on (12)
+	Knockoff Treat : Sale Price ($29.693273750538125) : Sold on (12)
+	NameBrand Treat : Sale Price ($23.60193499721005) : Sold on (12)
+	Knockoff Treat : Sale Price ($37.5566180317819) : Sold on (13)
+	Knockoff Treat : Sale Price ($32.561144135676514) : Sold on (13)
+	NameBrand Treat : Sale Price ($30.8682186437512) : Sold on (13)
+	Knockoff Treat : Sale Price ($22.434498367779536) : Sold on (13)
+	NameBrand Treat : Sale Price ($31.009073293019824) : Sold on (13)
+	Knockoff Treat : Sale Price ($18.747569394115963) : Sold on (14)
+	Knockoff Treat : Sale Price ($20.71330179128843) : Sold on (14)
+	Bob and Microchip and 2 Prepad Vet : Sale Price ($278.0241017474914) : Sold on (14)
+	Bob and Microchip : Sale Price ($228.0241017474914) : Sold on (14)
+	Bob and Microchip : Sale Price ($228.0241017474914) : Sold on (14)
+	NameBrand Treat : Sale Price ($29.584688815948063) : Sold on (14)
+	Bob : Sale Price ($178.0241017474914) : Sold on (14)
+	NameBrand Treat : Sale Price ($20.670830454433332) : Sold on (14)
+	Knockoff Treat : Sale Price ($30.816967552001287) : Sold on (15)
+	NameBrand Treat : Sale Price ($32.02722254292741) : Sold on (15)
+	Kitty and 2 Prepad Vet : Sale Price ($140.33696220350762) : Sold on (15)
+	Knockoff Treat : Sale Price ($28.893630432514044) : Sold on (15)
+	Fido and Microchip : Sale Price ($110.92922011289815) : Sold on (15)
+	Kitty and Microchip and Pet Insurance : Sale Price ($190.33696220350762) : Sold on (15)
+	Kitty and Pet Insurance : Sale Price ($140.33696220350762) : Sold on (15)
+	Kitty and Pet Insurance : Sale Price ($140.33696220350762) : Sold on (15)
+	Kitty and Microchip and Pet Insurance : Sale Price ($190.33696220350762) : Sold on (16)
+	Kitty : Sale Price ($90.33696220350762) : Sold on (16)
+	NameBrand Treat : Sale Price ($27.995094993820647) : Sold on (16)
+	Bob : Sale Price ($168.01719237696085) : Sold on (16)
+	Fido and Microchip and 2 Prepad Vet : Sale Price ($160.92922011289815) : Sold on (16)
+	Fido and 1 Prepad Vet : Sale Price ($85.92922011289815) : Sold on (17)
+	Fido and Microchip : Sale Price ($110.92922011289815) : Sold on (17)
+	Fido and Microchip : Sale Price ($110.92922011289815) : Sold on (17)
+	Fido : Sale Price ($60.92922011289815) : Sold on (17)
+	Watson and Microchip : Sale Price ($183.36821315059905) : Sold on (17)
+	Watson : Sale Price ($133.36821315059905) : Sold on (18)
+	Bob and Microchip : Sale Price ($127.68407799898971) : Sold on (18)
+	Bob and Pet Insurance : Sale Price ($127.68407799898971) : Sold on (18)
+	Bob and Microchip and Pet Insurance : Sale Price ($177.68407799898972) : Sold on (18)
+	Bod and Microchip : Sale Price ($159.863210463341) : Sold on (18)
+	Bob and 3 Prepad Vet : Sale Price ($152.68407799898972) : Sold on (18)
+	Bod and Microchip : Sale Price ($159.863210463341) : Sold on (19)
+	Bob : Sale Price ($77.68407799898971) : Sold on (19)
+	Bod and Pet Insurance and 2 Prepad Vet : Sale Price ($209.863210463341) : Sold on (19)
+	Snek and Microchip : Sale Price ($174.75774426250206) : Sold on (19)
+	Bod : Sale Price ($109.863210463341) : Sold on (19)
+	NoooooooooOOo : Sale Price ($94.56719241318845) : Sold on (19)
+	Snek : Sale Price ($124.75774426250206) : Sold on (19)
+	Buddy and Microchip : Sale Price ($215.51006085482047) : Sold on (19)
+	Knockoff Treat : Sale Price ($26.415907311706853) : Sold on (19)
+	NameBrand Treat : Sale Price ($20.689539154179283) : Sold on (20)
+	Buddy and Microchip and 1 Prepad Vet : Sale Price ($240.51006085482047) : Sold on (20)
+	Sir Purrington : Sale Price ($51.61731883796751) : Sold on (20)
+	Buddy and Microchip and 3 Prepad Vet : Sale Price ($290.5100608548205) : Sold on (20)
+	Buddy and Microchip and Pet Insurance : Sale Price ($265.5100608548205) : Sold on (20)
+	Buddy : Sale Price ($165.51006085482047) : Sold on (20)
+	Fido and Microchip : Sale Price ($196.3393374389528) : Sold on (21)
+	Fido and Microchip and Pet Insurance and 2 Prepad Vet : Sale Price ($296.33933743895284) : Sold on (21)
+	Fido : Sale Price ($146.3393374389528) : Sold on (21)
+	Knockoff food : Sale Price ($23.79234848336214) : Sold on (21)
+	Knockoff food : Sale Price ($25.586609007505544) : Sold on (22)
+	Knockoff Leash : Sale Price ($5.380322167362504) : Sold on (22)
+	Knockoff food : Sale Price ($17.92277315341792) : Sold on (22)
+	Knockoff Treat : Sale Price ($30.196408283530364) : Sold on (22)
+	Knockoff Treat : Sale Price ($34.82146273479995) : Sold on (22)
+	NameBrand Treat : Sale Price ($30.766078570832683) : Sold on (23)
+	Fancy Leash : Sale Price ($19.702971862536565) : Sold on (23)
+	Knockoff food : Sale Price ($11.380541067843842) : Sold on (23)
+	Knockoff food : Sale Price ($12.257754505548979) : Sold on (23)
+	Petkit food : Sale Price ($11.21344969622006) : Sold on (24)
+	Knockoff Treat : Sale Price ($28.873955420427286) : Sold on (24)
+	NameBrand Treat : Sale Price ($30.22542130068769) : Sold on (24)
+	Fancy Leash : Sale Price ($9.91323915575181) : Sold on (24)
+	Fancy Leash : Sale Price ($13.075984557713024) : Sold on (25)
+	Petkit food : Sale Price ($22.26015083878511) : Sold on (25)
+	Knockoff Litter : Sale Price ($26.73680118290292) : Sold on (25)
+	NameBrand Treat : Sale Price ($29.682005924397412) : Sold on (25)
+	Knockoff Litter : Sale Price ($22.332327425246614) : Sold on (25)
+	Fancy Leash : Sale Price ($3.847475262829141) : Sold on (25)
+	Boo : Sale Price ($63.270011072526536) : Sold on (26)
+	Petkit food : Sale Price ($21.902744277455312) : Sold on (26)
+	Knockoff Treat : Sale Price ($18.63826692349272) : Sold on (26)
+	Knockoff Leash : Sale Price ($4.488603337671086) : Sold on (26)
+	Petkit food : Sale Price ($20.00548399190541) : Sold on (26)
+	NameBrand Litter : Sale Price ($27.917204995858228) : Sold on (26)
+	Knockoff Treat : Sale Price ($24.523399256974958) : Sold on (27)
+	Knockoff Litter : Sale Price ($31.30542370302904) : Sold on (27)
+	Knockoff Treat : Sale Price ($28.138528130914207) : Sold on (27)
+	Zera and Microchip : Sale Price ($201.7955478631451) : Sold on (27)
+	Zera and Microchip : Sale Price ($201.7955478631451) : Sold on (27)
+	Zera and Microchip and 2 Prepad Vet : Sale Price ($251.7955478631451) : Sold on (27)
+	Zera : Sale Price ($151.7955478631451) : Sold on (27)
+	Zera and Microchip and Pet Insurance : Sale Price ($237.89005787356578) : Sold on (27)
+	Zera and Microchip : Sale Price ($187.89005787356578) : Sold on (28)
+	Zera and Microchip : Sale Price ($187.89005787356578) : Sold on (28)
+	Zera and Microchip and Pet Insurance and 1 Prepad Vet : Sale Price ($262.89005787356575) : Sold on (28)
+	Zera and 2 Prepad Vet : Sale Price ($187.89005787356578) : Sold on (28)
+	Knockoff Treat : Sale Price ($21.84472887979737) : Sold on (28)
+	Zera and Microchip : Sale Price ($187.89005787356578) : Sold on (28)
+	Zera : Sale Price ($137.89005787356578) : Sold on (29)
+	NameBrand Treat : Sale Price ($33.60683442688128) : Sold on (29)
+	NameBrand Treat : Sale Price ($31.053398184212007) : Sold on (29)
+	NameBrand Litter : Sale Price ($36.476948941063554) : Sold on (29)
+	NameBrand Litter : Sale Price ($29.226939865711113) : Sold on (30)
+	Knockoff Treat : Sale Price ($26.37048908145202) : Sold on (30)
+	Knockoff Treat : Sale Price ($33.45998686548548) : Sold on (30)
+	Bod and Microchip : Sale Price ($109.23400801704463) : Sold on (30)
+Sick in the store: 
+	Joy
+	SnAKEEEEEEEE
+	Kitty
+	NOPE
+(base) ➜  OOAD-Projects git:(main) ✗ 
