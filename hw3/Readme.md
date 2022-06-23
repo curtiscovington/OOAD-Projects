@@ -6,6 +6,8 @@ Curtis Covington
 Tim Coleman   
 
 
+Logs from the Logger class are in the logs directory.
+
 This repo contains Java code to run a Pet Store Simulation as defined in the [project 3 requirements](OOAD%20Project%203.pdf).
 Below is a high level breakdown of the classes and subclasses. Please refer to the [UML design doc](Pet_Store_Simulation_UML.pdf) for more information.  
 
