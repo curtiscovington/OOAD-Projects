@@ -8,9 +8,9 @@ Tim Coleman
 
 Logs from the Logger class are in the logs directory.
 
-This repo contains Java code to run a Pet Store Simulation as defined in the [project 3 requirements](OOAD%20Project%203.pdf) which has extended support from project 2 and includes items (high level): 
+This repo contains Java code to run a Pet Store Simulation as defined in the [project 3 requirements](OOAD%20Project%203.pdf) which has extended support from project 2 and includes items (summary): 
 
-|  High Level Feature |  Done |
+|  Feature |  Done |
 |---|---|
 | Stop selling Toys | Yes  | 
 | Use Poisson distribution for employee arrival | Yes  | 
