@@ -29,28 +29,49 @@ public class Tracker implements PropertyChangeListener {
             } else {
                 clerksPurchasePrice.put(employee, event.getItem().getPurchasePrice());
             }
+        } else {
+            if (trainersItemsSold.containsKey(employee)) {
+                trainersItemsSold.put(employee, trainersItemsSold.get(employee) + 1);
+            } else {
+                trainersItemsSold.put(employee, 1);
+            }
+
+            if (trainersPurchasePrice.containsKey(employee)) {
+                trainersPurchasePrice.put(employee, trainersPurchasePrice.get(employee) + event.getItem().getPurchasePrice());
+            } else {
+                trainersPurchasePrice.put(employee, event.getItem().getPurchasePrice());
+            }
         }
     }
 
 
     // pretty print the results
     public void printClerkStats() {
-        System.out.println("Clerks\tItems Sold\tPurchase Price");
+        System.out.println("\tClerks\t\tSold\tPurchase Price");
         for (Employee employee : clerksItemsSold.keySet()) {
-            System.out.println(employee.getName() + "\t" + clerksItemsSold.get(employee) + "\t$" + clerksPurchasePrice.get(employee));
+            System.out.println("\t"+employee.getName() + "\t\t" + clerksItemsSold.get(employee) + "\t$" + clerksPurchasePrice.get(employee));
         }
     }
 
     public void printTrainerStats() {
-        System.out.println("Trainers\tItems Sold\tPurchase Price");
+        System.out.println("\tTrainers\tSold\tPurchase Price");
         for (Employee employee : trainersItemsSold.keySet()) {
-            System.out.println(employee.getName() + "\t" + trainersItemsSold.get(employee) + "\t$" + trainersPurchasePrice.get(employee));
+            System.out.println("\t"+employee.getName() + "\t\t" + trainersItemsSold.get(employee) + "\t$" + trainersPurchasePrice.get(employee));
         }
     }
 
     public void printStats() {
+        System.out.println();
+        System.out.println("********************************************************");
+        System.out.println("*                                                      *");
+        System.out.println("*                                                      *");
         printClerkStats();
+        System.out.println();
         printTrainerStats();
+        System.out.println("*                                                      *");
+        System.out.println("*                                                      *");
+        System.out.println("********************************************************");
+        System.out.println();
     }
     
 }
