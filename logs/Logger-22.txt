@@ -1,9 +1,15 @@
-ArriveAtStoreEvent: ( Jack the Clerk )
+ArriveAtStoreEvent: ( John the Clerk )
 ArriveAtStoreEvent: ( Dianne the Clerk )
-ProcessDeliveriesEvent: ( Jack the Clerk ), itemsAdded: 2
-CheckRegisterEvent: ( Jack the Clerk ), amount: 4058.5251863091735
-DoInventoryEvent: ( Jack the Clerk ), pets: 14, supplies: 42, purchasePrice: 1485.6010619988679
-( Jack the Clerk )
+ProcessDeliveriesEvent: ( John the Clerk ), itemsAdded: 5
+CheckRegisterEvent: ( John the Clerk ), amount: 6963.2374485070595
+DoInventoryEvent: ( John the Clerk ), pets: 19, supplies: 51, purchasePrice: 2053.335877323514
+( John the Clerk )
+ItemSoldEvent: ( Dianne the Clerk ), item: Kitty and Microchip
+ItemSoldEvent: ( Dianne the Clerk ), item: Kitty
+ItemSoldEvent: ( Dianne the Clerk ), item: Knockoff food
+ItemSoldEvent: ( John the Clerk ), item: Petkit food
+ItemSoldEvent: ( Dianne the Clerk ), item: Petkit food
+AnimalEscapeEvent: ( Dianne the Clerk ), pet: Noperino
 AnimalEscapeEvent: ( Dianne the Clerk ), pet: Buddy
-LeaveStoreEvent: ( Jack the Clerk )
+LeaveStoreEvent: ( John the Clerk )
 LeaveStoreEvent: ( Dianne the Clerk )

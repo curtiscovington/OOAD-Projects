@@ -1,8 +1,12 @@
-ArriveAtStoreEvent: ( Sarah the Clerk )
+ArriveAtStoreEvent: ( John the Clerk )
 ArriveAtStoreEvent: ( Timmy the Clerk )
-ProcessDeliveriesEvent: ( Sarah the Clerk ), itemsAdded: 7
-CheckRegisterEvent: ( Sarah the Clerk ), amount: 1914.4026301735253
-DoInventoryEvent: ( Sarah the Clerk ), pets: 5, supplies: 13, purchasePrice: 576.1723773823684
-( Sarah the Clerk )
-LeaveStoreEvent: ( Sarah the Clerk )
+ProcessDeliveriesEvent: ( John the Clerk ), itemsAdded: 4
+CheckRegisterEvent: ( John the Clerk ), amount: 4570.447715764818
+DoInventoryEvent: ( John the Clerk ), pets: 8, supplies: 18, purchasePrice: 750.472541582734
+( John the Clerk )
+ItemSoldEvent: ( Timmy the Clerk ), item: Knockoff Litter
+ItemSoldEvent: ( Timmy the Clerk ), item: Fido
+ItemSoldEvent: ( Timmy the Clerk ), item: Zera and Pet Insurance and 3 Prepad Vet
+ItemSoldEvent: ( Timmy the Clerk ), item: Zera and Microchip and Pet Insurance
+LeaveStoreEvent: ( John the Clerk )
 LeaveStoreEvent: ( Timmy the Clerk )

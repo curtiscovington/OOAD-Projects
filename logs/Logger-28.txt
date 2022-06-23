@@ -1,8 +1,12 @@
-ArriveAtStoreEvent: ( John the Clerk )
-ArriveAtStoreEvent: ( Sally the Clerk )
-ProcessDeliveriesEvent: ( John the Clerk ), itemsAdded: 11
-CheckRegisterEvent: ( John the Clerk ), amount: 3347.619958780876
-DoInventoryEvent: ( John the Clerk ), pets: 9, supplies: 51, purchasePrice: 1238.0785492210587
-( John the Clerk )
-LeaveStoreEvent: ( John the Clerk )
-LeaveStoreEvent: ( Sally the Clerk )
+ArriveAtStoreEvent: ( Sarah the Clerk )
+ArriveAtStoreEvent: ( Dianne the Clerk )
+ProcessDeliveriesEvent: ( Sarah the Clerk ), itemsAdded: 3
+CheckRegisterEvent: ( Sarah the Clerk ), amount: 11690.875014179668
+DoInventoryEvent: ( Sarah the Clerk ), pets: 15, supplies: 59, purchasePrice: 1965.173473843275
+( Sarah the Clerk )
+ItemSoldEvent: ( Dianne the Clerk ), item: Noperino and 1 Prepad Vet
+ItemSoldEvent: ( Dianne the Clerk ), item: Noperino and Microchip
+ItemSoldEvent: ( Dianne the Clerk ), item: Noperino and 2 Prepad Vet
+ItemSoldEvent: ( Dianne the Clerk ), item: Noperino and Microchip and 3 Prepad Vet
+LeaveStoreEvent: ( Sarah the Clerk )
+LeaveStoreEvent: ( Dianne the Clerk )

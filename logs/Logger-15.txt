@@ -1,11 +1,16 @@
 ArriveAtStoreEvent: ( John the Clerk )
-ArriveAtStoreEvent: ( Timmy the Clerk )
-ProcessDeliveriesEvent: ( John the Clerk ), itemsAdded: 4
-CheckRegisterEvent: ( John the Clerk ), amount: 2918.3885279481433
-DoInventoryEvent: ( John the Clerk ), pets: 19, supplies: 40, purchasePrice: 1669.6242680821701
+ArriveAtStoreEvent: ( Sally the Clerk )
+ProcessDeliveriesEvent: ( John the Clerk ), itemsAdded: 9
+CheckRegisterEvent: ( John the Clerk ), amount: 5936.949233270169
+DoInventoryEvent: ( John the Clerk ), pets: 21, supplies: 42, purchasePrice: 2006.5913906746675
 ( John the Clerk )
-AnimalEscapeEvent: ( Timmy the Clerk ), pet: Sir Purrington
-AnimalEscapeEvent: ( Timmy the Clerk ), pet: Bod
-AnimalEscapeEvent: ( Timmy the Clerk ), pet: NOPE
+ItemSoldEvent: ( Sally the Clerk ), item: Knockoff Treat
+ItemSoldEvent: ( Sally the Clerk ), item: Knockoff Treat
+ItemSoldEvent: ( Sally the Clerk ), item: NameBrand Treat
+ItemSoldEvent: ( Sally the Clerk ), item: NameBrand Treat
+ItemSoldEvent: ( Sally the Clerk ), item: NameBrand Treat
+ItemSoldEvent: ( Sally the Clerk ), item: Knockoff Treat
+AnimalEscapeEvent: ( Sally the Clerk ), pet: Joy
+AnimalEscapeEvent: ( Sally the Clerk ), pet: NoooooooooOOo
 LeaveStoreEvent: ( John the Clerk )
-LeaveStoreEvent: ( Timmy the Clerk )
+LeaveStoreEvent: ( Sally the Clerk )

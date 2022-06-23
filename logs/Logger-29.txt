@@ -1,11 +1,15 @@
-ArriveAtStoreEvent: ( John the Clerk )
-ArriveAtStoreEvent: ( Dianne the Clerk )
-ProcessDeliveriesEvent: ( John the Clerk ), itemsAdded: 6
-CheckRegisterEvent: ( John the Clerk ), amount: 3757.4895005180833
-DoInventoryEvent: ( John the Clerk ), pets: 12, supplies: 50, purchasePrice: 1342.0707350117757
-( John the Clerk )
-AnimalEscapeEvent: ( Dianne the Clerk ), pet: Sir Purrington
-AnimalEscapeEvent: ( Dianne the Clerk ), pet: Bob
-AnimalEscapeEvent: ( Dianne the Clerk ), pet: Coco
-LeaveStoreEvent: ( John the Clerk )
-LeaveStoreEvent: ( Dianne the Clerk )
+ArriveAtStoreEvent: ( Sarah the Clerk )
+ArriveAtStoreEvent: ( Timmy the Clerk )
+ProcessDeliveriesEvent: ( Sarah the Clerk ), itemsAdded: 2
+CheckRegisterEvent: ( Sarah the Clerk ), amount: 12093.597824863164
+DoInventoryEvent: ( Sarah the Clerk ), pets: 15, supplies: 61, purchasePrice: 1994.6390157209378
+( Sarah the Clerk )
+ItemSoldEvent: ( Timmy the Clerk ), item: Noperino and Microchip and 3 Prepad Vet
+ItemSoldEvent: ( Timmy the Clerk ), item: Noperino and Microchip
+ItemSoldEvent: ( Timmy the Clerk ), item: Noperino and Microchip
+ItemSoldEvent: ( Timmy the Clerk ), item: Noperino and Microchip
+ItemSoldEvent: ( Timmy the Clerk ), item: Noperino and Microchip and Pet Insurance
+ItemSoldEvent: ( Timmy the Clerk ), item: Noperino
+AnimalEscapeEvent: ( Timmy the Clerk ), pet: Lucas
+LeaveStoreEvent: ( Sarah the Clerk )
+LeaveStoreEvent: ( Timmy the Clerk )

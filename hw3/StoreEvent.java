@@ -8,6 +8,10 @@ public class StoreEvent {
         this.employee = employee;
     }
 
+    public Employee getEmployee() {
+        return employee;
+    }
+
     @Override
     public String toString() {
         return "( " +employee.getName() + " the " + employee.getEmployeeType() + " )";

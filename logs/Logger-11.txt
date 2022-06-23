@@ -1,9 +1,13 @@
 ArriveAtStoreEvent: ( John the Clerk )
-ArriveAtStoreEvent: ( Sally the Clerk )
-ProcessDeliveriesEvent: ( John the Clerk ), itemsAdded: 20
-CheckRegisterEvent: ( John the Clerk ), amount: 1032.353837092105
-DoInventoryEvent: ( John the Clerk ), pets: 17, supplies: 36, purchasePrice: 1469.6004116074469
+ArriveAtStoreEvent: ( Timmy the Clerk )
+ProcessDeliveriesEvent: ( John the Clerk ), itemsAdded: 6
+CheckRegisterEvent: ( John the Clerk ), amount: 6044.474955858491
+DoInventoryEvent: ( John the Clerk ), pets: 7, supplies: 23, purchasePrice: 795.4988525019425
 ( John the Clerk )
-AnimalEscapeEvent: ( Sally the Clerk ), pet: Bod
+ItemSoldEvent: ( Timmy the Clerk ), item: Joy
+ItemSoldEvent: ( Timmy the Clerk ), item: Joey and Microchip
+ItemSoldEvent: ( Timmy the Clerk ), item: Joey and Microchip
+ItemSoldEvent: ( Timmy the Clerk ), item: Joey and 1 Prepad Vet
+AnimalEscapeEvent: ( Timmy the Clerk ), pet: Sir Purrington
 LeaveStoreEvent: ( John the Clerk )
-LeaveStoreEvent: ( Sally the Clerk )
+LeaveStoreEvent: ( Timmy the Clerk )

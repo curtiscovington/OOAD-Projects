@@ -1,9 +1,15 @@
 ArriveAtStoreEvent: ( John the Clerk )
 ArriveAtStoreEvent: ( Sally the Clerk )
-ProcessDeliveriesEvent: ( John the Clerk ), itemsAdded: 4
-CheckRegisterEvent: ( John the Clerk ), amount: 3353.9057084657125
-DoInventoryEvent: ( John the Clerk ), pets: 21, supplies: 39, purchasePrice: 1841.1340594365236
+ProcessDeliveriesEvent: ( John the Clerk ), itemsAdded: 7
+CheckRegisterEvent: ( John the Clerk ), amount: 5606.736146444723
+DoInventoryEvent: ( John the Clerk ), pets: 28, supplies: 43, purchasePrice: 2489.1185885669142
 ( John the Clerk )
-AnimalEscapeEvent: ( Sally the Clerk ), pet: Coco
+ItemSoldEvent: ( Sally the Clerk ), item: NameBrand Treat
+ItemSoldEvent: ( Sally the Clerk ), item: Sir Purrington and Microchip
+ItemSoldEvent: ( Sally the Clerk ), item: Sir Purrington and Microchip and Pet Insurance
+ItemSoldEvent: ( Sally the Clerk ), item: Sir Purrington
+AnimalEscapeEvent: ( Sally the Clerk ), pet: Snek
+AnimalEscapeEvent: ( Sally the Clerk ), pet: NoooooooooOOo
+AnimalEscapeEvent: ( Sally the Clerk ), pet: Buddy
 LeaveStoreEvent: ( John the Clerk )
 LeaveStoreEvent: ( Sally the Clerk )

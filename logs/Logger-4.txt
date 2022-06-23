@@ -1,9 +1,13 @@
-ArriveAtStoreEvent: ( John the Clerk )
-ArriveAtStoreEvent: ( Timmy the Clerk )
-ProcessDeliveriesEvent: ( John the Clerk ), itemsAdded: 3
-CheckRegisterEvent: ( John the Clerk ), amount: 1866.5202848852255
-DoInventoryEvent: ( John the Clerk ), pets: 7, supplies: 10, purchasePrice: 566.1982191664343
-( John the Clerk )
-AnimalEscapeEvent: ( Timmy the Clerk ), pet: Fido
-LeaveStoreEvent: ( John the Clerk )
-LeaveStoreEvent: ( Timmy the Clerk )
+ArriveAtStoreEvent: ( Jack the Clerk )
+ArriveAtStoreEvent: ( Sally the Clerk )
+ProcessDeliveriesEvent: ( Jack the Clerk ), itemsAdded: 2
+CheckRegisterEvent: ( Jack the Clerk ), amount: 3500.475394619939
+DoInventoryEvent: ( Jack the Clerk ), pets: 10, supplies: 12, purchasePrice: 754.633891800014
+( Jack the Clerk )
+ItemSoldEvent: ( Sally the Clerk ), item: Adams and Microchip and 1 Prepad Vet
+ItemSoldEvent: ( Sally the Clerk ), item: Adams and Microchip
+ItemSoldEvent: ( Sally the Clerk ), item: Adams and Microchip
+ItemSoldEvent: ( Sally the Clerk ), item: Adams and Microchip
+ItemSoldEvent: ( Sally the Clerk ), item: Adams and Microchip and Pet Insurance
+LeaveStoreEvent: ( Jack the Clerk )
+LeaveStoreEvent: ( Sally the Clerk )

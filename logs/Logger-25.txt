@@ -1,8 +1,14 @@
 ArriveAtStoreEvent: ( Sarah the Clerk )
 ArriveAtStoreEvent: ( Timmy the Clerk )
-ProcessDeliveriesEvent: ( Sarah the Clerk ), itemsAdded: 1
-CheckRegisterEvent: ( Sarah the Clerk ), amount: 4333.620385638374
-DoInventoryEvent: ( Sarah the Clerk ), pets: 12, supplies: 42, purchasePrice: 1454.4792457567999
+ProcessDeliveriesEvent: ( Sarah the Clerk ), itemsAdded: 6
+CheckRegisterEvent: ( Sarah the Clerk ), amount: 9117.593198770954
+DoInventoryEvent: ( Sarah the Clerk ), pets: 15, supplies: 51, purchasePrice: 1759.7747001731525
 ( Sarah the Clerk )
+ItemSoldEvent: ( Timmy the Clerk ), item: Snek
+ItemSoldEvent: ( Timmy the Clerk ), item: SnAKEEEEEEEE and Pet Insurance
+ItemSoldEvent: ( Timmy the Clerk ), item: Snek and Microchip and Pet Insurance
+ItemSoldEvent: ( Timmy the Clerk ), item: Snek and Pet Insurance
+ItemSoldEvent: ( Timmy the Clerk ), item: SnAKEEEEEEEE and Microchip
+ItemSoldEvent: ( Timmy the Clerk ), item: SnAKEEEEEEEE and Microchip and Pet Insurance and 1 Prepad Vet
 LeaveStoreEvent: ( Sarah the Clerk )
 LeaveStoreEvent: ( Timmy the Clerk )

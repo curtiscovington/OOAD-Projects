@@ -1,8 +1,13 @@
-ArriveAtStoreEvent: ( Sarah the Clerk )
-ArriveAtStoreEvent: ( Dianne the Clerk )
-ProcessDeliveriesEvent: ( Sarah the Clerk ), itemsAdded: 3
-CheckRegisterEvent: ( Sarah the Clerk ), amount: 1924.436909479433
-DoInventoryEvent: ( Sarah the Clerk ), pets: 5, supplies: 9, purchasePrice: 461.1100896699452
-( Sarah the Clerk )
-LeaveStoreEvent: ( Sarah the Clerk )
-LeaveStoreEvent: ( Dianne the Clerk )
+ArriveAtStoreEvent: ( Jack the Clerk )
+ArriveAtStoreEvent: ( Timmy the Clerk )
+ProcessDeliveriesEvent: ( Jack the Clerk ), itemsAdded: 2
+CheckRegisterEvent: ( Jack the Clerk ), amount: 4654.726222451961
+DoInventoryEvent: ( Jack the Clerk ), pets: 9, supplies: 17, purchasePrice: 766.2864953434373
+( Jack the Clerk )
+ItemSoldEvent: ( Timmy the Clerk ), item: NameBrand Treat
+ItemSoldEvent: ( Jack the Clerk ), item: Knockoff Toy
+ItemSoldEvent: ( Timmy the Clerk ), item: Bob
+ItemSoldEvent: ( Timmy the Clerk ), item: Fancy Leash
+AnimalEscapeEvent: ( Timmy the Clerk ), pet: Coco
+LeaveStoreEvent: ( Jack the Clerk )
+LeaveStoreEvent: ( Timmy the Clerk )

@@ -1,8 +1,14 @@
-ArriveAtStoreEvent: ( Jack the Clerk )
-ArriveAtStoreEvent: ( Sally the Clerk )
-ProcessDeliveriesEvent: ( Jack the Clerk ), itemsAdded: 5
-CheckRegisterEvent: ( Jack the Clerk ), amount: 3799.0690064881164
-DoInventoryEvent: ( Jack the Clerk ), pets: 7, supplies: 49, purchasePrice: 1118.583815826543
-( Jack the Clerk )
-LeaveStoreEvent: ( Jack the Clerk )
-LeaveStoreEvent: ( Sally the Clerk )
+ArriveAtStoreEvent: ( Sarah the Clerk )
+ArriveAtStoreEvent: ( Timmy the Clerk )
+ProcessDeliveriesEvent: ( Sarah the Clerk ), itemsAdded: 4
+CheckRegisterEvent: ( Sarah the Clerk ), amount: 11044.763926583477
+DoInventoryEvent: ( Sarah the Clerk ), pets: 16, supplies: 58, purchasePrice: 2024.6281664492774
+( Sarah the Clerk )
+ItemSoldEvent: ( Timmy the Clerk ), item: SnAKEEEEEEEE and Microchip and Pet Insurance
+ItemSoldEvent: ( Sarah the Clerk ), item: Knockoff Treat
+ItemSoldEvent: ( Timmy the Clerk ), item: SnAKEEEEEEEE and Pet Insurance
+ItemSoldEvent: ( Timmy the Clerk ), item: SnAKEEEEEEEE
+ItemSoldEvent: ( Sarah the Clerk ), item: Snek
+AnimalEscapeEvent: ( Timmy the Clerk ), pet: Joy
+LeaveStoreEvent: ( Sarah the Clerk )
+LeaveStoreEvent: ( Timmy the Clerk )

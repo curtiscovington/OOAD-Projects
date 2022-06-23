@@ -16,6 +16,7 @@ public class Store {
     ArrayList<Order> orders = new ArrayList<Order>();
 
     Logger logger;
+    Tracker tracker;
 
     // observable pattern for employee actions
     PropertyChangeSupport employeeActionsObservable;
@@ -57,6 +58,8 @@ public class Store {
     // Constructor
     public Store() {
         employeeActionsObservable = new PropertyChangeSupport(this);
+        tracker = new Tracker();
+        employeeActionsObservable.addPropertyChangeListener("itemSold", tracker);
         // three instances of each lowest subclass
         for (int i = 0; i < 3; i++) {
             addItem(Food.newRandomItem(0));
@@ -129,6 +132,9 @@ public class Store {
         openStore(customers);
         cleanStore();
         closeStore();
+
+        System.out.println("Tracker Day " + age);
+        tracker.printStats();
     }
 
     public void closeStore() {
@@ -451,6 +457,13 @@ public class Store {
         item.setDaySold(age);
         itemsSold.add(item);
         items.remove(item);
+
+        Employee seller = clerk;
+        if (item.getListPrice() != item.getSalePrice()) {
+            seller = trainer;
+        }
+
+        employeeActionsObservable.firePropertyChange("itemSold", null, new ItemSoldEvent(seller, item));
     }
 
     // processes the deliveries and returns the number of items added to the store

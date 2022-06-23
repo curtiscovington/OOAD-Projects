@@ -1,8 +1,10 @@
-ArriveAtStoreEvent: ( Sarah the Clerk )
+ArriveAtStoreEvent: ( John the Clerk )
 ArriveAtStoreEvent: ( Timmy the Clerk )
-ProcessDeliveriesEvent: ( Sarah the Clerk ), itemsAdded: 3
-CheckRegisterEvent: ( Sarah the Clerk ), amount: 1923.8000445598266
-DoInventoryEvent: ( Sarah the Clerk ), pets: 4, supplies: 12, purchasePrice: 438.36856628609735
-( Sarah the Clerk )
-LeaveStoreEvent: ( Sarah the Clerk )
+ProcessDeliveriesEvent: ( John the Clerk ), itemsAdded: 3
+CheckRegisterEvent: ( John the Clerk ), amount: 4312.256762436939
+DoInventoryEvent: ( John the Clerk ), pets: 10, supplies: 15, purchasePrice: 801.3106208000883
+( John the Clerk )
+ItemSoldEvent: ( Timmy the Clerk ), item: Adams and Microchip and Pet Insurance and 3 Prepad Vet
+ItemSoldEvent: ( Timmy the Clerk ), item: Adams
+LeaveStoreEvent: ( John the Clerk )
 LeaveStoreEvent: ( Timmy the Clerk )

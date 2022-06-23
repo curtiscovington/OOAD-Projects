@@ -1,8 +1,15 @@
 ArriveAtStoreEvent: ( Jack the Clerk )
 ArriveAtStoreEvent: ( Sally the Clerk )
-ProcessDeliveriesEvent: ( Jack the Clerk ), itemsAdded: 4
-CheckRegisterEvent: ( Jack the Clerk ), amount: 4413.361485516106
-DoInventoryEvent: ( Jack the Clerk ), pets: 15, supplies: 43, purchasePrice: 1590.3347038929398
+ProcessDeliveriesEvent: ( Jack the Clerk ), itemsAdded: 1
+CheckRegisterEvent: ( Jack the Clerk ), amount: 8211.387267815502
+DoInventoryEvent: ( Jack the Clerk ), pets: 15, supplies: 47, purchasePrice: 1712.161503215425
 ( Jack the Clerk )
+ItemSoldEvent: ( Sally the Clerk ), item: Coco and 2 Prepad Vet
+ItemSoldEvent: ( Sally the Clerk ), item: Coco and Microchip
+ItemSoldEvent: ( Jack the Clerk ), item: Coco
+ItemSoldEvent: ( Sally the Clerk ), item: Snek and 2 Prepad Vet
+ItemSoldEvent: ( Sally the Clerk ), item: Snek and Microchip
+ItemSoldEvent: ( Sally the Clerk ), item: Snek and 1 Prepad Vet
+ItemSoldEvent: ( Sally the Clerk ), item: Snek and Microchip
 LeaveStoreEvent: ( Jack the Clerk )
 LeaveStoreEvent: ( Sally the Clerk )
