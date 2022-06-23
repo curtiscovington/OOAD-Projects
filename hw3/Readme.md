@@ -26,7 +26,7 @@ This repo contains Java code to run a Pet Store Simulation as defined in the [pr
 | Create an event consumer class called a Tracker | Yes  |
 | Update UML class diagram for observer, decorator and strategy | Yes  |
 | Add UML Activity diagram for app flow | Yes  |
-
+| Add 10+ Assert JUnit tests | Yes  |
 
 Below is a high level breakdown of the classes and subclasses. Please refer to the [UML design doc](Pet_Store_Simulation_UML_Project_3.pdf ) for more information and the [Activity UML diagram](Pet_Store_UML_Activity_Diagram.pdf) to see the application flow. 
 
