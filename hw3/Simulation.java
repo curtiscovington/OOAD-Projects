@@ -2,8 +2,6 @@ package hw3;
 import java.util.ArrayList;
 import java.util.Random;
 
-import org.apache.commons.math3.distribution.PoissonDistribution;
-
 public class Simulation {
 
     // https://stackoverflow.com/questions/9832919/generate-poisson-arrival-in-java

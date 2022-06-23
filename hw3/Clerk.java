@@ -1,7 +1,6 @@
 package hw3;
 import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.Map;
 
 public class Clerk extends Employee {
     // TODO: change this to a location directory that has all the world locations
@@ -30,6 +29,7 @@ public class Clerk extends Employee {
         int catLitterCount = 0;
         int ferretCount = 0;
         int snakeCount = 0;
+        int treatCount = 0;
 
         double total = 0;
         for (Item item : items) {
@@ -53,6 +53,8 @@ public class Clerk extends Employee {
                 foodCount++;
             } else if (item instanceof CatLitter) {
                 catLitterCount++;
+            } else if (item instanceof Treat) {
+                treatCount++;
             }
         }
 
@@ -64,6 +66,7 @@ public class Clerk extends Employee {
         inventory.put("birds", birdCount);
         inventory.put("leashes", leashCount);
         inventory.put("toys", toyCount);
+        inventory.put("treats", treatCount);
         inventory.put("food", foodCount);
         inventory.put("cat litter", catLitterCount);
         inventory.put("total", total);
