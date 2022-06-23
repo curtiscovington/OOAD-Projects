@@ -1,7 +1,23 @@
 package hw3;
 import java.util.ArrayList;
+import java.util.Random;
+
+import org.apache.commons.math3.distribution.PoissonDistribution;
 
 public class Simulation {
+
+    // https://stackoverflow.com/questions/9832919/generate-poisson-arrival-in-java
+    private static int getPoissonRandom(double mean) {
+        Random r = new Random();
+        double L = Math.exp(-mean);
+        int k = 0;
+        double p = 1.0;
+        do {
+            p = p * r.nextDouble();
+            k++;
+        } while (p > L);
+        return k - 1;
+    }
     
     public static void main(String[] args) {
         Simulation sim = new Simulation(30);
@@ -82,8 +98,10 @@ public class Simulation {
         Clerk c = getClerkToWork();
         Trainer t = getTrainerToWork();
 
-        // Random number of customers between 3 and 10
-        int numCustomers = (int) (Math.random() * (10 - 3)) + 3;
+        // 2 plus a random variate from a Poisson distribution with mean 3 (this will result in random Poisson numbers from 1 to about 6 or 7 with a rare spike to 10 or so)
+        // random variate from a Poisson distribution with mean 3
+        int variate = getPoissonRandom(3);
+        int numCustomers = 2 + variate;
         ArrayList<Customer> customers = new ArrayList<Customer>();
         for (int i = 0; i < numCustomers; i++) {
             customers.add(new Customer());
