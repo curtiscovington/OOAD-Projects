@@ -16,12 +16,15 @@ Below is a high level breakdown of the classes and subclasses. Please refer to t
   * Pet (Abstract)
     * Dog 
     * Cat
-    * Bird 
+    * Bird
+    * Snake
+    * Ferret
   * Supply (Abstract)
     * Food
     * Leash 
     * Toy 
     * Cat Litter
+    * Treat
 * Person (Abstract)
   * Employee (Abstract)
     * Clerk 
