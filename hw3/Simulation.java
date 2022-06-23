@@ -23,8 +23,10 @@ public class Simulation {
 
         clerks.add(new Clerk("John", bank));
         clerks.add(new Clerk("Sarah", bank));
+        clerks.add(new Clerk("Jack", bank));
         trainers.add(new Trainer("Timmy"));
         trainers.add(new Trainer("Sally"));
+        trainers.add(new Trainer("Dianne"));
     }
 
     public void runSimulation() {
