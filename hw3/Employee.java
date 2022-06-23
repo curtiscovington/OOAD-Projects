@@ -23,6 +23,11 @@ public class Employee extends Person {
 
     // used to check if the employee has worked too many days
     public boolean isInNeedOfDayOff() {
+        // 10% chance the employee is sick
+        if (Math.random() < 0.1) {
+            System.out.println("Employee " + name + " is sick.");
+            return true;
+        }
         // if the employee has worked for 3 days without a day off, return true
         return daysWorkedInARow >= 3;
     }
