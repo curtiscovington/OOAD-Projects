@@ -28,6 +28,8 @@ public class Clerk extends Employee {
         int toyCount = 0;
         int foodCount = 0;
         int catLitterCount = 0;
+        int ferretCount = 0;
+        int snakeCount = 0;
 
         double total = 0;
         for (Item item : items) {
@@ -36,7 +38,12 @@ public class Clerk extends Employee {
                 dogCount++;
             } else if (item instanceof Cat) {
                 catCount++;
-            } else if (item instanceof Bird) {
+            } else if (item instanceof Snake) {
+                snakeCount++;
+            } else if (item instanceof Ferret) {
+                ferretCount++;
+            }
+             else if (item instanceof Bird) {
                 birdCount++;
             } else if (item instanceof Leash) {
                 leashCount++;
@@ -52,6 +59,8 @@ public class Clerk extends Employee {
         HashMap<String, Number> inventory = new HashMap<String, Number>();
         inventory.put("dogs", dogCount);
         inventory.put("cats", catCount);
+        inventory.put("snakes", snakeCount);
+        inventory.put("ferrets", ferretCount);
         inventory.put("birds", birdCount);
         inventory.put("leashes", leashCount);
         inventory.put("toys", toyCount);

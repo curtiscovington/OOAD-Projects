@@ -59,6 +59,8 @@ public class Store {
             addItem(Cat.newRandomItem(0));
             addItem(Dog.newRandomItem(0));
             addItem(Bird.newRandomItem(0));
+            addItem(Ferret.newRandomItem(0));
+            addItem(Snake.newRandomItem(0));
         }
     }
 
@@ -174,6 +176,22 @@ public class Store {
                         orders.add(clerk.placeOrder(Bird.newRandomItem(-1)));
                         orders.add(clerk.placeOrder(Bird.newRandomItem(-1)));
                         orders.add(clerk.placeOrder(Bird.newRandomItem(-1)));
+                        break;
+                    case "snakes":
+                        System.out.println("Clerk " + clerk.getName()
+                                + " has found that there are no more " + key + " in store and has ordered 3 more for $"
+                                + purchasePrice * 3);
+                        orders.add(clerk.placeOrder(Snake.newRandomItem(-1)));
+                        orders.add(clerk.placeOrder(Snake.newRandomItem(-1)));
+                        orders.add(clerk.placeOrder(Snake.newRandomItem(-1)));
+                        break;
+                    case "ferrets":
+                        System.out.println("Clerk " + clerk.getName()
+                                + " has found that there are no more " + key + " in store and has ordered 3 more for $"
+                                + purchasePrice * 3);
+                        orders.add(clerk.placeOrder(Ferret.newRandomItem(-1)));
+                        orders.add(clerk.placeOrder(Ferret.newRandomItem(-1)));
+                        orders.add(clerk.placeOrder(Ferret.newRandomItem(-1)));
                         break;
                     case "food":
                         System.out.println("Clerk " + clerk.getName()
