@@ -1,4 +1,5 @@
 package hw3;
+
 import java.util.ArrayList;
 import java.util.HashMap;
 
@@ -34,7 +35,7 @@ public class Store {
         }
         return total;
     }
-    
+
     public double getItemsSoldTotal() {
         double total = 0;
         for (Item item : itemsSold) {
@@ -46,7 +47,6 @@ public class Store {
     public ArrayList<Pet> getSickPets() {
         return sickPets;
     }
-
 
     // Constructor
     public Store() {
@@ -110,7 +110,7 @@ public class Store {
     public void runDay(Clerk clerk, Trainer trainer, ArrayList<Customer> customers) {
         arriveAtStore(clerk);
         arriveAtStore(trainer);
-        
+
         clerkTasks();
         trainerTasks();
         openStore(customers);
@@ -126,7 +126,7 @@ public class Store {
 
     public void clerkTasks() {
         processDeliveries();
-        
+
         // check the register
         double amount = clerk.checkRegister(cashRegister);
         System.out.println(
@@ -142,54 +142,71 @@ public class Store {
         HashMap<String, Number> inventory = clerk.doInventory(items);
         System.out.println(
                 "Clerk " + clerk.getName() + " has found the total of items in store are $" + inventory.get("total"));
-        
+
         for (String key : inventory.keySet()) {
             if (key != "total" && inventory.get(key).intValue() == 0) {
                 System.out.println("\t" + key);
                 // random purchase price between 10 and 100
                 double purchasePrice = (int) (Math.random() * (100 - 10)) + 10;
-                cashRegister.withdraw(purchasePrice*3);
-                System.out.println("Clerk " + clerk.getName()
-                + " has found that there are no more " + key + " in store and has ordered 3 more for $" + purchasePrice*3);
+                cashRegister.withdraw(purchasePrice * 3);
+
                 switch (key) {
                     case "dogs":
+                        System.out.println("Clerk " + clerk.getName()
+                                + " has found that there are no more " + key + " in store and has ordered 3 more for $"
+                                + purchasePrice * 3);
                         orders.add(clerk.placeOrder(Dog.newRandomItem(-1)));
                         orders.add(clerk.placeOrder(Dog.newRandomItem(-1)));
                         orders.add(clerk.placeOrder(Dog.newRandomItem(-1)));
                         break;
                     case "cats":
-                    orders.add(clerk.placeOrder(Cat.newRandomItem(-1)));
-                    orders.add(clerk.placeOrder(Cat.newRandomItem(-1)));
-                    orders.add(clerk.placeOrder(Cat.newRandomItem(-1)));
+                        System.out.println("Clerk " + clerk.getName()
+                                + " has found that there are no more " + key + " in store and has ordered 3 more for $"
+                                + purchasePrice * 3);
+                        orders.add(clerk.placeOrder(Cat.newRandomItem(-1)));
+                        orders.add(clerk.placeOrder(Cat.newRandomItem(-1)));
+                        orders.add(clerk.placeOrder(Cat.newRandomItem(-1)));
                         break;
                     case "birds":
-                    orders.add(clerk.placeOrder(Bird.newRandomItem(-1)));
-                    orders.add(clerk.placeOrder(Bird.newRandomItem(-1)));
-                    orders.add(clerk.placeOrder(Bird.newRandomItem(-1)));
+                        System.out.println("Clerk " + clerk.getName()
+                                + " has found that there are no more " + key + " in store and has ordered 3 more for $"
+                                + purchasePrice * 3);
+                        orders.add(clerk.placeOrder(Bird.newRandomItem(-1)));
+                        orders.add(clerk.placeOrder(Bird.newRandomItem(-1)));
+                        orders.add(clerk.placeOrder(Bird.newRandomItem(-1)));
                         break;
                     case "food":
-                    orders.add(clerk.placeOrder(Food.newRandomItem(-1)));
-                    orders.add(clerk.placeOrder(Food.newRandomItem(-1)));
-                    orders.add(clerk.placeOrder(Food.newRandomItem(-1)));
+                        System.out.println("Clerk " + clerk.getName()
+                                + " has found that there are no more " + key + " in store and has ordered 3 more for $"
+                                + purchasePrice * 3);
+                        orders.add(clerk.placeOrder(Food.newRandomItem(-1)));
+                        orders.add(clerk.placeOrder(Food.newRandomItem(-1)));
+                        orders.add(clerk.placeOrder(Food.newRandomItem(-1)));
                         break;
                     case "toys":
-                    orders.add(clerk.placeOrder(Toy.newRandomItem(-1)));
-                    orders.add(clerk.placeOrder(Toy.newRandomItem(-1)));
-                    orders.add(clerk.placeOrder(Toy.newRandomItem(-1)));
+                        // orders.add(clerk.placeOrder(Toy.newRandomItem(-1)));
+                        // orders.add(clerk.placeOrder(Toy.newRandomItem(-1)));
+                        // orders.add(clerk.placeOrder(Toy.newRandomItem(-1)));
                         break;
                     case "leashes":
-                    orders.add(clerk.placeOrder(Leash.newRandomItem(-1)));
-                    orders.add(clerk.placeOrder(Leash.newRandomItem(-1)));
-                    orders.add(clerk.placeOrder(Leash.newRandomItem(-1)));
+                        System.out.println("Clerk " + clerk.getName()
+                                + " has found that there are no more " + key + " in store and has ordered 3 more for $"
+                                + purchasePrice * 3);
+                        orders.add(clerk.placeOrder(Leash.newRandomItem(-1)));
+                        orders.add(clerk.placeOrder(Leash.newRandomItem(-1)));
+                        orders.add(clerk.placeOrder(Leash.newRandomItem(-1)));
                         break;
                     case "cat litter":
-                    orders.add(clerk.placeOrder(CatLitter.newRandomItem(-1)));
-                    orders.add(clerk.placeOrder(CatLitter.newRandomItem(-1)));
-                    orders.add(clerk.placeOrder(CatLitter.newRandomItem(-1)));
+                        System.out.println("Clerk " + clerk.getName()
+                                + " has found that there are no more " + key + " in store and has ordered 3 more for $"
+                                + purchasePrice * 3);
+                        orders.add(clerk.placeOrder(CatLitter.newRandomItem(-1)));
+                        orders.add(clerk.placeOrder(CatLitter.newRandomItem(-1)));
+                        orders.add(clerk.placeOrder(CatLitter.newRandomItem(-1)));
                         break;
                 }
             }
-        } 
+        }
     }
 
     public void trainerTasks() {
@@ -203,19 +220,20 @@ public class Store {
 
     public void openStore(ArrayList<Customer> customers) {
         System.out.println("Clerk " + clerk.getName() + " has opened the store.");
-        
+
         for (Customer p : customers) {
             arriveAtStore(p);
             // browse items in store
             for (Item item : items) {
                 boolean wants = p.examineItem(item);
                 boolean bought = false;
-                // 50% chance of buying item if customer wants it otherwise 10% chance of buying item
+                // 50% chance of buying item if customer wants it otherwise 10% chance of buying
+                // item
                 if (wants) {
                     if (Math.random() < 0.5) {
                         bought = true;
                         item.setSalePrice(item.getListPrice());
-                    } 
+                    }
                 } else {
                     if (Math.random() < 0.1) {
                         bought = true;
@@ -225,7 +243,8 @@ public class Store {
 
                 if (!bought) {
                     // trainer will offer 10% discount
-                    System.out.println(("Trainer " + trainer.getName() + " has offered a 10% discount on " + item.getName()));
+                    System.out.println(
+                            ("Trainer " + trainer.getName() + " has offered a 10% discount on " + item.getName()));
                     // 75 % chance of buying item
                     if (Math.random() < 0.75) {
                         bought = true;
@@ -317,7 +336,6 @@ public class Store {
         }
     }
 
-
     public void trainAnimals() {
 
         System.out.println(trainer.getName() + " is training the animals.");
@@ -325,18 +343,16 @@ public class Store {
 
     }
 
-
-
     // Decorator Pattern for add on itmes
     // Wrap item with add on items
     Item addOnItems(Item item) {
 
-        if (item instanceof Pet){  // 
+        if (item instanceof Pet) { //
             // 50% chance customer will be buy microchip
             if (Math.random() < 0.50) {
                 item = new Microchip(item, "Microchip", 50.00, 0);
                 item.setSalePrice(50.00);
-            }    
+            }
 
             // 25% chance customer will be buy pet insurance
             if (Math.random() < 0.25) {
@@ -345,21 +361,21 @@ public class Store {
             }
 
             // 25% chance customer will be buy pre paid vet visits
-            
+
             if (Math.random() < 0.25) {
 
-                int max_prepaid = 4; // max number to be bought 
-                int min_prepaid = 1 ; // min to be bought
+                int max_prepaid = 4; // max number to be bought
+                int min_prepaid = 1; // min to be bought
                 // get a int from min_prepaid to max_prepaid randomly
-                int number_prepaid = (int)(  Math.random()  * (max_prepaid - min_prepaid) + min_prepaid); 
+                int number_prepaid = (int) (Math.random() * (max_prepaid - min_prepaid) + min_prepaid);
 
                 item = new PrepaidVet(item, "Prepad Vet", 25.00, 0, number_prepaid);
                 item.setSalePrice(25.00);
 
             }
 
-       }    
-        return item; 
+        }
+        return item;
     }
 
     void sellItem(Item item) {
@@ -370,6 +386,7 @@ public class Store {
         itemsSold.add(item);
         items.remove(item);
     }
+
     void processDeliveries() {
         ArrayList<Order> ordersToRemove = new ArrayList<Order>();
         // process the orders
