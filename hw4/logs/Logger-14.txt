@@ -1,0 +1,16 @@
+ArriveAtStoreEvent: ( Sarah the Clerk )
+ArriveAtStoreEvent: ( Timmy the Clerk )
+ProcessDeliveriesEvent: ( Sarah the Clerk ), itemsAdded: 12
+CheckRegisterEvent: ( Sarah the Clerk ), amount: 6337.582134056919
+DoInventoryEvent: ( Sarah the Clerk ), pets: 20, supplies: 43, purchasePrice: 2002.4700264086946
+( Sarah the Clerk )
+ItemSoldEvent: ( Timmy the Clerk ), item: Knockoff Treat
+ItemSoldEvent: ( Sarah the Clerk ), item: NameBrand Treat
+ItemSoldEvent: ( Sarah the Clerk ), item: Knockoff Treat
+ItemSoldEvent: ( Timmy the Clerk ), item: Knockoff Treat
+ItemSoldEvent: ( Timmy the Clerk ), item: Knockoff Treat
+ItemSoldEvent: ( Timmy the Clerk ), item: Knockoff Treat
+ItemSoldEvent: ( Sarah the Clerk ), item: Knockoff Treat
+ItemSoldEvent: ( Timmy the Clerk ), item: NameBrand Treat
+LeaveStoreEvent: ( Sarah the Clerk )
+LeaveStoreEvent: ( Timmy the Clerk )

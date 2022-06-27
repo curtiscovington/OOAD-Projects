@@ -1,0 +1,14 @@
+ArriveAtStoreEvent: ( Jack the Clerk )
+ArriveAtStoreEvent: ( Dianne the Clerk )
+ProcessDeliveriesEvent: ( Jack the Clerk ), itemsAdded: 3
+CheckRegisterEvent: ( Jack the Clerk ), amount: 6176.152382162303
+DoInventoryEvent: ( Jack the Clerk ), pets: 27, supplies: 45, purchasePrice: 2420.6415424074453
+( Jack the Clerk )
+ItemSoldEvent: ( Dianne the Clerk ), item: Knockoff Treat
+ItemSoldEvent: ( Dianne the Clerk ), item: Knockoff Treat
+ItemSoldEvent: ( Dianne the Clerk ), item: Bob and Microchip
+ItemSoldEvent: ( Dianne the Clerk ), item: Bob and Pet Insurance
+ItemSoldEvent: ( Dianne the Clerk ), item: Bob and Microchip
+AnimalEscapeEvent: ( Dianne the Clerk ), pet: Buddy
+LeaveStoreEvent: ( Jack the Clerk )
+LeaveStoreEvent: ( Dianne the Clerk )

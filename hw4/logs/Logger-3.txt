@@ -1,0 +1,13 @@
+ArriveAtStoreEvent: ( Jack the Clerk )
+ArriveAtStoreEvent: ( Timmy the Clerk )
+ProcessDeliveriesEvent: ( Jack the Clerk ), itemsAdded: 0
+CheckRegisterEvent: ( Jack the Clerk ), amount: 2821.536474589896
+DoInventoryEvent: ( Jack the Clerk ), pets: 11, supplies: 10, purchasePrice: 808.191911459309
+( Jack the Clerk )
+ItemSoldEvent: ( Timmy the Clerk ), item: Adams and Microchip
+ItemSoldEvent: ( Timmy the Clerk ), item: Adams and Microchip and Pet Insurance
+ItemSoldEvent: ( Timmy the Clerk ), item: Adams and Microchip and Pet Insurance
+ItemSoldEvent: ( Timmy the Clerk ), item: Adams and Microchip and Pet Insurance
+AnimalEscapeEvent: ( Timmy the Clerk ), pet: Coco
+LeaveStoreEvent: ( Jack the Clerk )
+LeaveStoreEvent: ( Timmy the Clerk )

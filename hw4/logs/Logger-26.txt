@@ -1,0 +1,14 @@
+ArriveAtStoreEvent: ( John the Clerk )
+ArriveAtStoreEvent: ( Timmy the Clerk )
+ProcessDeliveriesEvent: ( John the Clerk ), itemsAdded: 6
+CheckRegisterEvent: ( John the Clerk ), amount: 10275.458022831022
+DoInventoryEvent: ( John the Clerk ), pets: 16, supplies: 55, purchasePrice: 1959.7143247175275
+( John the Clerk )
+ItemSoldEvent: ( Timmy the Clerk ), item: SnAKEEEEEEEE and Microchip and 1 Prepad Vet
+ItemSoldEvent: ( Timmy the Clerk ), item: SnAKEEEEEEEE and Microchip
+ItemSoldEvent: ( Timmy the Clerk ), item: SnAKEEEEEEEE and 3 Prepad Vet
+ItemSoldEvent: ( Timmy the Clerk ), item: SnAKEEEEEEEE and Pet Insurance
+AnimalEscapeEvent: ( Timmy the Clerk ), pet: Snek
+AnimalEscapeEvent: ( Timmy the Clerk ), pet: Zera
+LeaveStoreEvent: ( John the Clerk )
+LeaveStoreEvent: ( Timmy the Clerk )

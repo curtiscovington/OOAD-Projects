@@ -1,0 +1,14 @@
+ArriveAtStoreEvent: ( John the Clerk )
+ArriveAtStoreEvent: ( Dianne the Clerk )
+ProcessDeliveriesEvent: ( John the Clerk ), itemsAdded: 3
+CheckRegisterEvent: ( John the Clerk ), amount: 5824.9003113747995
+DoInventoryEvent: ( John the Clerk ), pets: 4, supplies: 24, purchasePrice: 584.0692547901563
+( John the Clerk )
+ItemSoldEvent: ( Dianne the Clerk ), item: Knockoff Treat
+ItemSoldEvent: ( Dianne the Clerk ), item: Zera
+ItemSoldEvent: ( Dianne the Clerk ), item: Noperino and Microchip and Pet Insurance and 2 Prepad Vet
+ItemSoldEvent: ( Dianne the Clerk ), item: Noperino
+ItemSoldEvent: ( John the Clerk ), item: Knockoff food
+ItemSoldEvent: ( John the Clerk ), item: NameBrand Toy
+LeaveStoreEvent: ( John the Clerk )
+LeaveStoreEvent: ( Dianne the Clerk )

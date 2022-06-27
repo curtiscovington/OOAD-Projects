@@ -1,0 +1,13 @@
+ArriveAtStoreEvent: ( Jack the Clerk )
+ArriveAtStoreEvent: ( Timmy the Clerk )
+ProcessDeliveriesEvent: ( Jack the Clerk ), itemsAdded: 2
+CheckRegisterEvent: ( Jack the Clerk ), amount: 4654.726222451961
+DoInventoryEvent: ( Jack the Clerk ), pets: 9, supplies: 17, purchasePrice: 766.2864953434373
+( Jack the Clerk )
+ItemSoldEvent: ( Timmy the Clerk ), item: NameBrand Treat
+ItemSoldEvent: ( Jack the Clerk ), item: Knockoff Toy
+ItemSoldEvent: ( Timmy the Clerk ), item: Bob
+ItemSoldEvent: ( Timmy the Clerk ), item: Fancy Leash
+AnimalEscapeEvent: ( Timmy the Clerk ), pet: Coco
+LeaveStoreEvent: ( Jack the Clerk )
+LeaveStoreEvent: ( Timmy the Clerk )
