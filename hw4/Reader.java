@@ -6,18 +6,19 @@ import java.util.Scanner;
 
 class Reader {
   // Default contructor
+  static Scanner userInput;
   Reader() {
+
+    userInput = new Scanner(System.in);
+
   }
 
-  
-  // Static method to collect user input strings from console
-  public static String getUserInputString() {
-    // Assuming valid strings as input. 
-    Scanner userInput = new Scanner(System.in);
-    String line = userInput.nextLine();
-    userInput.close();
-    return line;
+  public static Scanner getReader() {
+
+      return userInput;
   }
+     
+
 }
 
 

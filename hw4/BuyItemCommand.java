@@ -1,6 +1,7 @@
 package hw4;
 
 import java.util.ArrayList;
+import java.util.Scanner;
 
 public class BuyItemCommand implements Command {
 
@@ -15,8 +16,9 @@ public class BuyItemCommand implements Command {
 
         ArrayList<Item> items = store.getItems();
         System.out.println("What Item do you want to buy (enter number?");
-        String userInput = Reader.getUserInputString();
-        int userChoice = Integer.parseInt(userInput);   
+
+        String userInput = Reader.getReader().nextLine();
+        int userChoice = Integer.parseInt(userInput);
         Item item = items.get(userChoice);
         item.setSalePrice(item.getListPrice());   
         store.sellItem(item);

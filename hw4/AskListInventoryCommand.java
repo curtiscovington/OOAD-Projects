@@ -13,7 +13,18 @@ public class AskListInventoryCommand implements Command {
  
     public void execute() {
 
-        System.out.println("This item has many features");
+        ArrayList<Item> items = store.getItems();
+        if (items.size() > 0) {
+            System.out.println("Items in inventory:");
+            for (int i = 0; i < items.size(); i++) {
+
+                System.out.println("Item ID " + i + " " + items.get(i).getName());
+            }
+            
+        } else {
+            System.out.println("No items left in inventory.");
+        }
+       
                   
     }  
 

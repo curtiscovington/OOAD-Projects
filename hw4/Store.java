@@ -18,6 +18,8 @@ public class Store {
     Logger logger;
     Tracker tracker;
 
+    Reader reader = new Reader();
+
     // observable pattern for employee actions
     PropertyChangeSupport employeeActionsObservable;
 
@@ -348,7 +350,8 @@ public class Store {
         // Offer discount
         System.out.println("********* Command Menu *************");
         commandMenu.getAllCommands(); 
-        String userInput = Reader.getUserInputString();
+        
+        String userInput = Reader.getReader().nextLine();
         int userChoice = Integer.parseInt(userInput);
         commandMenu.executeCommand(userChoice);
         System.exit(0);
