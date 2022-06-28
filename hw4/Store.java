@@ -349,11 +349,19 @@ public class Store {
         // Buy a normal inventory item from the clerk
         // Offer discount
         System.out.println("********* Command Menu *************");
-        commandMenu.getAllCommands(); 
+      
+        while (true) {
+            commandMenu.getAllCommands(); 
+            String userInput = Reader.getReader().nextLine();
+
+            if ("".equalsIgnoreCase(userInput)) { 
+              break;
+            }else{
+                int userChoice = Integer.parseInt(userInput);
+                commandMenu.executeCommand(userChoice);
+            }
+        } 
         
-        String userInput = Reader.getReader().nextLine();
-        int userChoice = Integer.parseInt(userInput);
-        commandMenu.executeCommand(userChoice);
         System.exit(0);
 
     }
