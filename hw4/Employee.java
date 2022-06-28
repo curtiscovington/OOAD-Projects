@@ -1,4 +1,4 @@
-package hw3;
+package hw4;
 public class Employee extends Person {
     private String name;
     private int daysWorkedInARow;

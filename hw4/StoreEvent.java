@@ -1,4 +1,4 @@
-package hw3;
+package hw4;
 
 // Used in the observer pattern for events from the store
 public class StoreEvent {

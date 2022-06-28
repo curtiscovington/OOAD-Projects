@@ -1,4 +1,4 @@
-package hw3;
+package hw4;
 public class Food extends Supply {
     private int size;
     private String animal;

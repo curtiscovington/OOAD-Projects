@@ -1,4 +1,4 @@
-package hw3;
+package hw4;
 public class Bird extends Pet {
     private int size;
     private boolean mimicry;
