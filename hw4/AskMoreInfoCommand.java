@@ -11,13 +11,13 @@ public class AskMoreInfoCommand implements Command {
  
     public void execute() {
         
-        System.out.println(store.clerk.getName()); 
+        System.out.println("This item is very rare");
        
     }  
 
     public String toString() {
 
-        return "Ask for more info in item ?";
+        return "Ask for more info in item?";
 
     }  
 

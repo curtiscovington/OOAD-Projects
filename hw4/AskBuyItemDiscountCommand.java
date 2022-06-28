@@ -14,7 +14,7 @@ public class AskBuyItemDiscountCommand implements Command {
  
     public void execute() {
 
-        System.out.println("How about a 10% discount to buy item (Y/N?");
+        System.out.println("How about a 10% discount to buy item (Y/N)?");
         String userInput = Reader.getReader().nextLine();
     
         if (userInput.equals("Y")) {

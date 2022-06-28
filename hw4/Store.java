@@ -341,28 +341,36 @@ public class Store {
     public void openStoreInteractive(ArrayList<Customer> customers, CommandMenu commandMenu) {
         System.out.println("Clerk " + clerk.getName() + " has opened the store.");
 
-
         // Ask the employee their name (
         // Ask the clerk what time it is 
         // Ask the trainer for current store inventory 
         // Ask the trainer for information on a user selected inventory item
         // Buy a normal inventory item from the clerk
-        // Offer discount
+        // Offer discount if not buying anything
         System.out.println("********* Command Menu *************");
-      
+        boolean bought = false;
         while (true) {
+
             commandMenu.getAllCommands(); 
+            System.out.println("Press Enter to Exit this menu");
             String userInput = Reader.getReader().nextLine();
 
-            if ("".equalsIgnoreCase(userInput)) { 
+            // End command index is 6. 
+            if ("".equalsIgnoreCase(userInput)){ 
+                if (!(bought)) {
+                    AskBuyItemDiscountCommand askBuyItemDiscountCommand = new AskBuyItemDiscountCommand(this);
+                    askBuyItemDiscountCommand.execute();
+                }
               break;
             }else{
                 int userChoice = Integer.parseInt(userInput);
+                // if user buys item set
+                if (userChoice == 5) {
+                    bought = true;
+                }
                 commandMenu.executeCommand(userChoice);
             }
         } 
-        
-        System.exit(0);
 
     }
 

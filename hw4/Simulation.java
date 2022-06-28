@@ -18,7 +18,12 @@ public class Simulation {
     }
     
     public static void main(String[] args) {
-        Simulation sim = new Simulation(30);
+
+        int minDaysToSimulate = 10;
+        int maxDaysToSimulate = 30;
+        int daysToSimulate = (int) ((Math.random() * (maxDaysToSimulate - minDaysToSimulate)) + minDaysToSimulate);
+
+        Simulation sim = new Simulation(daysToSimulate);
         sim.runSimulation();
     }
 
@@ -60,6 +65,10 @@ public class Simulation {
         printResults();
     }
 
+
+    // Creating the command menu prompt 
+    // by using the command design pattern
+    // A store is passed in and binded to the each command
     private void createCommandMenu() {
         // Commands to add to the menu
         AskNameCommand askNameCommand = new AskNameCommand(this.store);
