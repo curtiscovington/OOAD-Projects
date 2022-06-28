@@ -1,4 +1,4 @@
-package hw3;
+package hw4;
 interface TrainingAlgorithm  {
 
     public boolean toggleHousebroken(boolean isHousebroken);

@@ -1,4 +1,4 @@
-package hw3;
+package hw4;
 
 public class CheckRegisterEvent extends StoreEvent {
     private double amount;

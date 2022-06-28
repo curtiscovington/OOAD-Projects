@@ -1,4 +1,4 @@
-package hw3;
+package hw4;
 public abstract class Item {
     private String name;
     private double purchasePrice;

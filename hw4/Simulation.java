@@ -1,4 +1,4 @@
-package hw3;
+package hw4;
 import java.util.ArrayList;
 import java.util.Random;
 
@@ -27,6 +27,7 @@ public class Simulation {
     private Store store;
     private ArrayList<Clerk> clerks = new ArrayList<Clerk>();
     private ArrayList<Trainer> trainers = new ArrayList<Trainer>();
+    private CommandMenu commandMenu = new CommandMenu();
     
 
     public Simulation(int daysToSimulate) {
@@ -41,14 +42,43 @@ public class Simulation {
         trainers.add(new Trainer("Timmy"));
         trainers.add(new Trainer("Sally"));
         trainers.add(new Trainer("Dianne"));
+
+        // Create the command menu for user interaction
+        createCommandMenu(); 
     }
 
     public void runSimulation() {
+        boolean runInteractive = false; 
         for (int i = 0; i < daysToSimulate; i++) {
-            runDay(i);
+            System.out.println(daysToSimulate);
+            if (i == (daysToSimulate - 1)) {//last day
+                System.out.println("Last Day");
+                runInteractive = true;
+            }
+            runDay(i,runInteractive, commandMenu);
         }
         printResults();
     }
+
+    private void createCommandMenu() {
+        // Commands to add to the menu
+        AskNameCommand askNameCommand = new AskNameCommand(this.store);
+        commandMenu.addCommand(1,askNameCommand);
+
+         AskMoreInfoCommand askMoreInfoCommand = new AskMoreInfoCommand(this.store);
+         commandMenu.addCommand(2,askMoreInfoCommand);
+
+         AskWhatTimeCommand askWhatTimeCommand = new AskWhatTimeCommand(this.store);
+         commandMenu.addCommand(3,askWhatTimeCommand);
+
+         AskListInventoryCommand askListInventoryCommand = new AskListInventoryCommand(this.store);
+         commandMenu.addCommand(4,askListInventoryCommand);
+
+         BuyItemCommand buyItemCommand = new BuyItemCommand(this.store);
+         commandMenu.addCommand(5,buyItemCommand);
+
+    }
+
 
     public void printResults() {
 
@@ -91,7 +121,7 @@ public class Simulation {
         }
     }
 
-    public void runDay(int currentDay) {
+    public void runDay(int currentDay, boolean runInteractive, CommandMenu commandMenu) {
         store.increaseAge();
         Clerk c = getClerkToWork();
         Trainer t = getTrainerToWork();
@@ -104,7 +134,7 @@ public class Simulation {
         for (int i = 0; i < numCustomers; i++) {
             customers.add(new Customer());
         }
-        store.runDay(c, t, customers);
+        store.runDay(c, t, customers, runInteractive, commandMenu);
     }
 
     public Clerk getClerkToWork() {
