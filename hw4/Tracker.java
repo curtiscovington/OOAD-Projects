@@ -63,7 +63,7 @@ public class Tracker implements PropertyChangeListener {
         for (Employee employee : clerksItemsSold.keySet()) {
             // format money into $###.##
 
-            System.out.println("\t"+employee.getName() + "\t\t" + clerksItemsSold.get(employee) + "\t$" + String.format("%.2f", clerksPurchasePrice.get(employee)));
+            System.out.println("\t"+employee.getName() + "\t" + clerksItemsSold.get(employee) + "\t$" + String.format("%.2f", clerksPurchasePrice.get(employee)));
         }
     }
 
@@ -71,7 +71,7 @@ public class Tracker implements PropertyChangeListener {
         System.out.println("\tTrainers\tSold\tPurchase Price");
         for (Employee employee : trainersItemsSold.keySet()) {
             // format money into $###.##
-            System.out.println("\t"+employee.getName() + "\t\t" + trainersItemsSold.get(employee) + "\t$" + String.format("%.2f", trainersPurchasePrice.get(employee)));
+            System.out.println("\t"+employee.getName() + "\t" + trainersItemsSold.get(employee) + "\t$" + String.format("%.2f", trainersPurchasePrice.get(employee)));
         }
     }
 
