@@ -1,0 +1,12 @@
+ArriveAtStoreEvent: ( Jack Anderson the Clerk )
+ArriveAtStoreEvent: ( Tom Moore the Trainer )
+ProcessDeliveriesEvent: ( Jack Anderson the Clerk ), itemsAdded: 13
+CheckRegisterEvent: ( Jack Anderson the Clerk ), amount: 2789.518654061827
+DoInventoryEvent: ( Jack Anderson the Clerk ), pets: 27, supplies: 41, purchasePrice: 2044.035465511707
+( Jack Anderson the Clerk )
+ItemSoldEvent: ( Jack Anderson the Clerk ), item: Watson
+ItemSoldEvent: ( Tom Moore the Trainer ), item: Knockoff Treat
+ItemSoldEvent: ( Tom Moore the Trainer ), item: Kitty and Microchip and Pet Insurance and 1 Prepad Vet
+AnimalEscapeEvent: ( Tom Moore the Trainer ), pet: Snek
+LeaveStoreEvent: ( Jack Anderson the Clerk )
+LeaveStoreEvent: ( Tom Moore the Trainer )

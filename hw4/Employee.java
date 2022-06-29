@@ -2,6 +2,7 @@ package hw4;
 public class Employee extends Person {
     private String name;
     private int daysWorkedInARow;
+    private Store workingAt = null;
 
     public Employee(String name) {
         this.name = name;
@@ -25,6 +26,7 @@ public class Employee extends Person {
     public boolean isInNeedOfDayOff() {
         // 10% chance the employee is sick
         if (Math.random() < 0.1) {
+            
             System.out.println("Employee " + name + " is sick.");
             return true;
         }
@@ -38,6 +40,14 @@ public class Employee extends Person {
 
     public String getEmployeeType() {
         return "Employee";
+    }
+
+    public Store getWorkingAt() {
+        return workingAt;
+    }
+
+    public void setWorkingAt(Store s) {
+        this.workingAt = s;
     }
 
     @Override

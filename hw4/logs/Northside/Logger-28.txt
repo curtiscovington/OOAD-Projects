@@ -1,0 +1,14 @@
+ArriveAtStoreEvent: ( Jack Anderson the Clerk )
+ArriveAtStoreEvent: ( Mary Williams the Trainer )
+ProcessDeliveriesEvent: ( Jack Anderson the Clerk ), itemsAdded: 5
+CheckRegisterEvent: ( Jack Anderson the Clerk ), amount: 6480.417386717734
+DoInventoryEvent: ( Jack Anderson the Clerk ), pets: 12, supplies: 41, purchasePrice: 1327.327849414815
+( Jack Anderson the Clerk )
+ItemSoldEvent: ( Mary Williams the Trainer ), item: Sir Purrington
+ItemSoldEvent: ( Jack Anderson the Clerk ), item: Bod
+ItemSoldEvent: ( Mary Williams the Trainer ), item: NameBrand Litter
+ItemSoldEvent: ( Jack Anderson the Clerk ), item: Boo
+ItemSoldEvent: ( Mary Williams the Trainer ), item: Knockoff Leash
+AnimalEscapeEvent: ( Mary Williams the Trainer ), pet: Bod
+LeaveStoreEvent: ( Jack Anderson the Clerk )
+LeaveStoreEvent: ( Mary Williams the Trainer )

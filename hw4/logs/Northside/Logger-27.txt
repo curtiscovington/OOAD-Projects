@@ -1,0 +1,14 @@
+ArriveAtStoreEvent: ( Tom Wilson the Clerk )
+ArriveAtStoreEvent: ( Mary Williams the Trainer )
+ProcessDeliveriesEvent: ( Tom Wilson the Clerk ), itemsAdded: 5
+CheckRegisterEvent: ( Tom Wilson the Clerk ), amount: 6443.140345884289
+DoInventoryEvent: ( Tom Wilson the Clerk ), pets: 12, supplies: 41, purchasePrice: 1320.6414799451654
+( Tom Wilson the Clerk )
+ItemSoldEvent: ( Tom Wilson the Clerk ), item: Knockoff Treat
+ItemSoldEvent: ( Mary Williams the Trainer ), item: NameBrand Treat
+ItemSoldEvent: ( Mary Williams the Trainer ), item: Fancy Leash
+ItemSoldEvent: ( Mary Williams the Trainer ), item: Knockoff Litter
+ItemSoldEvent: ( Mary Williams the Trainer ), item: Sir Purrington and Pet Insurance
+AnimalEscapeEvent: ( Mary Williams the Trainer ), pet: Boo
+LeaveStoreEvent: ( Tom Wilson the Clerk )
+LeaveStoreEvent: ( Mary Williams the Trainer )

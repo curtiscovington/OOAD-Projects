@@ -1,0 +1,12 @@
+ArriveAtStoreEvent: ( John Jones the Clerk )
+ArriveAtStoreEvent: ( Tom Moore the Trainer )
+ProcessDeliveriesEvent: ( John Jones the Clerk ), itemsAdded: 6
+CheckRegisterEvent: ( John Jones the Clerk ), amount: 4940.62526421674
+DoInventoryEvent: ( John Jones the Clerk ), pets: 6, supplies: 28, purchasePrice: 834.4757075603176
+( John Jones the Clerk )
+ItemSoldEvent: ( Tom Moore the Trainer ), item: Fido and Microchip and 1 Prepad Vet
+ItemSoldEvent: ( Tom Moore the Trainer ), item: Fido and Microchip
+ItemSoldEvent: ( Tom Moore the Trainer ), item: Fido
+ItemSoldEvent: ( John Jones the Clerk ), item: Knockoff Treat
+LeaveStoreEvent: ( John Jones the Clerk )
+LeaveStoreEvent: ( Tom Moore the Trainer )

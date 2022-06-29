@@ -1,0 +1,15 @@
+ArriveAtStoreEvent: ( Sue Anderson the Clerk )
+ArriveAtStoreEvent: ( Mary Williams the Trainer )
+ProcessDeliveriesEvent: ( Sue Anderson the Clerk ), itemsAdded: 3
+CheckRegisterEvent: ( Sue Anderson the Clerk ), amount: 2956.7638675839553
+DoInventoryEvent: ( Sue Anderson the Clerk ), pets: 8, supplies: 15, purchasePrice: 754.2577973536954
+( Sue Anderson the Clerk )
+ItemSoldEvent: ( Mary Williams the Trainer ), item: Fancy Leash
+ItemSoldEvent: ( Mary Williams the Trainer ), item: NameBrand Litter
+ItemSoldEvent: ( Mary Williams the Trainer ), item: Bod and Microchip and 3 Prepad Vet
+ItemSoldEvent: ( Mary Williams the Trainer ), item: Bod and Microchip
+ItemSoldEvent: ( Mary Williams the Trainer ), item: Bod and Microchip
+ItemSoldEvent: ( Mary Williams the Trainer ), item: Boo and 1 Prepad Vet
+ItemSoldEvent: ( Mary Williams the Trainer ), item: Boo and 1 Prepad Vet
+LeaveStoreEvent: ( Sue Anderson the Clerk )
+LeaveStoreEvent: ( Mary Williams the Trainer )

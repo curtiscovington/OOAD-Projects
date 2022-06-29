@@ -1,0 +1,12 @@
+ArriveAtStoreEvent: ( John Jones the Clerk )
+ArriveAtStoreEvent: ( Bob Harris the Trainer )
+ProcessDeliveriesEvent: ( John Jones the Clerk ), itemsAdded: 16
+CheckRegisterEvent: ( John Jones the Clerk ), amount: 3814.545050853414
+DoInventoryEvent: ( John Jones the Clerk ), pets: 17, supplies: 46, purchasePrice: 1679.7671188198021
+( John Jones the Clerk )
+ItemSoldEvent: ( John Jones the Clerk ), item: NameBrand Treat
+ItemSoldEvent: ( John Jones the Clerk ), item: NameBrand Treat
+AnimalEscapeEvent: ( Bob Harris the Trainer ), pet: Birdy
+AnimalEscapeEvent: ( Bob Harris the Trainer ), pet: Buddy
+LeaveStoreEvent: ( John Jones the Clerk )
+LeaveStoreEvent: ( Bob Harris the Trainer )

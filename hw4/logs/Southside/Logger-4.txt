@@ -1,0 +1,14 @@
+ArriveAtStoreEvent: ( Tom Wilson the Clerk )
+ArriveAtStoreEvent: ( Mary Williams the Trainer )
+ProcessDeliveriesEvent: ( Tom Wilson the Clerk ), itemsAdded: 7
+CheckRegisterEvent: ( Tom Wilson the Clerk ), amount: 1923.8342957964467
+DoInventoryEvent: ( Tom Wilson the Clerk ), pets: 7, supplies: 14, purchasePrice: 576.3193393706117
+( Tom Wilson the Clerk )
+ItemSoldEvent: ( Mary Williams the Trainer ), item: Zera
+ItemSoldEvent: ( Mary Williams the Trainer ), item: Buddy and Pet Insurance
+ItemSoldEvent: ( Mary Williams the Trainer ), item: Buddy and Pet Insurance
+ItemSoldEvent: ( Mary Williams the Trainer ), item: Buddy and Pet Insurance
+ItemSoldEvent: ( Mary Williams the Trainer ), item: Buddy and Pet Insurance
+ItemSoldEvent: ( Mary Williams the Trainer ), item: Knockoff Treat
+LeaveStoreEvent: ( Tom Wilson the Clerk )
+LeaveStoreEvent: ( Mary Williams the Trainer )

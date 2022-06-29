@@ -1,0 +1,17 @@
+ArriveAtStoreEvent: ( Tom Wilson the Clerk )
+ArriveAtStoreEvent: ( Bob Harris the Trainer )
+ProcessDeliveriesEvent: ( Tom Wilson the Clerk ), itemsAdded: 0
+CheckRegisterEvent: ( Tom Wilson the Clerk ), amount: 0.0
+GoToBankEvent: ( Tom Wilson the Clerk ), amount: 1000.0
+DoInventoryEvent: ( Tom Wilson the Clerk ), pets: 15, supplies: 15, purchasePrice: 1200.220596154211
+( Tom Wilson the Clerk )
+ItemSoldEvent: ( Bob Harris the Trainer ), item: Petkit food
+ItemSoldEvent: ( Tom Wilson the Clerk ), item: Knockoff Toy
+ItemSoldEvent: ( Bob Harris the Trainer ), item: NameBrand Litter
+ItemSoldEvent: ( Tom Wilson the Clerk ), item: Fancy Leash
+ItemSoldEvent: ( Bob Harris the Trainer ), item: Watson and Microchip
+ItemSoldEvent: ( Bob Harris the Trainer ), item: Watson and 3 Prepad Vet
+AnimalEscapeEvent: ( Bob Harris the Trainer ), pet: Joy
+AnimalEscapeEvent: ( Bob Harris the Trainer ), pet: Adams
+LeaveStoreEvent: ( Tom Wilson the Clerk )
+LeaveStoreEvent: ( Bob Harris the Trainer )

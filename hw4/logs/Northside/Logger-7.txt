@@ -1,0 +1,14 @@
+ArriveAtStoreEvent: ( Jack Anderson the Clerk )
+ArriveAtStoreEvent: ( Bob Harris the Trainer )
+ProcessDeliveriesEvent: ( Jack Anderson the Clerk ), itemsAdded: 2
+CheckRegisterEvent: ( Jack Anderson the Clerk ), amount: 3487.2829189275994
+DoInventoryEvent: ( Jack Anderson the Clerk ), pets: 7, supplies: 21, purchasePrice: 799.4705297384573
+( Jack Anderson the Clerk )
+ItemSoldEvent: ( Bob Harris the Trainer ), item: Birdy and Microchip and 3 Prepad Vet
+ItemSoldEvent: ( Bob Harris the Trainer ), item: Birdy and Microchip
+ItemSoldEvent: ( Bob Harris the Trainer ), item: Fido and Microchip and Pet Insurance
+ItemSoldEvent: ( Bob Harris the Trainer ), item: Birdy and Microchip
+ItemSoldEvent: ( Bob Harris the Trainer ), item: Birdy and Pet Insurance
+AnimalEscapeEvent: ( Bob Harris the Trainer ), pet: Kitty
+LeaveStoreEvent: ( Jack Anderson the Clerk )
+LeaveStoreEvent: ( Bob Harris the Trainer )

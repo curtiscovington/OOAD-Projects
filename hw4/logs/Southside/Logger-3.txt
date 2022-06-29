@@ -1,0 +1,13 @@
+ArriveAtStoreEvent: ( Jack Anderson the Clerk )
+ArriveAtStoreEvent: ( Tom Moore the Trainer )
+ProcessDeliveriesEvent: ( Jack Anderson the Clerk ), itemsAdded: 1
+CheckRegisterEvent: ( Jack Anderson the Clerk ), amount: 2204.7258401479585
+DoInventoryEvent: ( Jack Anderson the Clerk ), pets: 7, supplies: 11, purchasePrice: 590.4177339932716
+( Jack Anderson the Clerk )
+ItemSoldEvent: ( Tom Moore the Trainer ), item: Knockoff Toy
+ItemSoldEvent: ( Tom Moore the Trainer ), item: Zera and Microchip
+ItemSoldEvent: ( Tom Moore the Trainer ), item: Knockoff Litter
+ItemSoldEvent: ( Jack Anderson the Clerk ), item: Knockoff Leash
+AnimalEscapeEvent: ( Tom Moore the Trainer ), pet: Boo
+LeaveStoreEvent: ( Jack Anderson the Clerk )
+LeaveStoreEvent: ( Tom Moore the Trainer )

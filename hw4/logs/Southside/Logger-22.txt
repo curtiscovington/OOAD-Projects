@@ -1,0 +1,11 @@
+ArriveAtStoreEvent: ( Jack Anderson the Clerk )
+ArriveAtStoreEvent: ( Tom Moore the Trainer )
+ProcessDeliveriesEvent: ( Jack Anderson the Clerk ), itemsAdded: 3
+CheckRegisterEvent: ( Jack Anderson the Clerk ), amount: 5385.202301605795
+DoInventoryEvent: ( Jack Anderson the Clerk ), pets: 24, supplies: 47, purchasePrice: 2185.3603002522273
+( Jack Anderson the Clerk )
+ItemSoldEvent: ( Tom Moore the Trainer ), item: Petkit food
+ItemSoldEvent: ( Tom Moore the Trainer ), item: Knockoff food
+ItemSoldEvent: ( Jack Anderson the Clerk ), item: NameBrand Treat
+LeaveStoreEvent: ( Jack Anderson the Clerk )
+LeaveStoreEvent: ( Tom Moore the Trainer )

@@ -1,0 +1,17 @@
+ArriveAtStoreEvent: ( Tom Wilson the Clerk )
+ArriveAtStoreEvent: ( Tom Moore the Trainer )
+ProcessDeliveriesEvent: ( Tom Wilson the Clerk ), itemsAdded: 8
+CheckRegisterEvent: ( Tom Wilson the Clerk ), amount: 3641.7260785271023
+DoInventoryEvent: ( Tom Wilson the Clerk ), pets: 29, supplies: 52, purchasePrice: 2505.7038240349266
+( Tom Wilson the Clerk )
+ItemSoldEvent: ( Tom Moore the Trainer ), item: NameBrand Treat
+ItemSoldEvent: ( Tom Moore the Trainer ), item: Knockoff Treat
+ItemSoldEvent: ( Tom Moore the Trainer ), item: NameBrand Treat
+ItemSoldEvent: ( Tom Wilson the Clerk ), item: NameBrand Treat
+ItemSoldEvent: ( Tom Wilson the Clerk ), item: NameBrand Treat
+ItemSoldEvent: ( Tom Moore the Trainer ), item: Knockoff Treat
+AnimalEscapeEvent: ( Tom Moore the Trainer ), pet: Coco
+AnimalEscapeEvent: ( Tom Moore the Trainer ), pet: Fido
+AnimalEscapeEvent: ( Tom Moore the Trainer ), pet: Snek
+LeaveStoreEvent: ( Tom Wilson the Clerk )
+LeaveStoreEvent: ( Tom Moore the Trainer )

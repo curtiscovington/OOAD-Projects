@@ -1,0 +1,17 @@
+ArriveAtStoreEvent: ( Tom Wilson the Clerk )
+ArriveAtStoreEvent: ( Bob Harris the Trainer )
+ProcessDeliveriesEvent: ( Tom Wilson the Clerk ), itemsAdded: 8
+CheckRegisterEvent: ( Tom Wilson the Clerk ), amount: 3067.351990516679
+DoInventoryEvent: ( Tom Wilson the Clerk ), pets: 27, supplies: 45, purchasePrice: 2167.007029443498
+( Tom Wilson the Clerk )
+ItemSoldEvent: ( Bob Harris the Trainer ), item: Kitty
+ItemSoldEvent: ( Bob Harris the Trainer ), item: Knockoff Treat
+ItemSoldEvent: ( Tom Wilson the Clerk ), item: Knockoff Treat
+ItemSoldEvent: ( Bob Harris the Trainer ), item: Knockoff Treat
+ItemSoldEvent: ( Tom Wilson the Clerk ), item: NameBrand Treat
+ItemSoldEvent: ( Bob Harris the Trainer ), item: NameBrand Treat
+ItemSoldEvent: ( Tom Wilson the Clerk ), item: Knockoff Treat
+ItemSoldEvent: ( Bob Harris the Trainer ), item: Knockoff Treat
+AnimalEscapeEvent: ( Bob Harris the Trainer ), pet: Fido
+LeaveStoreEvent: ( Tom Wilson the Clerk )
+LeaveStoreEvent: ( Bob Harris the Trainer )

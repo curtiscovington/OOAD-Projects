@@ -1,0 +1,13 @@
+ArriveAtStoreEvent: ( Tom Wilson the Clerk )
+ArriveAtStoreEvent: ( Mary Williams the Trainer )
+ProcessDeliveriesEvent: ( Tom Wilson the Clerk ), itemsAdded: 3
+CheckRegisterEvent: ( Tom Wilson the Clerk ), amount: 2614.3424832490555
+DoInventoryEvent: ( Tom Wilson the Clerk ), pets: 8, supplies: 16, purchasePrice: 746.3807461387416
+( Tom Wilson the Clerk )
+ItemSoldEvent: ( Mary Williams the Trainer ), item: Noperino
+ItemSoldEvent: ( Mary Williams the Trainer ), item: Buddy and Microchip and 1 Prepad Vet
+ItemSoldEvent: ( Mary Williams the Trainer ), item: Buddy
+ItemSoldEvent: ( Mary Williams the Trainer ), item: NameBrand Toy
+ItemSoldEvent: ( Tom Wilson the Clerk ), item: Knockoff food
+LeaveStoreEvent: ( Tom Wilson the Clerk )
+LeaveStoreEvent: ( Mary Williams the Trainer )

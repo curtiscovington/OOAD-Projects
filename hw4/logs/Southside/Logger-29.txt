@@ -1,0 +1,16 @@
+ArriveAtStoreEvent: ( Jack Anderson the Clerk )
+ArriveAtStoreEvent: ( Tom Moore the Trainer )
+ProcessDeliveriesEvent: ( Jack Anderson the Clerk ), itemsAdded: 5
+CheckRegisterEvent: ( Jack Anderson the Clerk ), amount: 6796.887679998192
+DoInventoryEvent: ( Jack Anderson the Clerk ), pets: 13, supplies: 53, purchasePrice: 1464.3956751030162
+( Jack Anderson the Clerk )
+ItemSoldEvent: ( Tom Moore the Trainer ), item: Fancy Leash
+ItemSoldEvent: ( Tom Moore the Trainer ), item: Joey and Microchip
+ItemSoldEvent: ( Tom Moore the Trainer ), item: Joey and Microchip
+ItemSoldEvent: ( Tom Moore the Trainer ), item: Joey and Pet Insurance
+ItemSoldEvent: ( Tom Moore the Trainer ), item: Joey and Microchip
+AnimalEscapeEvent: ( Tom Moore the Trainer ), pet: Boo
+AnimalEscapeEvent: ( Tom Moore the Trainer ), pet: Kitty
+AnimalEscapeEvent: ( Tom Moore the Trainer ), pet: Fido
+LeaveStoreEvent: ( Jack Anderson the Clerk )
+LeaveStoreEvent: ( Tom Moore the Trainer )

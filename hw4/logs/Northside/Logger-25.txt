@@ -1,0 +1,18 @@
+ArriveAtStoreEvent: ( Sue Anderson the Clerk )
+ArriveAtStoreEvent: ( Bob Harris the Trainer )
+ProcessDeliveriesEvent: ( Sue Anderson the Clerk ), itemsAdded: 3
+CheckRegisterEvent: ( Sue Anderson the Clerk ), amount: 6172.296114104943
+DoInventoryEvent: ( Sue Anderson the Clerk ), pets: 14, supplies: 44, purchasePrice: 1405.643770509949
+( Sue Anderson the Clerk )
+ItemSoldEvent: ( Bob Harris the Trainer ), item: Watson
+ItemSoldEvent: ( Sue Anderson the Clerk ), item: NameBrand Litter
+ItemSoldEvent: ( Sue Anderson the Clerk ), item: Fancy Leash
+ItemSoldEvent: ( Bob Harris the Trainer ), item: Knockoff food
+ItemSoldEvent: ( Bob Harris the Trainer ), item: NameBrand Treat
+ItemSoldEvent: ( Bob Harris the Trainer ), item: Bob and Pet Insurance
+ItemSoldEvent: ( Bob Harris the Trainer ), item: Bob and 2 Prepad Vet
+ItemSoldEvent: ( Bob Harris the Trainer ), item: Watson and 1 Prepad Vet
+ItemSoldEvent: ( Bob Harris the Trainer ), item: Bob
+ItemSoldEvent: ( Bob Harris the Trainer ), item: Watson and Microchip
+LeaveStoreEvent: ( Sue Anderson the Clerk )
+LeaveStoreEvent: ( Bob Harris the Trainer )

@@ -1,0 +1,16 @@
+ArriveAtStoreEvent: ( Sue Anderson the Clerk )
+ArriveAtStoreEvent: ( Bob Harris the Trainer )
+ProcessDeliveriesEvent: ( Sue Anderson the Clerk ), itemsAdded: 7
+CheckRegisterEvent: ( Sue Anderson the Clerk ), amount: 3979.235185582502
+DoInventoryEvent: ( Sue Anderson the Clerk ), pets: 30, supplies: 46, purchasePrice: 2531.082278920139
+( Sue Anderson the Clerk )
+ItemSoldEvent: ( Bob Harris the Trainer ), item: Coco and Microchip and Pet Insurance and 2 Prepad Vet
+ItemSoldEvent: ( Bob Harris the Trainer ), item: Coco and Microchip and Pet Insurance and 2 Prepad Vet
+ItemSoldEvent: ( Bob Harris the Trainer ), item: Coco
+ItemSoldEvent: ( Bob Harris the Trainer ), item: Knockoff Treat
+ItemSoldEvent: ( Bob Harris the Trainer ), item: SnAKEEEEEEEE and Pet Insurance
+ItemSoldEvent: ( Bob Harris the Trainer ), item: SnAKEEEEEEEE
+AnimalEscapeEvent: ( Bob Harris the Trainer ), pet: Boo
+AnimalEscapeEvent: ( Bob Harris the Trainer ), pet: Buddy
+LeaveStoreEvent: ( Sue Anderson the Clerk )
+LeaveStoreEvent: ( Bob Harris the Trainer )

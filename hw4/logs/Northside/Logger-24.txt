@@ -1,0 +1,16 @@
+ArriveAtStoreEvent: ( Tom Wilson the Clerk )
+ArriveAtStoreEvent: ( Mary Williams the Trainer )
+ProcessDeliveriesEvent: ( Tom Wilson the Clerk ), itemsAdded: 1
+CheckRegisterEvent: ( Tom Wilson the Clerk ), amount: 5510.169177855193
+DoInventoryEvent: ( Tom Wilson the Clerk ), pets: 17, supplies: 45, purchasePrice: 1687.7952224837227
+( Tom Wilson the Clerk )
+ItemSoldEvent: ( Mary Williams the Trainer ), item: Sir Purrington
+ItemSoldEvent: ( Tom Wilson the Clerk ), item: Knockoff Litter
+ItemSoldEvent: ( Tom Wilson the Clerk ), item: Birdy
+ItemSoldEvent: ( Mary Williams the Trainer ), item: NameBrand Treat
+ItemSoldEvent: ( Mary Williams the Trainer ), item: Birdy
+ItemSoldEvent: ( Mary Williams the Trainer ), item: Knockoff Treat
+ItemSoldEvent: ( Mary Williams the Trainer ), item: Watson and Microchip and 3 Prepad Vet
+ItemSoldEvent: ( Mary Williams the Trainer ), item: Watson and Microchip and Pet Insurance
+LeaveStoreEvent: ( Tom Wilson the Clerk )
+LeaveStoreEvent: ( Mary Williams the Trainer )

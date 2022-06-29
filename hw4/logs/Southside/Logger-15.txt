@@ -1,0 +1,16 @@
+ArriveAtStoreEvent: ( Jack Anderson the Clerk )
+ArriveAtStoreEvent: ( Mary Williams the Trainer )
+ProcessDeliveriesEvent: ( Jack Anderson the Clerk ), itemsAdded: 9
+CheckRegisterEvent: ( Jack Anderson the Clerk ), amount: 3126.1140723356734
+DoInventoryEvent: ( Jack Anderson the Clerk ), pets: 30, supplies: 41, purchasePrice: 2312.3401633517533
+( Jack Anderson the Clerk )
+ItemSoldEvent: ( Mary Williams the Trainer ), item: Knockoff Treat
+ItemSoldEvent: ( Mary Williams the Trainer ), item: Petkit food
+ItemSoldEvent: ( Mary Williams the Trainer ), item: Knockoff food
+ItemSoldEvent: ( Mary Williams the Trainer ), item: Petkit food
+ItemSoldEvent: ( Mary Williams the Trainer ), item: Knockoff Treat
+AnimalEscapeEvent: ( Mary Williams the Trainer ), pet: Noperino
+AnimalEscapeEvent: ( Mary Williams the Trainer ), pet: Buddy
+AnimalEscapeEvent: ( Mary Williams the Trainer ), pet: Boo
+LeaveStoreEvent: ( Jack Anderson the Clerk )
+LeaveStoreEvent: ( Mary Williams the Trainer )

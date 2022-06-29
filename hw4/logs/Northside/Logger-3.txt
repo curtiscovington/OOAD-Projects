@@ -1,0 +1,13 @@
+ArriveAtStoreEvent: ( John Jones the Clerk )
+ArriveAtStoreEvent: ( Mary Williams the Trainer )
+ProcessDeliveriesEvent: ( John Jones the Clerk ), itemsAdded: 2
+CheckRegisterEvent: ( John Jones the Clerk ), amount: 2094.4144250398376
+DoInventoryEvent: ( John Jones the Clerk ), pets: 10, supplies: 13, purchasePrice: 871.3601551691388
+( John Jones the Clerk )
+ItemSoldEvent: ( Mary Williams the Trainer ), item: Knockoff Treat
+ItemSoldEvent: ( Mary Williams the Trainer ), item: Adams and Microchip
+ItemSoldEvent: ( Mary Williams the Trainer ), item: Adams
+ItemSoldEvent: ( Mary Williams the Trainer ), item: NOPE and Pet Insurance
+ItemSoldEvent: ( John Jones the Clerk ), item: NOPE
+LeaveStoreEvent: ( John Jones the Clerk )
+LeaveStoreEvent: ( Mary Williams the Trainer )

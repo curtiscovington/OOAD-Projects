@@ -6,15 +6,22 @@ import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 
+// Singleton eager instantiation
 public class Logger implements PropertyChangeListener {
+    private static final Logger instance = new Logger();
+    private StoreEvent event;
+    private String fileName;
 
-    StoreEvent event;
-    int day;
-    String fileName;
+    public static Logger getInstance() {
+        return instance;
+    }
 
-    public Logger(int day) {
-        this.day = day;
-        fileName = "logs/Logger-" + day + ".txt";
+    private Logger() {
+   
+    }
+
+    public void setFileName(String location, int day) {
+        fileName = "logs/"+location+"/Logger-" + day + ".txt";
         File file = new File(fileName);
         try {
             if (file.getParentFile() != null && !file.getParentFile().mkdirs()) {

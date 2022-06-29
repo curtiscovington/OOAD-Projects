@@ -4,7 +4,10 @@ import java.beans.PropertyChangeSupport;
 import java.util.ArrayList;
 import java.util.HashMap;
 
+import javax.sound.midi.Track;
+
 public class Store {
+    String location;
     CashRegister cashRegister = new CashRegister();
     ArrayList<Item> items = new ArrayList<Item>();
     ArrayList<Item> itemsSold = new ArrayList<Item>();
@@ -15,7 +18,10 @@ public class Store {
 
     ArrayList<Order> orders = new ArrayList<Order>();
 
-    Logger logger;
+    // eager initialization
+    Logger logger = Logger.getInstance();
+
+    // lazy initialization
     Tracker tracker;
 
     // observable pattern for employee actions
@@ -55,10 +61,15 @@ public class Store {
         return sickPets;
     }
 
+    public String getLocation() {
+        return location;
+    }
+
     // Constructor
-    public Store() {
+    public Store(String location) {
+        this.location = location;
         employeeActionsObservable = new PropertyChangeSupport(this);
-        tracker = new Tracker();
+        tracker = Tracker.getInstance();
         employeeActionsObservable.addPropertyChangeListener("itemSold", tracker);
         // three instances of each lowest subclass
         for (int i = 0; i < 3; i++) {
@@ -282,7 +293,6 @@ public class Store {
     public void increaseAge() {
         age++;
         employeeActionsObservable.removePropertyChangeListener(logger);
-        logger = new Logger(age);
         employeeActionsObservable.addPropertyChangeListener(logger);
     }
 

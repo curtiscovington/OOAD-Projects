@@ -1,0 +1,12 @@
+ArriveAtStoreEvent: ( Sue Anderson the Clerk )
+ArriveAtStoreEvent: ( Tom Moore the Trainer )
+ProcessDeliveriesEvent: ( Sue Anderson the Clerk ), itemsAdded: 1
+CheckRegisterEvent: ( Sue Anderson the Clerk ), amount: 6470.199826574676
+DoInventoryEvent: ( Sue Anderson the Clerk ), pets: 15, supplies: 49, purchasePrice: 1641.794519963621
+( Sue Anderson the Clerk )
+ItemSoldEvent: ( Tom Moore the Trainer ), item: Knockoff Litter
+ItemSoldEvent: ( Tom Moore the Trainer ), item: Knockoff Leash
+ItemSoldEvent: ( Tom Moore the Trainer ), item: Knockoff Treat
+ItemSoldEvent: ( Tom Moore the Trainer ), item: Bod and Microchip and Pet Insurance and 3 Prepad Vet
+LeaveStoreEvent: ( Sue Anderson the Clerk )
+LeaveStoreEvent: ( Tom Moore the Trainer )

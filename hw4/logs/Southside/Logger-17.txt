@@ -1,0 +1,12 @@
+ArriveAtStoreEvent: ( Tom Wilson the Clerk )
+ArriveAtStoreEvent: ( Tom Moore the Trainer )
+ProcessDeliveriesEvent: ( Tom Wilson the Clerk ), itemsAdded: 4
+CheckRegisterEvent: ( Tom Wilson the Clerk ), amount: 3319.040887007947
+DoInventoryEvent: ( Tom Wilson the Clerk ), pets: 30, supplies: 39, purchasePrice: 2325.40637619527
+( Tom Wilson the Clerk )
+ItemSoldEvent: ( Tom Moore the Trainer ), item: SnAKEEEEEEEE
+ItemSoldEvent: ( Tom Moore the Trainer ), item: NOPE and Microchip and 2 Prepad Vet
+ItemSoldEvent: ( Tom Moore the Trainer ), item: NOPE and 3 Prepad Vet
+ItemSoldEvent: ( Tom Moore the Trainer ), item: NOPE
+LeaveStoreEvent: ( Tom Wilson the Clerk )
+LeaveStoreEvent: ( Tom Moore the Trainer )

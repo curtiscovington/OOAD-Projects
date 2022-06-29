@@ -1,0 +1,13 @@
+ArriveAtStoreEvent: ( John Jones the Clerk )
+ArriveAtStoreEvent: ( Mary Williams the Trainer )
+ProcessDeliveriesEvent: ( John Jones the Clerk ), itemsAdded: 1
+CheckRegisterEvent: ( John Jones the Clerk ), amount: 5239.157057727174
+DoInventoryEvent: ( John Jones the Clerk ), pets: 4, supplies: 29, purchasePrice: 705.9447101611878
+( John Jones the Clerk )
+ItemSoldEvent: ( Mary Williams the Trainer ), item: Knockoff Litter
+ItemSoldEvent: ( Mary Williams the Trainer ), item: Kitty
+ItemSoldEvent: ( Mary Williams the Trainer ), item: Buddy and Microchip
+ItemSoldEvent: ( Mary Williams the Trainer ), item: Knockoff Leash
+ItemSoldEvent: ( Mary Williams the Trainer ), item: Buddy
+LeaveStoreEvent: ( John Jones the Clerk )
+LeaveStoreEvent: ( Mary Williams the Trainer )
