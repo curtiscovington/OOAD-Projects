@@ -1,0 +1,10 @@
+ArriveAtStoreEvent: ( John Jones the Clerk )
+ArriveAtStoreEvent: ( Mary Williams the Trainer )
+ProcessDeliveriesEvent: ( John Jones the Clerk ), itemsAdded: 0
+CheckRegisterEvent: ( John Jones the Clerk ), amount: 1873.9269061199748
+DoInventoryEvent: ( John Jones the Clerk ), pets: 12, supplies: 11, purchasePrice: 1001.9214315520036
+( John Jones the Clerk )
+ItemSoldEvent: ( Mary Williams the Trainer ), item: Adams and Pet Insurance
+ItemSoldEvent: ( John Jones the Clerk ), item: Birdy
+LeaveStoreEvent: ( John Jones the Clerk )
+LeaveStoreEvent: ( Mary Williams the Trainer )

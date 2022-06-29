@@ -1,0 +1,17 @@
+ArriveAtStoreEvent: ( John Jones the Clerk )
+ArriveAtStoreEvent: ( Mary Williams the Trainer )
+ProcessDeliveriesEvent: ( John Jones the Clerk ), itemsAdded: 0
+CheckRegisterEvent: ( John Jones the Clerk ), amount: 0.0
+GoToBankEvent: ( John Jones the Clerk ), amount: 1000.0
+DoInventoryEvent: ( John Jones the Clerk ), pets: 15, supplies: 15, purchasePrice: 1195.0771756485235
+( John Jones the Clerk )
+ItemSoldEvent: ( Mary Williams the Trainer ), item: Knockoff Toy
+ItemSoldEvent: ( Mary Williams the Trainer ), item: Knockoff food
+ItemSoldEvent: ( John Jones the Clerk ), item: Fancy Leash
+ItemSoldEvent: ( Mary Williams the Trainer ), item: Bob and 2 Prepad Vet
+ItemSoldEvent: ( Mary Williams the Trainer ), item: Knockoff Litter
+ItemSoldEvent: ( Mary Williams the Trainer ), item: Bob
+ItemSoldEvent: ( Mary Williams the Trainer ), item: Buddy and Microchip
+AnimalEscapeEvent: ( Mary Williams the Trainer ), pet: Zera
+LeaveStoreEvent: ( John Jones the Clerk )
+LeaveStoreEvent: ( Mary Williams the Trainer )

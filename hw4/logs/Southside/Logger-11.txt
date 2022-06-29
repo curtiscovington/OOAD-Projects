@@ -1,0 +1,13 @@
+ArriveAtStoreEvent: ( Jack Anderson the Clerk )
+ArriveAtStoreEvent: ( Bob Harris the Trainer )
+ProcessDeliveriesEvent: ( Jack Anderson the Clerk ), itemsAdded: 11
+CheckRegisterEvent: ( Jack Anderson the Clerk ), amount: 2162.760907016599
+DoInventoryEvent: ( Jack Anderson the Clerk ), pets: 15, supplies: 32, purchasePrice: 1311.9397523444516
+( Jack Anderson the Clerk )
+ItemSoldEvent: ( Bob Harris the Trainer ), item: Watson and Microchip and 1 Prepad Vet
+ItemSoldEvent: ( Bob Harris the Trainer ), item: Watson and Microchip and 2 Prepad Vet
+ItemSoldEvent: ( Bob Harris the Trainer ), item: Watson
+ItemSoldEvent: ( Bob Harris the Trainer ), item: Bob
+ItemSoldEvent: ( Bob Harris the Trainer ), item: Knockoff Treat
+LeaveStoreEvent: ( Jack Anderson the Clerk )
+LeaveStoreEvent: ( Bob Harris the Trainer )

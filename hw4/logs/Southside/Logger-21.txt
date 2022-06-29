@@ -1,0 +1,16 @@
+ArriveAtStoreEvent: ( Sue Anderson the Clerk )
+ArriveAtStoreEvent: ( Mary Williams the Trainer )
+ProcessDeliveriesEvent: ( Sue Anderson the Clerk ), itemsAdded: 3
+CheckRegisterEvent: ( Sue Anderson the Clerk ), amount: 5305.77957737931
+DoInventoryEvent: ( Sue Anderson the Clerk ), pets: 25, supplies: 49, purchasePrice: 2246.428398571019
+( Sue Anderson the Clerk )
+ItemSoldEvent: ( Mary Williams the Trainer ), item: Buddy
+ItemSoldEvent: ( Mary Williams the Trainer ), item: NameBrand Treat
+ItemSoldEvent: ( Mary Williams the Trainer ), item: Knockoff Litter
+ItemSoldEvent: ( Mary Williams the Trainer ), item: Knockoff Leash
+ItemSoldEvent: ( Sue Anderson the Clerk ), item: Knockoff Treat
+ItemSoldEvent: ( Mary Williams the Trainer ), item: Fancy Leash
+AnimalEscapeEvent: ( Mary Williams the Trainer ), pet: Boo
+AnimalEscapeEvent: ( Mary Williams the Trainer ), pet: NOPE
+LeaveStoreEvent: ( Sue Anderson the Clerk )
+LeaveStoreEvent: ( Mary Williams the Trainer )

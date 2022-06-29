@@ -1,0 +1,13 @@
+ArriveAtStoreEvent: ( Sue Anderson the Clerk )
+ArriveAtStoreEvent: ( Bob Harris the Trainer )
+ProcessDeliveriesEvent: ( Sue Anderson the Clerk ), itemsAdded: 5
+CheckRegisterEvent: ( Sue Anderson the Clerk ), amount: 6632.945955047335
+DoInventoryEvent: ( Sue Anderson the Clerk ), pets: 9, supplies: 44, purchasePrice: 1117.872639854311
+( Sue Anderson the Clerk )
+ItemSoldEvent: ( Bob Harris the Trainer ), item: Knockoff Leash
+ItemSoldEvent: ( Bob Harris the Trainer ), item: Knockoff Litter
+ItemSoldEvent: ( Bob Harris the Trainer ), item: Snek and Pet Insurance and 3 Prepad Vet
+ItemSoldEvent: ( Bob Harris the Trainer ), item: Snek and Microchip
+ItemSoldEvent: ( Bob Harris the Trainer ), item: Snek and Pet Insurance and 3 Prepad Vet
+LeaveStoreEvent: ( Sue Anderson the Clerk )
+LeaveStoreEvent: ( Bob Harris the Trainer )

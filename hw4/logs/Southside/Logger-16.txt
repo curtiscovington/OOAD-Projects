@@ -1,0 +1,15 @@
+ArriveAtStoreEvent: ( Sue Anderson the Clerk )
+ArriveAtStoreEvent: ( Mary Williams the Trainer )
+ProcessDeliveriesEvent: ( Sue Anderson the Clerk ), itemsAdded: 2
+CheckRegisterEvent: ( Sue Anderson the Clerk ), amount: 2898.4291401351884
+DoInventoryEvent: ( Sue Anderson the Clerk ), pets: 29, supplies: 38, purchasePrice: 2243.291781411638
+( Sue Anderson the Clerk )
+ItemSoldEvent: ( Mary Williams the Trainer ), item: Knockoff Treat
+ItemSoldEvent: ( Mary Williams the Trainer ), item: SnAKEEEEEEEE and Microchip and Pet Insurance and 2 Prepad Vet
+ItemSoldEvent: ( Mary Williams the Trainer ), item: NOPE and Pet Insurance
+ItemSoldEvent: ( Mary Williams the Trainer ), item: SnAKEEEEEEEE and Microchip and 2 Prepad Vet
+ItemSoldEvent: ( Mary Williams the Trainer ), item: NOPE and Microchip
+AnimalEscapeEvent: ( Mary Williams the Trainer ), pet: Buddy
+AnimalEscapeEvent: ( Mary Williams the Trainer ), pet: Zera
+LeaveStoreEvent: ( Sue Anderson the Clerk )
+LeaveStoreEvent: ( Mary Williams the Trainer )

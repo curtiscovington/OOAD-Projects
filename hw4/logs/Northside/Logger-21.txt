@@ -1,0 +1,14 @@
+ArriveAtStoreEvent: ( Jack Anderson the Clerk )
+ArriveAtStoreEvent: ( Tom Moore the Trainer )
+ProcessDeliveriesEvent: ( Jack Anderson the Clerk ), itemsAdded: 6
+CheckRegisterEvent: ( Jack Anderson the Clerk ), amount: 3989.2080403999776
+DoInventoryEvent: ( Jack Anderson the Clerk ), pets: 25, supplies: 43, purchasePrice: 2085.374689240199
+( Jack Anderson the Clerk )
+ItemSoldEvent: ( Jack Anderson the Clerk ), item: Knockoff food
+ItemSoldEvent: ( Tom Moore the Trainer ), item: Fido and Microchip and 3 Prepad Vet
+ItemSoldEvent: ( Tom Moore the Trainer ), item: Fido
+ItemSoldEvent: ( Tom Moore the Trainer ), item: Fido and 3 Prepad Vet
+ItemSoldEvent: ( Jack Anderson the Clerk ), item: NameBrand Treat
+AnimalEscapeEvent: ( Tom Moore the Trainer ), pet: Sir Purrington
+LeaveStoreEvent: ( Jack Anderson the Clerk )
+LeaveStoreEvent: ( Tom Moore the Trainer )

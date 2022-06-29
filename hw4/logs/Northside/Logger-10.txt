@@ -1,0 +1,10 @@
+ArriveAtStoreEvent: ( Tom Wilson the Clerk )
+ArriveAtStoreEvent: ( Mary Williams the Trainer )
+ProcessDeliveriesEvent: ( Tom Wilson the Clerk ), itemsAdded: 3
+CheckRegisterEvent: ( Tom Wilson the Clerk ), amount: 5383.437882550214
+DoInventoryEvent: ( Tom Wilson the Clerk ), pets: 5, supplies: 30, purchasePrice: 781.2765396821399
+( Tom Wilson the Clerk )
+ItemSoldEvent: ( Mary Williams the Trainer ), item: Petkit food
+ItemSoldEvent: ( Mary Williams the Trainer ), item: NameBrand Toy
+LeaveStoreEvent: ( Tom Wilson the Clerk )
+LeaveStoreEvent: ( Mary Williams the Trainer )

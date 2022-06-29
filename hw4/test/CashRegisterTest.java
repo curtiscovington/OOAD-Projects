@@ -1,5 +1,5 @@
-package hw3.test;
-import hw3.CashRegister;
+package hw4.test;
+import hw4.CashRegister;
 import org.junit.Test;
 import org.junit.Assert;
 import org.junit.Before;

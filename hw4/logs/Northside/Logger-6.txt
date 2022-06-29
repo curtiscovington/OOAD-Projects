@@ -1,0 +1,14 @@
+ArriveAtStoreEvent: ( Jack Anderson the Clerk )
+ArriveAtStoreEvent: ( Mary Williams the Trainer )
+ProcessDeliveriesEvent: ( Jack Anderson the Clerk ), itemsAdded: 3
+CheckRegisterEvent: ( Jack Anderson the Clerk ), amount: 2445.3799374905484
+DoInventoryEvent: ( Jack Anderson the Clerk ), pets: 8, supplies: 19, purchasePrice: 846.588785488961
+( Jack Anderson the Clerk )
+ItemSoldEvent: ( Mary Williams the Trainer ), item: Bob
+ItemSoldEvent: ( Mary Williams the Trainer ), item: Birdy and Pet Insurance
+ItemSoldEvent: ( Mary Williams the Trainer ), item: Birdy and Microchip and Pet Insurance and 2 Prepad Vet
+ItemSoldEvent: ( Mary Williams the Trainer ), item: Birdy and Microchip and Pet Insurance
+ItemSoldEvent: ( Mary Williams the Trainer ), item: Birdy and Microchip and Pet Insurance
+ItemSoldEvent: ( Mary Williams the Trainer ), item: Birdy and Microchip and Pet Insurance
+LeaveStoreEvent: ( Jack Anderson the Clerk )
+LeaveStoreEvent: ( Mary Williams the Trainer )

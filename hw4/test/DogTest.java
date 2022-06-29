@@ -1,5 +1,5 @@
-package hw3.test;
-import hw3.Dog;
+package hw4.test;
+import hw4.Dog;
 import org.junit.Test;
 import org.junit.Assert;
 import org.junit.Before;

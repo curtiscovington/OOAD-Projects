@@ -1,0 +1,11 @@
+ArriveAtStoreEvent: ( Sue Anderson the Clerk )
+ArriveAtStoreEvent: ( Tom Moore the Trainer )
+ProcessDeliveriesEvent: ( Sue Anderson the Clerk ), itemsAdded: 1
+CheckRegisterEvent: ( Sue Anderson the Clerk ), amount: 4576.478425710911
+DoInventoryEvent: ( Sue Anderson the Clerk ), pets: 7, supplies: 22, purchasePrice: 817.043684452195
+( Sue Anderson the Clerk )
+ItemSoldEvent: ( Tom Moore the Trainer ), item: Birdy and Microchip and Pet Insurance
+ItemSoldEvent: ( Tom Moore the Trainer ), item: Birdy and Microchip
+ItemSoldEvent: ( Sue Anderson the Clerk ), item: Birdy
+LeaveStoreEvent: ( Sue Anderson the Clerk )
+LeaveStoreEvent: ( Tom Moore the Trainer )

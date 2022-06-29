@@ -1,0 +1,12 @@
+ArriveAtStoreEvent: ( Sue Anderson the Clerk )
+ArriveAtStoreEvent: ( Mary Williams the Trainer )
+ProcessDeliveriesEvent: ( Sue Anderson the Clerk ), itemsAdded: 4
+CheckRegisterEvent: ( Sue Anderson the Clerk ), amount: 2275.75493099268
+DoInventoryEvent: ( Sue Anderson the Clerk ), pets: 8, supplies: 17, purchasePrice: 813.4424132843137
+( Sue Anderson the Clerk )
+ItemSoldEvent: ( Mary Williams the Trainer ), item: Knockoff Leash
+ItemSoldEvent: ( Mary Williams the Trainer ), item: Bob and Microchip
+ItemSoldEvent: ( Mary Williams the Trainer ), item: Bob and Microchip
+AnimalEscapeEvent: ( Mary Williams the Trainer ), pet: Joy
+LeaveStoreEvent: ( Sue Anderson the Clerk )
+LeaveStoreEvent: ( Mary Williams the Trainer )

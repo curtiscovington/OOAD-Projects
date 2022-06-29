@@ -1,0 +1,18 @@
+ArriveAtStoreEvent: ( John Jones the Clerk )
+ArriveAtStoreEvent: ( Mary Williams the Trainer )
+ProcessDeliveriesEvent: ( John Jones the Clerk ), itemsAdded: 0
+CheckRegisterEvent: ( John Jones the Clerk ), amount: 3628.3391330909863
+DoInventoryEvent: ( John Jones the Clerk ), pets: 27, supplies: 43, purchasePrice: 2239.850972276232
+( John Jones the Clerk )
+ItemSoldEvent: ( Mary Williams the Trainer ), item: NameBrand Treat
+ItemSoldEvent: ( Mary Williams the Trainer ), item: Joy
+ItemSoldEvent: ( John Jones the Clerk ), item: Petkit food
+ItemSoldEvent: ( John Jones the Clerk ), item: Knockoff food
+ItemSoldEvent: ( Mary Williams the Trainer ), item: Knockoff food
+ItemSoldEvent: ( Mary Williams the Trainer ), item: Knockoff Treat
+ItemSoldEvent: ( John Jones the Clerk ), item: NameBrand Treat
+ItemSoldEvent: ( John Jones the Clerk ), item: Coco
+AnimalEscapeEvent: ( Mary Williams the Trainer ), pet: Watson
+AnimalEscapeEvent: ( Mary Williams the Trainer ), pet: Birdy
+LeaveStoreEvent: ( John Jones the Clerk )
+LeaveStoreEvent: ( Mary Williams the Trainer )

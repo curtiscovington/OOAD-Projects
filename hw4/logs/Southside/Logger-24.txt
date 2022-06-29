@@ -1,0 +1,15 @@
+ArriveAtStoreEvent: ( Sue Anderson the Clerk )
+ArriveAtStoreEvent: ( Bob Harris the Trainer )
+ProcessDeliveriesEvent: ( Sue Anderson the Clerk ), itemsAdded: 3
+CheckRegisterEvent: ( Sue Anderson the Clerk ), amount: 6069.443038959431
+DoInventoryEvent: ( Sue Anderson the Clerk ), pets: 22, supplies: 49, purchasePrice: 2120.51551154581
+( Sue Anderson the Clerk )
+ItemSoldEvent: ( Bob Harris the Trainer ), item: Noperino and Microchip
+ItemSoldEvent: ( Bob Harris the Trainer ), item: Noperino and Microchip
+ItemSoldEvent: ( Bob Harris the Trainer ), item: Noperino
+ItemSoldEvent: ( Bob Harris the Trainer ), item: NameBrand Treat
+ItemSoldEvent: ( Sue Anderson the Clerk ), item: Knockoff Treat
+AnimalEscapeEvent: ( Bob Harris the Trainer ), pet: Joey
+AnimalEscapeEvent: ( Bob Harris the Trainer ), pet: Birdy
+LeaveStoreEvent: ( Sue Anderson the Clerk )
+LeaveStoreEvent: ( Bob Harris the Trainer )

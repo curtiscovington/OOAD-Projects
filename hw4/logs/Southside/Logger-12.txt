@@ -1,0 +1,13 @@
+ArriveAtStoreEvent: ( Tom Wilson the Clerk )
+ArriveAtStoreEvent: ( Mary Williams the Trainer )
+ProcessDeliveriesEvent: ( Tom Wilson the Clerk ), itemsAdded: 14
+CheckRegisterEvent: ( Tom Wilson the Clerk ), amount: 2694.389773096548
+DoInventoryEvent: ( Tom Wilson the Clerk ), pets: 18, supplies: 40, purchasePrice: 1542.898929789637
+( Tom Wilson the Clerk )
+ItemSoldEvent: ( Mary Williams the Trainer ), item: Kitty and Pet Insurance
+ItemSoldEvent: ( Tom Wilson the Clerk ), item: Knockoff Treat
+ItemSoldEvent: ( Tom Wilson the Clerk ), item: Knockoff Treat
+ItemSoldEvent: ( Tom Wilson the Clerk ), item: Kitty
+AnimalEscapeEvent: ( Mary Williams the Trainer ), pet: SnAKEEEEEEEE
+LeaveStoreEvent: ( Tom Wilson the Clerk )
+LeaveStoreEvent: ( Mary Williams the Trainer )

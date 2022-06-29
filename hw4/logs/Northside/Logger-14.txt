@@ -1,0 +1,13 @@
+ArriveAtStoreEvent: ( Sue Anderson the Clerk )
+ArriveAtStoreEvent: ( Tom Moore the Trainer )
+ProcessDeliveriesEvent: ( Sue Anderson the Clerk ), itemsAdded: 10
+CheckRegisterEvent: ( Sue Anderson the Clerk ), amount: 4797.0724273091
+DoInventoryEvent: ( Sue Anderson the Clerk ), pets: 6, supplies: 34, purchasePrice: 872.9699927875085
+( Sue Anderson the Clerk )
+ItemSoldEvent: ( Tom Moore the Trainer ), item: Knockoff Treat
+ItemSoldEvent: ( Tom Moore the Trainer ), item: Knockoff Treat
+ItemSoldEvent: ( Tom Moore the Trainer ), item: NameBrand Treat
+ItemSoldEvent: ( Tom Moore the Trainer ), item: Knockoff Treat
+ItemSoldEvent: ( Tom Moore the Trainer ), item: Knockoff Treat
+LeaveStoreEvent: ( Sue Anderson the Clerk )
+LeaveStoreEvent: ( Tom Moore the Trainer )

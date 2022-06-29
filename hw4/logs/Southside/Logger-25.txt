@@ -1,0 +1,14 @@
+ArriveAtStoreEvent: ( Jack Anderson the Clerk )
+ArriveAtStoreEvent: ( Tom Moore the Trainer )
+ProcessDeliveriesEvent: ( Jack Anderson the Clerk ), itemsAdded: 3
+CheckRegisterEvent: ( Jack Anderson the Clerk ), amount: 6322.6334905767235
+DoInventoryEvent: ( Jack Anderson the Clerk ), pets: 21, supplies: 50, purchasePrice: 2065.0693303403127
+( Jack Anderson the Clerk )
+ItemSoldEvent: ( Tom Moore the Trainer ), item: Fancy Leash
+ItemSoldEvent: ( Tom Moore the Trainer ), item: Bod and 1 Prepad Vet
+ItemSoldEvent: ( Tom Moore the Trainer ), item: Petkit food
+ItemSoldEvent: ( Tom Moore the Trainer ), item: Bod
+ItemSoldEvent: ( Tom Moore the Trainer ), item: Fancy Leash
+AnimalEscapeEvent: ( Tom Moore the Trainer ), pet: Zera
+LeaveStoreEvent: ( Jack Anderson the Clerk )
+LeaveStoreEvent: ( Tom Moore the Trainer )
