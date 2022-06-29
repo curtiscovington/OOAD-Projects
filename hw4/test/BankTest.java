@@ -1,5 +1,5 @@
-package hw3.test;
-import hw3.Bank;
+package hw4.test;
+import hw4.Bank;
 import org.junit.Test;
 import org.junit.Assert;
 import org.junit.Before;

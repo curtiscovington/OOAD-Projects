@@ -24,6 +24,8 @@ public class Store {
     // lazy initialization
     Tracker tracker;
 
+    Reader reader = new Reader();
+
     // observable pattern for employee actions
     PropertyChangeSupport employeeActionsObservable;
 
@@ -134,13 +136,19 @@ public class Store {
         }
     }
 
-    public void runDay(Clerk clerk, Trainer trainer, ArrayList<Customer> customers) {
+    public void runDay(Clerk clerk, Trainer trainer, ArrayList<Customer> customers, boolean runInteractive, CommandMenu commandMenu) {
         arriveAtStore(clerk);
         arriveAtStore(trainer);
 
         clerkTasks();
         trainerTasks();
-        openStore(customers);
+        
+        if (runInteractive) {
+            openStoreInteractive(customers, commandMenu);
+        }
+        else {
+            openStore(customers);
+        }
         cleanStore();
         closeStore();
 
@@ -338,6 +346,42 @@ public class Store {
             }
             leaveStore(p);
         }
+    }
+
+    public void openStoreInteractive(ArrayList<Customer> customers, CommandMenu commandMenu) {
+        System.out.println("Clerk " + clerk.getName() + " has opened the store.");
+
+        // Ask the employee their name (
+        // Ask the clerk what time it is 
+        // Ask the trainer for current store inventory 
+        // Ask the trainer for information on a user selected inventory item
+        // Buy a normal inventory item from the clerk
+        // Offer discount if not buying anything
+        System.out.println("********* Command Menu *************");
+        boolean bought = false;
+        while (true) {
+
+            commandMenu.getAllCommands(); 
+            System.out.println("Press Enter to Exit this menu");
+            String userInput = Reader.getReader().nextLine();
+
+            // End command index is 6. 
+            if ("".equalsIgnoreCase(userInput)){ 
+                if (!(bought)) {
+                    AskBuyItemDiscountCommand askBuyItemDiscountCommand = new AskBuyItemDiscountCommand(this);
+                    askBuyItemDiscountCommand.execute();
+                }
+              break;
+            }else{
+                int userChoice = Integer.parseInt(userInput);
+                // if user buys item set
+                if (userChoice == 5) {
+                    bought = true;
+                }
+                commandMenu.executeCommand(userChoice);
+            }
+        } 
+
     }
 
     public void cleanStore() {

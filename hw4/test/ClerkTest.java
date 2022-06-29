@@ -1,5 +1,5 @@
-package hw3.test;
-import hw3.*;
+package hw4.test;
+import hw4.*;
 import org.junit.Test;
 import java.util.ArrayList;
 import java.util.HashMap;

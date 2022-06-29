@@ -18,7 +18,12 @@ public class Simulation {
     }
     
     public static void main(String[] args) {
-        Simulation sim = new Simulation(30);
+
+        int minDaysToSimulate = 10;
+        int maxDaysToSimulate = 30;
+        int daysToSimulate = (int) ((Math.random() * (maxDaysToSimulate - minDaysToSimulate)) + minDaysToSimulate);
+
+        Simulation sim = new Simulation(daysToSimulate);
         sim.runSimulation();
     }
 
@@ -27,6 +32,7 @@ public class Simulation {
     private ArrayList<Store> stores;
     private ArrayList<Clerk> clerks = new ArrayList<Clerk>();
     private ArrayList<Trainer> trainers = new ArrayList<Trainer>();
+    private CommandMenu commandMenu = new CommandMenu();
     
 
     public Simulation(int daysToSimulate) {
@@ -37,6 +43,7 @@ public class Simulation {
         stores.add(new Store("Northside"));
         stores.add(new Store("Southside"));
 
+
         clerks.add((Clerk)EmployeeFactory.create("clerk", bank));
         clerks.add((Clerk)EmployeeFactory.create("clerk", bank));
         clerks.add((Clerk)EmployeeFactory.create("clerk", bank));
@@ -45,14 +52,52 @@ public class Simulation {
         trainers.add((Trainer)EmployeeFactory.create("trainer", null));
         trainers.add((Trainer)EmployeeFactory.create("trainer", null));
         trainers.add((Trainer)EmployeeFactory.create("trainer", null));
+        
     }
 
     public void runSimulation() {
+
+
+        // Ask a user what store they should run commands on
+        AskWhatStoreCommand askWhatStoreCommand = new AskWhatStoreCommand(this);
+        System.out.println(askWhatStoreCommand);
+        askWhatStoreCommand.execute();
+
+        // Use command pattern to create a set of commands and bind it 
+        // to a particular store
+        createCommandMenu(askWhatStoreCommand.getStore()); 
         for (int i = 0; i < daysToSimulate; i++) {
-            runDay(i);
+            runDay(i, commandMenu, askWhatStoreCommand.getStore());
         }
         printResults();
     }
+
+
+    public ArrayList<Store> getStores() {
+        return stores;
+    }
+    // Creating the command menu prompt 
+    // by using the command design pattern
+    // A store is passed in and binded to the each command
+    private void createCommandMenu(Store store) {
+        // Commands to add to the menu
+        AskNameCommand askNameCommand = new AskNameCommand(store);
+        commandMenu.addCommand(1,askNameCommand);
+
+         AskMoreInfoCommand askMoreInfoCommand = new AskMoreInfoCommand(store);
+         commandMenu.addCommand(2,askMoreInfoCommand);
+
+         AskWhatTimeCommand askWhatTimeCommand = new AskWhatTimeCommand(store);
+         commandMenu.addCommand(3,askWhatTimeCommand);
+
+         AskListInventoryCommand askListInventoryCommand = new AskListInventoryCommand(store);
+         commandMenu.addCommand(4,askListInventoryCommand);
+
+         BuyItemCommand buyItemCommand = new BuyItemCommand(store);
+         commandMenu.addCommand(5,buyItemCommand);
+
+    }
+
 
     public void printResults() {
 
@@ -101,7 +146,7 @@ public class Simulation {
         
     }
 
-    public void runDay(int currentDay) {
+    public void runDay(int currentDay, CommandMenu commandMenu, Store storeToIssueCommand ) {
         for (Store store : stores) {
             Logger.getInstance().setFileName(store.getLocation(), currentDay);
             store.increaseAge();
@@ -109,8 +154,6 @@ public class Simulation {
             Trainer t = getTrainerToWork();
             c.setWorkingAt(store);
             t.setWorkingAt(store);
-
-
             
             // 2 plus a random variate from a Poisson distribution with mean 3 (this will result in random Poisson numbers from 1 to about 6 or 7 with a rare spike to 10 or so)
             // random variate from a Poisson distribution with mean 3
@@ -120,7 +163,12 @@ public class Simulation {
             for (int i = 0; i < numCustomers; i++) {
                 customers.add(new Customer());
             }
-            store.runDay(c, t, customers);
+            boolean runInteractive = false;
+            if (currentDay == (daysToSimulate - 1) && store.equals(storeToIssueCommand)  ){ //last day
+                System.out.println("Last Day. Run Interactive");
+                runInteractive = true;
+            }
+            store.runDay(c, t, customers, runInteractive, commandMenu );
         }
 
         // let the employees take their day off
