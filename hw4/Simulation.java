@@ -52,10 +52,6 @@ public class Simulation {
         trainers.add((Trainer)EmployeeFactory.create("trainer", null));
         trainers.add((Trainer)EmployeeFactory.create("trainer", null));
         trainers.add((Trainer)EmployeeFactory.create("trainer", null));
-
-        // Create the command menu for user interaction
-
-         // Commands to add to the menu
         
     }
 
@@ -67,7 +63,8 @@ public class Simulation {
         System.out.println(askWhatStoreCommand);
         askWhatStoreCommand.execute();
 
-        // create a set of commands for a store. this binds it
+        // Use command pattern to create a set of commands and bind it 
+        // to a particular store
         createCommandMenu(askWhatStoreCommand.getStore()); 
         for (int i = 0; i < daysToSimulate; i++) {
             runDay(i, commandMenu, askWhatStoreCommand.getStore());
