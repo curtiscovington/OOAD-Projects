@@ -1,0 +1,12 @@
+ArriveAtStoreEvent: ( Bob Davis the Clerk )
+ArriveAtStoreEvent: ( Joe Miller the Trainer )
+ProcessDeliveriesEvent: ( Bob Davis the Clerk ), itemsAdded: 7
+CheckRegisterEvent: ( Bob Davis the Clerk ), amount: 3826.656488712293
+DoInventoryEvent: ( Bob Davis the Clerk ), pets: 5, supplies: 22, purchasePrice: 568.6160670717911
+( Bob Davis the Clerk )
+ItemSoldEvent: ( Bob Davis the Clerk ), item: Bod
+ItemSoldEvent: ( Bob Davis the Clerk ), item: Knockoff Treat
+ItemSoldEvent: ( Joe Miller the Trainer ), item: Buddy and 1 Prepad Vet
+ItemSoldEvent: ( Joe Miller the Trainer ), item: Buddy and Pet Insurance
+LeaveStoreEvent: ( Bob Davis the Clerk )
+LeaveStoreEvent: ( Joe Miller the Trainer )

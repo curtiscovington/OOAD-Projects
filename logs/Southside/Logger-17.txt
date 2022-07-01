@@ -1,0 +1,14 @@
+ArriveAtStoreEvent: ( Mary Harris the Clerk )
+ArriveAtStoreEvent: ( Jack Smith the Trainer )
+ProcessDeliveriesEvent: ( Mary Harris the Clerk ), itemsAdded: 3
+CheckRegisterEvent: ( Mary Harris the Clerk ), amount: 2203.267077802865
+DoInventoryEvent: ( Mary Harris the Clerk ), pets: 18, supplies: 46, purchasePrice: 1842.5967900124517
+( Mary Harris the Clerk )
+ItemSoldEvent: ( Jack Smith the Trainer ), item: Knockoff Treat
+ItemSoldEvent: ( Mary Harris the Clerk ), item: NameBrand Treat
+ItemSoldEvent: ( Jack Smith the Trainer ), item: Knockoff Treat
+ItemSoldEvent: ( Jack Smith the Trainer ), item: NameBrand Treat
+ItemSoldEvent: ( Jack Smith the Trainer ), item: Knockoff Treat
+ItemSoldEvent: ( Jack Smith the Trainer ), item: NameBrand Treat
+LeaveStoreEvent: ( Mary Harris the Clerk )
+LeaveStoreEvent: ( Jack Smith the Trainer )

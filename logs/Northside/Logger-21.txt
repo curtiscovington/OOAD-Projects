@@ -1,0 +1,13 @@
+ArriveAtStoreEvent: ( Jane Brown the Clerk )
+ArriveAtStoreEvent: ( Joe Taylor the Trainer )
+ProcessDeliveriesEvent: ( Jane Brown the Clerk ), itemsAdded: 2
+CheckRegisterEvent: ( Jane Brown the Clerk ), amount: 4840.708566921666
+DoInventoryEvent: ( Jane Brown the Clerk ), pets: 17, supplies: 34, purchasePrice: 1799.5578706158828
+( Jane Brown the Clerk )
+ItemSoldEvent: ( Joe Taylor the Trainer ), item: Knockoff Leash
+ItemSoldEvent: ( Joe Taylor the Trainer ), item: Knockoff Leash
+ItemSoldEvent: ( Joe Taylor the Trainer ), item: Knockoff Treat
+ItemSoldEvent: ( Joe Taylor the Trainer ), item: Bod and Microchip and Pet Insurance
+AnimalEscapeEvent: ( Joe Taylor the Trainer ), pet: Boo
+LeaveStoreEvent: ( Jane Brown the Clerk )
+LeaveStoreEvent: ( Joe Taylor the Trainer )

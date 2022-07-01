@@ -1,0 +1,15 @@
+ArriveAtStoreEvent: ( Jane Taylor the Clerk )
+ArriveAtStoreEvent: ( Mary Martin the Trainer )
+ProcessDeliveriesEvent: ( Jane Taylor the Clerk ), itemsAdded: 8
+CheckRegisterEvent: ( Jane Taylor the Clerk ), amount: 6139.105608154208
+DoInventoryEvent: ( Jane Taylor the Clerk ), pets: 26, supplies: 51, purchasePrice: 2474.558161993092
+( Jane Taylor the Clerk )
+ItemSoldEvent: ( Mary Martin the Trainer ), item: NameBrand Litter
+ItemSoldEvent: ( Jane Taylor the Clerk ), item: Fancy Leash
+ItemSoldEvent: ( Mary Martin the Trainer ), item: Knockoff Leash
+ItemSoldEvent: ( Mary Martin the Trainer ), item: Petkit food
+AnimalEscapeEvent: ( Mary Martin the Trainer ), pet: Zera
+AnimalEscapeEvent: ( Mary Martin the Trainer ), pet: NoooooooooOOo
+AnimalEscapeEvent: ( Mary Martin the Trainer ), pet: Sir Purrington
+LeaveStoreEvent: ( Jane Taylor the Clerk )
+LeaveStoreEvent: ( Mary Martin the Trainer )

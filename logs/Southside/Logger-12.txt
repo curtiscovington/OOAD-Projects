@@ -1,0 +1,13 @@
+ArriveAtStoreEvent: ( Bob Davis the Clerk )
+ArriveAtStoreEvent: ( Jack Smith the Trainer )
+ProcessDeliveriesEvent: ( Bob Davis the Clerk ), itemsAdded: 11
+CheckRegisterEvent: ( Bob Davis the Clerk ), amount: 3236.377895373252
+DoInventoryEvent: ( Bob Davis the Clerk ), pets: 11, supplies: 43, purchasePrice: 1256.100759236648
+( Bob Davis the Clerk )
+ItemSoldEvent: ( Jack Smith the Trainer ), item: Buddy and Microchip
+ItemSoldEvent: ( Jack Smith the Trainer ), item: Buddy and 2 Prepad Vet
+ItemSoldEvent: ( Jack Smith the Trainer ), item: NameBrand Treat
+ItemSoldEvent: ( Jack Smith the Trainer ), item: Buddy and Microchip and 2 Prepad Vet
+AnimalEscapeEvent: ( Jack Smith the Trainer ), pet: Sir Purrington
+LeaveStoreEvent: ( Bob Davis the Clerk )
+LeaveStoreEvent: ( Jack Smith the Trainer )

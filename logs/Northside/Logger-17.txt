@@ -1,0 +1,14 @@
+ArriveAtStoreEvent: ( Bob Davis the Clerk )
+ArriveAtStoreEvent: ( Bob Jones the Trainer )
+ProcessDeliveriesEvent: ( Bob Davis the Clerk ), itemsAdded: 2
+CheckRegisterEvent: ( Bob Davis the Clerk ), amount: 5110.611352508848
+DoInventoryEvent: ( Bob Davis the Clerk ), pets: 29, supplies: 37, purchasePrice: 2232.2414694229547
+( Bob Davis the Clerk )
+ItemSoldEvent: ( Bob Jones the Trainer ), item: NameBrand Treat
+ItemSoldEvent: ( Bob Davis the Clerk ), item: NameBrand Treat
+ItemSoldEvent: ( Bob Jones the Trainer ), item: NameBrand Treat
+ItemSoldEvent: ( Bob Jones the Trainer ), item: Sir Purrington and Microchip and Pet Insurance
+AnimalEscapeEvent: ( Bob Jones the Trainer ), pet: Boo
+AnimalEscapeEvent: ( Bob Jones the Trainer ), pet: Adams
+LeaveStoreEvent: ( Bob Davis the Clerk )
+LeaveStoreEvent: ( Bob Jones the Trainer )

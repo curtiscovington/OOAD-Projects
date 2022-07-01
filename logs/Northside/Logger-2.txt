@@ -1,0 +1,13 @@
+ArriveAtStoreEvent: ( Bob Davis the Clerk )
+ArriveAtStoreEvent: ( Bob Jones the Trainer )
+ProcessDeliveriesEvent: ( Bob Davis the Clerk ), itemsAdded: 1
+CheckRegisterEvent: ( Bob Davis the Clerk ), amount: 3405.0213739433575
+DoInventoryEvent: ( Bob Davis the Clerk ), pets: 12, supplies: 12, purchasePrice: 941.3158722187717
+( Bob Davis the Clerk )
+ItemSoldEvent: ( Bob Jones the Trainer ), item: Boo
+ItemSoldEvent: ( Bob Jones the Trainer ), item: NOPE
+ItemSoldEvent: ( Bob Davis the Clerk ), item: Knockoff Treat
+ItemSoldEvent: ( Bob Jones the Trainer ), item: Petkit food
+ItemSoldEvent: ( Bob Jones the Trainer ), item: Knockoff Leash
+LeaveStoreEvent: ( Bob Davis the Clerk )
+LeaveStoreEvent: ( Bob Jones the Trainer )

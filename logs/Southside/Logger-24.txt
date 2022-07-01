@@ -1,0 +1,15 @@
+ArriveAtStoreEvent: ( Jane Moore the Clerk )
+ArriveAtStoreEvent: ( Jack Martin the Trainer )
+ProcessDeliveriesEvent: ( Jane Moore the Clerk ), itemsAdded: 2
+CheckRegisterEvent: ( Jane Moore the Clerk ), amount: 4982.082452033146
+DoInventoryEvent: ( Jane Moore the Clerk ), pets: 22, supplies: 51, purchasePrice: 2389.4022002619236
+( Jane Moore the Clerk )
+ItemSoldEvent: ( Jack Martin the Trainer ), item: Birdy and 2 Prepad Vet
+ItemSoldEvent: ( Jack Martin the Trainer ), item: Birdy and Microchip and 2 Prepad Vet
+ItemSoldEvent: ( Jack Martin the Trainer ), item: Birdy and Microchip
+ItemSoldEvent: ( Jack Martin the Trainer ), item: Kitty and Microchip
+AnimalEscapeEvent: ( Jack Martin the Trainer ), pet: Birdy
+AnimalEscapeEvent: ( Jack Martin the Trainer ), pet: Kitty
+AnimalEscapeEvent: ( Jack Martin the Trainer ), pet: Watson
+LeaveStoreEvent: ( Jane Moore the Clerk )
+LeaveStoreEvent: ( Jack Martin the Trainer )

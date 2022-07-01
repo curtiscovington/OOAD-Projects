@@ -1,0 +1,17 @@
+ArriveAtStoreEvent: ( Jane Taylor the Clerk )
+ArriveAtStoreEvent: ( John Harris the Trainer )
+ProcessDeliveriesEvent: ( Jane Taylor the Clerk ), itemsAdded: 4
+CheckRegisterEvent: ( Jane Taylor the Clerk ), amount: 3567.9690784674835
+DoInventoryEvent: ( Jane Taylor the Clerk ), pets: 22, supplies: 50, purchasePrice: 2364.869425134418
+( Jane Taylor the Clerk )
+ItemSoldEvent: ( Jane Taylor the Clerk ), item: Knockoff Leash
+ItemSoldEvent: ( John Harris the Trainer ), item: Birdy and 3 Prepad Vet
+ItemSoldEvent: ( John Harris the Trainer ), item: Birdy and Pet Insurance
+ItemSoldEvent: ( John Harris the Trainer ), item: Birdy and Pet Insurance
+ItemSoldEvent: ( John Harris the Trainer ), item: Birdy and Microchip
+ItemSoldEvent: ( John Harris the Trainer ), item: Kitty and 2 Prepad Vet
+ItemSoldEvent: ( John Harris the Trainer ), item: Birdy and Pet Insurance and 2 Prepad Vet
+ItemSoldEvent: ( John Harris the Trainer ), item: Kitty and Microchip and 2 Prepad Vet
+AnimalEscapeEvent: ( John Harris the Trainer ), pet: Fido
+LeaveStoreEvent: ( Jane Taylor the Clerk )
+LeaveStoreEvent: ( John Harris the Trainer )

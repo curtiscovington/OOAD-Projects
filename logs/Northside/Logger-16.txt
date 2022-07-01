@@ -1,0 +1,17 @@
+ArriveAtStoreEvent: ( Bob Smith the Clerk )
+ArriveAtStoreEvent: ( Sue Moore the Trainer )
+ProcessDeliveriesEvent: ( Bob Smith the Clerk ), itemsAdded: 3
+CheckRegisterEvent: ( Bob Smith the Clerk ), amount: 5180.301665158591
+DoInventoryEvent: ( Bob Smith the Clerk ), pets: 31, supplies: 38, purchasePrice: 2375.809123519388
+( Bob Smith the Clerk )
+ItemSoldEvent: ( Sue Moore the Trainer ), item: Petkit food
+ItemSoldEvent: ( Bob Smith the Clerk ), item: Petkit food
+ItemSoldEvent: ( Bob Smith the Clerk ), item: Fancy Leash
+AnimalEscapeEvent: ( Sue Moore the Trainer ), pet: Zera
+AnimalEscapeEvent: ( Sue Moore the Trainer ), pet: Boo
+AnimalEscapeEvent: ( Sue Moore the Trainer ), pet: Noperino
+AnimalEscapeEvent: ( Sue Moore the Trainer ), pet: Snek
+AnimalEscapeEvent: ( Sue Moore the Trainer ), pet: Birdy
+AnimalEscapeEvent: ( Sue Moore the Trainer ), pet: Bod
+LeaveStoreEvent: ( Bob Smith the Clerk )
+LeaveStoreEvent: ( Sue Moore the Trainer )

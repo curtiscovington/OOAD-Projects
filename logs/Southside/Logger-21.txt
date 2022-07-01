@@ -1,0 +1,14 @@
+ArriveAtStoreEvent: ( Sue Smith the Clerk )
+ArriveAtStoreEvent: ( Tom Martin the Trainer )
+ProcessDeliveriesEvent: ( Sue Smith the Clerk ), itemsAdded: 2
+CheckRegisterEvent: ( Sue Smith the Clerk ), amount: 3821.3224994611473
+DoInventoryEvent: ( Sue Smith the Clerk ), pets: 21, supplies: 35, purchasePrice: 1866.3671130482671
+( Sue Smith the Clerk )
+ItemSoldEvent: ( Tom Martin the Trainer ), item: NoooooooooOOo and Microchip and 1 Prepad Vet
+ItemSoldEvent: ( Tom Martin the Trainer ), item: NoooooooooOOo and Microchip
+ItemSoldEvent: ( Tom Martin the Trainer ), item: NoooooooooOOo and Microchip
+ItemSoldEvent: ( Tom Martin the Trainer ), item: Knockoff food
+ItemSoldEvent: ( Tom Martin the Trainer ), item: NoooooooooOOo and Microchip and Pet Insurance
+ItemSoldEvent: ( Tom Martin the Trainer ), item: NoooooooooOOo and Microchip and Pet Insurance
+LeaveStoreEvent: ( Sue Smith the Clerk )
+LeaveStoreEvent: ( Tom Martin the Trainer )

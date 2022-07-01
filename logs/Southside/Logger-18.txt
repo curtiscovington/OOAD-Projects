@@ -1,0 +1,17 @@
+ArriveAtStoreEvent: ( Bob Smith the Clerk )
+ArriveAtStoreEvent: ( Joe Miller the Trainer )
+ProcessDeliveriesEvent: ( Bob Smith the Clerk ), itemsAdded: 9
+CheckRegisterEvent: ( Bob Smith the Clerk ), amount: 2226.070866478584
+DoInventoryEvent: ( Bob Smith the Clerk ), pets: 24, supplies: 43, purchasePrice: 2181.838827866458
+( Bob Smith the Clerk )
+ItemSoldEvent: ( Joe Miller the Trainer ), item: Kitty and Microchip and 2 Prepad Vet
+ItemSoldEvent: ( Joe Miller the Trainer ), item: Kitty and Microchip and Pet Insurance
+ItemSoldEvent: ( Joe Miller the Trainer ), item: Kitty and Microchip and Pet Insurance
+ItemSoldEvent: ( Bob Smith the Clerk ), item: Kitty
+ItemSoldEvent: ( Joe Miller the Trainer ), item: Knockoff Treat
+ItemSoldEvent: ( Bob Smith the Clerk ), item: Knockoff Treat
+ItemSoldEvent: ( Joe Miller the Trainer ), item: Knockoff food
+ItemSoldEvent: ( Joe Miller the Trainer ), item: Petkit food
+AnimalEscapeEvent: ( Joe Miller the Trainer ), pet: NoooooooooOOo
+LeaveStoreEvent: ( Bob Smith the Clerk )
+LeaveStoreEvent: ( Joe Miller the Trainer )

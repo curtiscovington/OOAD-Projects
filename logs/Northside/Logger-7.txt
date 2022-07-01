@@ -1,0 +1,18 @@
+ArriveAtStoreEvent: ( Bob Smith the Clerk )
+ArriveAtStoreEvent: ( Bob Jones the Trainer )
+ProcessDeliveriesEvent: ( Bob Smith the Clerk ), itemsAdded: 2
+CheckRegisterEvent: ( Bob Smith the Clerk ), amount: 5713.970112313907
+DoInventoryEvent: ( Bob Smith the Clerk ), pets: 6, supplies: 18, purchasePrice: 690.5384398438155
+( Bob Smith the Clerk )
+ItemSoldEvent: ( Bob Jones the Trainer ), item: Snek
+ItemSoldEvent: ( Bob Jones the Trainer ), item: Knockoff Treat
+ItemSoldEvent: ( Bob Jones the Trainer ), item: Knockoff Litter
+ItemSoldEvent: ( Bob Smith the Clerk ), item: Knockoff Leash
+ItemSoldEvent: ( Bob Jones the Trainer ), item: Joy and Pet Insurance and 3 Prepad Vet
+ItemSoldEvent: ( Bob Jones the Trainer ), item: Joy and Microchip
+ItemSoldEvent: ( Bob Jones the Trainer ), item: Watson
+ItemSoldEvent: ( Bob Jones the Trainer ), item: Joy and Pet Insurance and 3 Prepad Vet
+ItemSoldEvent: ( Bob Jones the Trainer ), item: Joy
+AnimalEscapeEvent: ( Bob Jones the Trainer ), pet: Snek
+LeaveStoreEvent: ( Bob Smith the Clerk )
+LeaveStoreEvent: ( Bob Jones the Trainer )

@@ -1,0 +1,13 @@
+ArriveAtStoreEvent: ( Jack Thomas the Clerk )
+ArriveAtStoreEvent: ( Jack Smith the Trainer )
+ProcessDeliveriesEvent: ( Jack Thomas the Clerk ), itemsAdded: 0
+CheckRegisterEvent: ( Jack Thomas the Clerk ), amount: 1942.5880487945924
+DoInventoryEvent: ( Jack Thomas the Clerk ), pets: 12, supplies: 11, purchasePrice: 845.1397785701403
+( Jack Thomas the Clerk )
+ItemSoldEvent: ( Jack Smith the Trainer ), item: Zera and 3 Prepad Vet
+ItemSoldEvent: ( Jack Smith the Trainer ), item: Zera and Microchip
+ItemSoldEvent: ( Jack Smith the Trainer ), item: Zera and Microchip
+ItemSoldEvent: ( Jack Smith the Trainer ), item: Zera and Microchip and Pet Insurance
+ItemSoldEvent: ( Jack Smith the Trainer ), item: Zera
+LeaveStoreEvent: ( Jack Thomas the Clerk )
+LeaveStoreEvent: ( Jack Smith the Trainer )

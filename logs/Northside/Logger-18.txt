@@ -1,0 +1,15 @@
+ArriveAtStoreEvent: ( Bob Davis the Clerk )
+ArriveAtStoreEvent: ( Jack Smith the Trainer )
+ProcessDeliveriesEvent: ( Bob Davis the Clerk ), itemsAdded: 2
+CheckRegisterEvent: ( Bob Davis the Clerk ), amount: 5223.5506682030145
+DoInventoryEvent: ( Bob Davis the Clerk ), pets: 27, supplies: 36, purchasePrice: 2088.5126660276824
+( Bob Davis the Clerk )
+ItemSoldEvent: ( Jack Smith the Trainer ), item: Sir Purrington and Pet Insurance
+ItemSoldEvent: ( Bob Davis the Clerk ), item: Sir Purrington
+ItemSoldEvent: ( Jack Smith the Trainer ), item: Kitty and Microchip
+ItemSoldEvent: ( Bob Davis the Clerk ), item: Knockoff Litter
+ItemSoldEvent: ( Jack Smith the Trainer ), item: Kitty and Microchip and 1 Prepad Vet
+ItemSoldEvent: ( Jack Smith the Trainer ), item: Kitty
+AnimalEscapeEvent: ( Jack Smith the Trainer ), pet: Buddy
+LeaveStoreEvent: ( Bob Davis the Clerk )
+LeaveStoreEvent: ( Jack Smith the Trainer )

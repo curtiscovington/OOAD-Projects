@@ -1,0 +1,14 @@
+ArriveAtStoreEvent: ( Mary Harris the Clerk )
+ArriveAtStoreEvent: ( Sue Moore the Trainer )
+ProcessDeliveriesEvent: ( Mary Harris the Clerk ), itemsAdded: 9
+CheckRegisterEvent: ( Mary Harris the Clerk ), amount: 2717.689875686831
+DoInventoryEvent: ( Mary Harris the Clerk ), pets: 26, supplies: 44, purchasePrice: 2318.375994326484
+( Mary Harris the Clerk )
+ItemSoldEvent: ( Mary Harris the Clerk ), item: NameBrand Treat
+ItemSoldEvent: ( Mary Harris the Clerk ), item: NameBrand Treat
+ItemSoldEvent: ( Sue Moore the Trainer ), item: Kitty and Pet Insurance
+ItemSoldEvent: ( Sue Moore the Trainer ), item: Kitty and Microchip and 2 Prepad Vet
+AnimalEscapeEvent: ( Sue Moore the Trainer ), pet: Buddy
+AnimalEscapeEvent: ( Sue Moore the Trainer ), pet: Snek
+LeaveStoreEvent: ( Mary Harris the Clerk )
+LeaveStoreEvent: ( Sue Moore the Trainer )

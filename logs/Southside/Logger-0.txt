@@ -1,0 +1,19 @@
+ArriveAtStoreEvent: ( Jack Thomas the Clerk )
+ArriveAtStoreEvent: ( Sue Moore the Trainer )
+ProcessDeliveriesEvent: ( Jack Thomas the Clerk ), itemsAdded: 0
+CheckRegisterEvent: ( Jack Thomas the Clerk ), amount: 0.0
+GoToBankEvent: ( Jack Thomas the Clerk ), amount: 1000.0
+DoInventoryEvent: ( Jack Thomas the Clerk ), pets: 15, supplies: 15, purchasePrice: 1106.0523008956288
+( Jack Thomas the Clerk )
+ItemSoldEvent: ( Sue Moore the Trainer ), item: Knockoff food
+ItemSoldEvent: ( Sue Moore the Trainer ), item: Fancy Leash
+ItemSoldEvent: ( Sue Moore the Trainer ), item: NameBrand Toy
+ItemSoldEvent: ( Sue Moore the Trainer ), item: NameBrand Litter
+ItemSoldEvent: ( Sue Moore the Trainer ), item: Sir Purrington and Pet Insurance
+ItemSoldEvent: ( Sue Moore the Trainer ), item: Sir Purrington and Pet Insurance and 2 Prepad Vet
+ItemSoldEvent: ( Sue Moore the Trainer ), item: Sir Purrington
+ItemSoldEvent: ( Sue Moore the Trainer ), item: Bod
+ItemSoldEvent: ( Sue Moore the Trainer ), item: Joy and Microchip and Pet Insurance and 2 Prepad Vet
+AnimalEscapeEvent: ( Sue Moore the Trainer ), pet: Zera
+LeaveStoreEvent: ( Jack Thomas the Clerk )
+LeaveStoreEvent: ( Sue Moore the Trainer )

@@ -1,0 +1,10 @@
+ArriveAtStoreEvent: ( Jack Thomas the Clerk )
+ArriveAtStoreEvent: ( Joe Miller the Trainer )
+ProcessDeliveriesEvent: ( Jack Thomas the Clerk ), itemsAdded: 5
+CheckRegisterEvent: ( Jack Thomas the Clerk ), amount: 2906.0366509607416
+DoInventoryEvent: ( Jack Thomas the Clerk ), pets: 9, supplies: 12, purchasePrice: 742.5661747917113
+( Jack Thomas the Clerk )
+ItemSoldEvent: ( Joe Miller the Trainer ), item: Zera and 3 Prepad Vet
+ItemSoldEvent: ( Joe Miller the Trainer ), item: Joy and 3 Prepad Vet
+LeaveStoreEvent: ( Jack Thomas the Clerk )
+LeaveStoreEvent: ( Joe Miller the Trainer )

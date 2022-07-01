@@ -1,0 +1,11 @@
+ArriveAtStoreEvent: ( Mary Harris the Clerk )
+ArriveAtStoreEvent: ( Sue Moore the Trainer )
+ProcessDeliveriesEvent: ( Mary Harris the Clerk ), itemsAdded: 11
+CheckRegisterEvent: ( Mary Harris the Clerk ), amount: 3338.2296397684677
+DoInventoryEvent: ( Mary Harris the Clerk ), pets: 9, supplies: 35, purchasePrice: 1070.6831794514771
+( Mary Harris the Clerk )
+ItemSoldEvent: ( Mary Harris the Clerk ), item: Knockoff Treat
+ItemSoldEvent: ( Sue Moore the Trainer ), item: Buddy and Microchip
+AnimalEscapeEvent: ( Sue Moore the Trainer ), pet: Kitty
+LeaveStoreEvent: ( Mary Harris the Clerk )
+LeaveStoreEvent: ( Sue Moore the Trainer )

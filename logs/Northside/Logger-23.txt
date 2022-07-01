@@ -1,0 +1,11 @@
+ArriveAtStoreEvent: ( Bob Miller the Clerk )
+ArriveAtStoreEvent: ( Jack Jones the Trainer )
+ProcessDeliveriesEvent: ( Bob Miller the Clerk ), itemsAdded: 6
+CheckRegisterEvent: ( Bob Miller the Clerk ), amount: 6288.637709593115
+DoInventoryEvent: ( Bob Miller the Clerk ), pets: 23, supplies: 50, purchasePrice: 2217.0768280672733
+( Bob Miller the Clerk )
+ItemSoldEvent: ( Jack Jones the Trainer ), item: Knockoff Leash
+ItemSoldEvent: ( Jack Jones the Trainer ), item: Knockoff Treat
+ItemSoldEvent: ( Bob Miller the Clerk ), item: Knockoff Leash
+LeaveStoreEvent: ( Bob Miller the Clerk )
+LeaveStoreEvent: ( Jack Jones the Trainer )

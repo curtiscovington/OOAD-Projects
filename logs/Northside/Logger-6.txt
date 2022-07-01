@@ -1,0 +1,14 @@
+ArriveAtStoreEvent: ( Mary Harris the Clerk )
+ArriveAtStoreEvent: ( Sue Moore the Trainer )
+ProcessDeliveriesEvent: ( Mary Harris the Clerk ), itemsAdded: 2
+CheckRegisterEvent: ( Mary Harris the Clerk ), amount: 5188.222984908718
+DoInventoryEvent: ( Mary Harris the Clerk ), pets: 7, supplies: 18, purchasePrice: 729.9977263022317
+( Mary Harris the Clerk )
+ItemSoldEvent: ( Sue Moore the Trainer ), item: Fido and Microchip
+ItemSoldEvent: ( Sue Moore the Trainer ), item: Fido and Pet Insurance
+ItemSoldEvent: ( Sue Moore the Trainer ), item: Fido
+ItemSoldEvent: ( Sue Moore the Trainer ), item: NameBrand Toy
+ItemSoldEvent: ( Sue Moore the Trainer ), item: Snek and Microchip
+ItemSoldEvent: ( Mary Harris the Clerk ), item: Knockoff food
+LeaveStoreEvent: ( Mary Harris the Clerk )
+LeaveStoreEvent: ( Sue Moore the Trainer )

@@ -1,0 +1,13 @@
+ArriveAtStoreEvent: ( Jack Thomas the Clerk )
+ArriveAtStoreEvent: ( Joe Miller the Trainer )
+ProcessDeliveriesEvent: ( Jack Thomas the Clerk ), itemsAdded: 0
+CheckRegisterEvent: ( Jack Thomas the Clerk ), amount: 2404.7136066394214
+DoInventoryEvent: ( Jack Thomas the Clerk ), pets: 10, supplies: 11, purchasePrice: 764.6922029050687
+( Jack Thomas the Clerk )
+ItemSoldEvent: ( Joe Miller the Trainer ), item: Joy and Microchip
+ItemSoldEvent: ( Joe Miller the Trainer ), item: Joy and Microchip
+ItemSoldEvent: ( Joe Miller the Trainer ), item: Joy and Microchip
+ItemSoldEvent: ( Joe Miller the Trainer ), item: Joy and Microchip and Pet Insurance
+ItemSoldEvent: ( Joe Miller the Trainer ), item: Joy and Microchip
+LeaveStoreEvent: ( Jack Thomas the Clerk )
+LeaveStoreEvent: ( Joe Miller the Trainer )

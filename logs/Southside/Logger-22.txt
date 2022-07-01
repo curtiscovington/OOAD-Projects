@@ -1,0 +1,11 @@
+ArriveAtStoreEvent: ( Sue Smith the Clerk )
+ArriveAtStoreEvent: ( John Wilson the Trainer )
+ProcessDeliveriesEvent: ( Sue Smith the Clerk ), itemsAdded: 3
+CheckRegisterEvent: ( Sue Smith the Clerk ), amount: 4750.097826932116
+DoInventoryEvent: ( Sue Smith the Clerk ), pets: 19, supplies: 37, purchasePrice: 1741.2374353874934
+( Sue Smith the Clerk )
+ItemSoldEvent: ( Sue Smith the Clerk ), item: Fancy Leash
+AnimalEscapeEvent: ( John Wilson the Trainer ), pet: NoooooooooOOo
+AnimalEscapeEvent: ( John Wilson the Trainer ), pet: Buddy
+LeaveStoreEvent: ( Sue Smith the Clerk )
+LeaveStoreEvent: ( John Wilson the Trainer )

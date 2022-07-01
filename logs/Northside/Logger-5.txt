@@ -1,0 +1,12 @@
+ArriveAtStoreEvent: ( Mary Harris the Clerk )
+ArriveAtStoreEvent: ( Joe Miller the Trainer )
+ProcessDeliveriesEvent: ( Mary Harris the Clerk ), itemsAdded: 3
+CheckRegisterEvent: ( Mary Harris the Clerk ), amount: 4557.864176359119
+DoInventoryEvent: ( Mary Harris the Clerk ), pets: 8, supplies: 16, purchasePrice: 780.0037630495522
+( Mary Harris the Clerk )
+ItemSoldEvent: ( Joe Miller the Trainer ), item: Birdy
+ItemSoldEvent: ( Joe Miller the Trainer ), item: Fido and Microchip and Pet Insurance and 1 Prepad Vet
+ItemSoldEvent: ( Joe Miller the Trainer ), item: Fido and Microchip and Pet Insurance
+ItemSoldEvent: ( Joe Miller the Trainer ), item: Fido and Microchip and Pet Insurance
+LeaveStoreEvent: ( Mary Harris the Clerk )
+LeaveStoreEvent: ( Joe Miller the Trainer )

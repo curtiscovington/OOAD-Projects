@@ -1,0 +1,14 @@
+ArriveAtStoreEvent: ( Jack Thomas the Clerk )
+ArriveAtStoreEvent: ( Jack Smith the Trainer )
+ProcessDeliveriesEvent: ( Jack Thomas the Clerk ), itemsAdded: 3
+CheckRegisterEvent: ( Jack Thomas the Clerk ), amount: 6759.439200547545
+DoInventoryEvent: ( Jack Thomas the Clerk ), pets: 0, supplies: 21, purchasePrice: 321.25622034054334
+( Jack Thomas the Clerk )
+ItemSoldEvent: ( Jack Smith the Trainer ), item: NameBrand Treat
+ItemSoldEvent: ( Jack Thomas the Clerk ), item: Knockoff Treat
+ItemSoldEvent: ( Jack Thomas the Clerk ), item: NameBrand Treat
+ItemSoldEvent: ( Jack Smith the Trainer ), item: Knockoff Treat
+ItemSoldEvent: ( Jack Smith the Trainer ), item: NameBrand Treat
+ItemSoldEvent: ( Jack Thomas the Clerk ), item: Knockoff Treat
+LeaveStoreEvent: ( Jack Thomas the Clerk )
+LeaveStoreEvent: ( Jack Smith the Trainer )

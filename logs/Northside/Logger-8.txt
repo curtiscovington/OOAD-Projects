@@ -1,0 +1,15 @@
+ArriveAtStoreEvent: ( Jack Thomas the Clerk )
+ArriveAtStoreEvent: ( Joe Miller the Trainer )
+ProcessDeliveriesEvent: ( Jack Thomas the Clerk ), itemsAdded: 3
+CheckRegisterEvent: ( Jack Thomas the Clerk ), amount: 6710.074848992941
+DoInventoryEvent: ( Jack Thomas the Clerk ), pets: 3, supplies: 18, purchasePrice: 466.74086156907714
+( Jack Thomas the Clerk )
+ItemSoldEvent: ( Jack Thomas the Clerk ), item: Birdy
+ItemSoldEvent: ( Joe Miller the Trainer ), item: Fido and Microchip and Pet Insurance
+ItemSoldEvent: ( Joe Miller the Trainer ), item: Fido and Microchip and 1 Prepad Vet
+ItemSoldEvent: ( Jack Thomas the Clerk ), item: Fido
+ItemSoldEvent: ( Joe Miller the Trainer ), item: Snek and Pet Insurance and 2 Prepad Vet
+ItemSoldEvent: ( Joe Miller the Trainer ), item: Snek and Microchip and 3 Prepad Vet
+ItemSoldEvent: ( Joe Miller the Trainer ), item: Snek
+LeaveStoreEvent: ( Jack Thomas the Clerk )
+LeaveStoreEvent: ( Joe Miller the Trainer )

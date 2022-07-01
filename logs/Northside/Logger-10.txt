@@ -1,0 +1,16 @@
+ArriveAtStoreEvent: ( Bob Davis the Clerk )
+ArriveAtStoreEvent: ( Joe Miller the Trainer )
+ProcessDeliveriesEvent: ( Bob Davis the Clerk ), itemsAdded: 6
+CheckRegisterEvent: ( Bob Davis the Clerk ), amount: 5461.167025864314
+DoInventoryEvent: ( Bob Davis the Clerk ), pets: 1, supplies: 20, purchasePrice: 345.9437766458432
+( Bob Davis the Clerk )
+ItemSoldEvent: ( Joe Miller the Trainer ), item: NameBrand Treat
+ItemSoldEvent: ( Joe Miller the Trainer ), item: NameBrand Treat
+ItemSoldEvent: ( Joe Miller the Trainer ), item: NameBrand Treat
+ItemSoldEvent: ( Bob Davis the Clerk ), item: NameBrand Treat
+ItemSoldEvent: ( Joe Miller the Trainer ), item: Knockoff Treat
+ItemSoldEvent: ( Joe Miller the Trainer ), item: Knockoff Treat
+ItemSoldEvent: ( Joe Miller the Trainer ), item: NameBrand Treat
+ItemSoldEvent: ( Joe Miller the Trainer ), item: Knockoff Treat
+LeaveStoreEvent: ( Bob Davis the Clerk )
+LeaveStoreEvent: ( Joe Miller the Trainer )

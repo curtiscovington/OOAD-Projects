@@ -1,0 +1,14 @@
+ArriveAtStoreEvent: ( Mary Harris the Clerk )
+ArriveAtStoreEvent: ( Sue Moore the Trainer )
+ProcessDeliveriesEvent: ( Mary Harris the Clerk ), itemsAdded: 2
+CheckRegisterEvent: ( Mary Harris the Clerk ), amount: 3554.012084925572
+DoInventoryEvent: ( Mary Harris the Clerk ), pets: 10, supplies: 13, purchasePrice: 841.9579752820479
+( Mary Harris the Clerk )
+ItemSoldEvent: ( Sue Moore the Trainer ), item: Joy and Microchip
+ItemSoldEvent: ( Sue Moore the Trainer ), item: Joy and Microchip
+ItemSoldEvent: ( Sue Moore the Trainer ), item: Joy and Microchip
+ItemSoldEvent: ( Sue Moore the Trainer ), item: Joy and Microchip and 2 Prepad Vet
+ItemSoldEvent: ( Sue Moore the Trainer ), item: Joy
+ItemSoldEvent: ( Sue Moore the Trainer ), item: Birdy and Microchip and 3 Prepad Vet
+LeaveStoreEvent: ( Mary Harris the Clerk )
+LeaveStoreEvent: ( Sue Moore the Trainer )

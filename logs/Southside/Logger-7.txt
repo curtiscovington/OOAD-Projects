@@ -1,0 +1,12 @@
+ArriveAtStoreEvent: ( Jack Thomas the Clerk )
+ArriveAtStoreEvent: ( Sue Moore the Trainer )
+ProcessDeliveriesEvent: ( Jack Thomas the Clerk ), itemsAdded: 4
+CheckRegisterEvent: ( Jack Thomas the Clerk ), amount: 4232.005377464506
+DoInventoryEvent: ( Jack Thomas the Clerk ), pets: 5, supplies: 19, purchasePrice: 566.2944203168882
+( Jack Thomas the Clerk )
+ItemSoldEvent: ( Sue Moore the Trainer ), item: Joy and 1 Prepad Vet
+ItemSoldEvent: ( Sue Moore the Trainer ), item: Joy
+ItemSoldEvent: ( Sue Moore the Trainer ), item: Petkit food
+ItemSoldEvent: ( Sue Moore the Trainer ), item: Knockoff Litter
+LeaveStoreEvent: ( Jack Thomas the Clerk )
+LeaveStoreEvent: ( Sue Moore the Trainer )

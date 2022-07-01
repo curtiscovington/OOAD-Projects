@@ -1,0 +1,6 @@
+ArriveAtStoreEvent: ( Jane Moore the Clerk )
+ArriveAtStoreEvent: ( Jack Jones the Trainer )
+ProcessDeliveriesEvent: ( Jane Moore the Clerk ), itemsAdded: 4
+CheckRegisterEvent: ( Jane Moore the Clerk ), amount: 6024.349570182238
+DoInventoryEvent: ( Jane Moore the Clerk ), pets: 27, supplies: 48, purchasePrice: 2469.5872218542618
+( Jane Moore the Clerk )

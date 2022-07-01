@@ -1,0 +1,11 @@
+ArriveAtStoreEvent: ( Jane Smith the Clerk )
+ArriveAtStoreEvent: ( Jane Wilson the Trainer )
+ProcessDeliveriesEvent: ( Jane Smith the Clerk ), itemsAdded: 4
+CheckRegisterEvent: ( Jane Smith the Clerk ), amount: 4417.1359624672605
+DoInventoryEvent: ( Jane Smith the Clerk ), pets: 18, supplies: 33, purchasePrice: 1818.0090051264078
+( Jane Smith the Clerk )
+ItemSoldEvent: ( Jane Wilson the Trainer ), item: Fido and Microchip
+ItemSoldEvent: ( Jane Wilson the Trainer ), item: Fido
+ItemSoldEvent: ( Jane Wilson the Trainer ), item: NameBrand Treat
+LeaveStoreEvent: ( Jane Smith the Clerk )
+LeaveStoreEvent: ( Jane Wilson the Trainer )

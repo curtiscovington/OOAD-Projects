@@ -1,0 +1,11 @@
+ArriveAtStoreEvent: ( Bob Smith the Clerk )
+ArriveAtStoreEvent: ( Jack Smith the Trainer )
+ProcessDeliveriesEvent: ( Bob Smith the Clerk ), itemsAdded: 23
+CheckRegisterEvent: ( Bob Smith the Clerk ), amount: 4658.472608585543
+DoInventoryEvent: ( Bob Smith the Clerk ), pets: 9, supplies: 27, purchasePrice: 906.5416874477972
+( Bob Smith the Clerk )
+ItemSoldEvent: ( Bob Smith the Clerk ), item: NameBrand Treat
+ItemSoldEvent: ( Jack Smith the Trainer ), item: NameBrand Treat
+ItemSoldEvent: ( Jack Smith the Trainer ), item: Knockoff Treat
+LeaveStoreEvent: ( Bob Smith the Clerk )
+LeaveStoreEvent: ( Jack Smith the Trainer )

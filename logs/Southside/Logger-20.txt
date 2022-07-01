@@ -1,0 +1,14 @@
+ArriveAtStoreEvent: ( Bob Davis the Clerk )
+ArriveAtStoreEvent: ( Bob Jones the Trainer )
+ProcessDeliveriesEvent: ( Bob Davis the Clerk ), itemsAdded: 4
+CheckRegisterEvent: ( Bob Davis the Clerk ), amount: 3020.7778414829763
+DoInventoryEvent: ( Bob Davis the Clerk ), pets: 24, supplies: 45, purchasePrice: 2189.64826805119
+( Bob Davis the Clerk )
+ItemSoldEvent: ( Bob Jones the Trainer ), item: Kitty and Microchip
+ItemSoldEvent: ( Bob Jones the Trainer ), item: Kitty and Microchip
+ItemSoldEvent: ( Bob Jones the Trainer ), item: Kitty and 1 Prepad Vet
+ItemSoldEvent: ( Bob Jones the Trainer ), item: Kitty
+ItemSoldEvent: ( Bob Jones the Trainer ), item: NameBrand Litter
+AnimalEscapeEvent: ( Bob Jones the Trainer ), pet: Fido
+LeaveStoreEvent: ( Bob Davis the Clerk )
+LeaveStoreEvent: ( Bob Jones the Trainer )

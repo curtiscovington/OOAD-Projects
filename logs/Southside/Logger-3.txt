@@ -1,0 +1,15 @@
+ArriveAtStoreEvent: ( Bob Davis the Clerk )
+ArriveAtStoreEvent: ( Sue Moore the Trainer )
+ProcessDeliveriesEvent: ( Bob Davis the Clerk ), itemsAdded: 1
+CheckRegisterEvent: ( Bob Davis the Clerk ), amount: 2796.30629346241
+DoInventoryEvent: ( Bob Davis the Clerk ), pets: 10, supplies: 12, purchasePrice: 777.3908218838424
+( Bob Davis the Clerk )
+ItemSoldEvent: ( Bob Davis the Clerk ), item: NameBrand Treat
+ItemSoldEvent: ( Sue Moore the Trainer ), item: Joy and Microchip
+ItemSoldEvent: ( Sue Moore the Trainer ), item: Knockoff Toy
+ItemSoldEvent: ( Sue Moore the Trainer ), item: Joy
+ItemSoldEvent: ( Sue Moore the Trainer ), item: Knockoff food
+ItemSoldEvent: ( Bob Davis the Clerk ), item: Knockoff Leash
+ItemSoldEvent: ( Sue Moore the Trainer ), item: Knockoff Litter
+LeaveStoreEvent: ( Bob Davis the Clerk )
+LeaveStoreEvent: ( Sue Moore the Trainer )
