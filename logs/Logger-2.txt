@@ -1,0 +1,12 @@
+ArriveAtStoreEvent: ( John the Clerk )
+ArriveAtStoreEvent: ( Dianne the Clerk )
+ProcessDeliveriesEvent: ( John the Clerk ), itemsAdded: 0
+CheckRegisterEvent: ( John the Clerk ), amount: 1220.2681459304163
+DoInventoryEvent: ( John the Clerk ), pets: 14, supplies: 11, purchasePrice: 909.2099406631442
+( John the Clerk )
+ItemSoldEvent: ( Dianne the Clerk ), item: Birdy and Microchip
+ItemSoldEvent: ( Dianne the Clerk ), item: Birdy
+ItemSoldEvent: ( Dianne the Clerk ), item: Joy and Microchip
+ItemSoldEvent: ( Dianne the Clerk ), item: Joy and Microchip
+LeaveStoreEvent: ( John the Clerk )
+LeaveStoreEvent: ( Dianne the Clerk )

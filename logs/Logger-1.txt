@@ -1,0 +1,15 @@
+ArriveAtStoreEvent: ( Sarah the Clerk )
+ArriveAtStoreEvent: ( Timmy the Clerk )
+ProcessDeliveriesEvent: ( Sarah the Clerk ), itemsAdded: 0
+CheckRegisterEvent: ( Sarah the Clerk ), amount: 0.0
+GoToBankEvent: ( Sarah the Clerk ), amount: 1000.0
+DoInventoryEvent: ( Sarah the Clerk ), pets: 15, supplies: 15, purchasePrice: 1026.055609378991
+( Sarah the Clerk )
+ItemSoldEvent: ( Timmy the Clerk ), item: Petkit food
+ItemSoldEvent: ( Timmy the Clerk ), item: Knockoff Toy
+ItemSoldEvent: ( Sarah the Clerk ), item: NameBrand Litter
+ItemSoldEvent: ( Timmy the Clerk ), item: Joy and Microchip and Pet Insurance
+ItemSoldEvent: ( Timmy the Clerk ), item: Fancy Leash
+ItemSoldEvent: ( Timmy the Clerk ), item: Sir Purrington
+LeaveStoreEvent: ( Sarah the Clerk )
+LeaveStoreEvent: ( Timmy the Clerk )

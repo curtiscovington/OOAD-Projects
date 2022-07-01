@@ -1,0 +1,10 @@
+ArriveAtStoreEvent: ( Jack the Clerk )
+ArriveAtStoreEvent: ( Dianne the Clerk )
+ProcessDeliveriesEvent: ( Jack the Clerk ), itemsAdded: 3
+CheckRegisterEvent: ( Jack the Clerk ), amount: 3312.253187488008
+DoInventoryEvent: ( Jack the Clerk ), pets: 8, supplies: 16, purchasePrice: 703.5578044625323
+( Jack the Clerk )
+ItemSoldEvent: ( Jack the Clerk ), item: Fido
+ItemSoldEvent: ( Dianne the Clerk ), item: Joy and Microchip and 2 Prepad Vet
+LeaveStoreEvent: ( Jack the Clerk )
+LeaveStoreEvent: ( Dianne the Clerk )

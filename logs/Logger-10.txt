@@ -1,0 +1,13 @@
+ArriveAtStoreEvent: ( John the Clerk )
+ArriveAtStoreEvent: ( Timmy the Clerk )
+ProcessDeliveriesEvent: ( John the Clerk ), itemsAdded: 3
+CheckRegisterEvent: ( John the Clerk ), amount: 3729.682514943951
+DoInventoryEvent: ( John the Clerk ), pets: 3, supplies: 23, purchasePrice: 519.6075277054966
+( John the Clerk )
+ItemSoldEvent: ( Timmy the Clerk ), item: Fancy Leash
+ItemSoldEvent: ( Timmy the Clerk ), item: Bob and Microchip
+ItemSoldEvent: ( Timmy the Clerk ), item: Bod
+ItemSoldEvent: ( Timmy the Clerk ), item: Birdy and Microchip and Pet Insurance
+AnimalEscapeEvent: ( Timmy the Clerk ), pet: Bob
+LeaveStoreEvent: ( John the Clerk )
+LeaveStoreEvent: ( Timmy the Clerk )

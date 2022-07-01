@@ -1,0 +1,13 @@
+ArriveAtStoreEvent: ( Sarah the Clerk )
+ArriveAtStoreEvent: ( Dianne the Clerk )
+ProcessDeliveriesEvent: ( Sarah the Clerk ), itemsAdded: 5
+CheckRegisterEvent: ( Sarah the Clerk ), amount: 3554.2442189695894
+DoInventoryEvent: ( Sarah the Clerk ), pets: 7, supplies: 21, purchasePrice: 710.7354839543154
+( Sarah the Clerk )
+ItemSoldEvent: ( Dianne the Clerk ), item: Joy
+ItemSoldEvent: ( Dianne the Clerk ), item: Knockoff Treat
+ItemSoldEvent: ( Sarah the Clerk ), item: Knockoff food
+ItemSoldEvent: ( Dianne the Clerk ), item: Lucas and 1 Prepad Vet
+ItemSoldEvent: ( Dianne the Clerk ), item: Lucas and Microchip
+LeaveStoreEvent: ( Sarah the Clerk )
+LeaveStoreEvent: ( Dianne the Clerk )

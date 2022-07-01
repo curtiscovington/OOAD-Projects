@@ -1,0 +1,15 @@
+ArriveAtStoreEvent: ( Sarah the Clerk )
+ArriveAtStoreEvent: ( Sally the Clerk )
+ProcessDeliveriesEvent: ( Sarah the Clerk ), itemsAdded: 3
+CheckRegisterEvent: ( Sarah the Clerk ), amount: 7968.160217371108
+DoInventoryEvent: ( Sarah the Clerk ), pets: 22, supplies: 50, purchasePrice: 1903.7945742892996
+( Sarah the Clerk )
+ItemSoldEvent: ( Sally the Clerk ), item: NameBrand Treat
+ItemSoldEvent: ( Sally the Clerk ), item: NameBrand Litter
+ItemSoldEvent: ( Sally the Clerk ), item: Birdy
+ItemSoldEvent: ( Sally the Clerk ), item: Fancy Leash
+ItemSoldEvent: ( Sally the Clerk ), item: Fancy Leash
+ItemSoldEvent: ( Sally the Clerk ), item: Knockoff Treat
+ItemSoldEvent: ( Sarah the Clerk ), item: NameBrand Treat
+LeaveStoreEvent: ( Sarah the Clerk )
+LeaveStoreEvent: ( Sally the Clerk )

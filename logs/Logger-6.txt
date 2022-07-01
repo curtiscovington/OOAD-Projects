@@ -1,0 +1,13 @@
+ArriveAtStoreEvent: ( John the Clerk )
+ArriveAtStoreEvent: ( Timmy the Clerk )
+ProcessDeliveriesEvent: ( John the Clerk ), itemsAdded: 0
+CheckRegisterEvent: ( John the Clerk ), amount: 2978.365362199721
+DoInventoryEvent: ( John the Clerk ), pets: 9, supplies: 15, purchasePrice: 723.1549592879172
+( John the Clerk )
+ItemSoldEvent: ( John the Clerk ), item: Knockoff Litter
+ItemSoldEvent: ( Timmy the Clerk ), item: Fancy Leash
+ItemSoldEvent: ( Timmy the Clerk ), item: Joy and Microchip
+ItemSoldEvent: ( Timmy the Clerk ), item: Joy and Microchip
+AnimalEscapeEvent: ( Timmy the Clerk ), pet: Bod
+LeaveStoreEvent: ( John the Clerk )
+LeaveStoreEvent: ( Timmy the Clerk )

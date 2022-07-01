@@ -1,0 +1,14 @@
+ArriveAtStoreEvent: ( Sarah the Clerk )
+ArriveAtStoreEvent: ( Timmy the Clerk )
+ProcessDeliveriesEvent: ( Sarah the Clerk ), itemsAdded: 6
+CheckRegisterEvent: ( Sarah the Clerk ), amount: 7755.980308344099
+DoInventoryEvent: ( Sarah the Clerk ), pets: 21, supplies: 52, purchasePrice: 1927.3004524921
+( Sarah the Clerk )
+ItemSoldEvent: ( Timmy the Clerk ), item: Joy
+ItemSoldEvent: ( Timmy the Clerk ), item: Fancy Leash
+ItemSoldEvent: ( Timmy the Clerk ), item: Bod and 3 Prepad Vet
+ItemSoldEvent: ( Timmy the Clerk ), item: NameBrand Litter
+ItemSoldEvent: ( Sarah the Clerk ), item: NameBrand Treat
+AnimalEscapeEvent: ( Timmy the Clerk ), pet: Joy
+LeaveStoreEvent: ( Sarah the Clerk )
+LeaveStoreEvent: ( Timmy the Clerk )

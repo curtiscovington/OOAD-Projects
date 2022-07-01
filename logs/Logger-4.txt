@@ -1,0 +1,12 @@
+ArriveAtStoreEvent: ( John the Clerk )
+ArriveAtStoreEvent: ( Dianne the Clerk )
+ProcessDeliveriesEvent: ( John the Clerk ), itemsAdded: 4
+CheckRegisterEvent: ( John the Clerk ), amount: 1643.989630772439
+DoInventoryEvent: ( John the Clerk ), pets: 11, supplies: 15, purchasePrice: 812.5543443040401
+( John the Clerk )
+ItemSoldEvent: ( Dianne the Clerk ), item: Snek
+ItemSoldEvent: ( Dianne the Clerk ), item: Joy and Microchip and Pet Insurance
+ItemSoldEvent: ( Dianne the Clerk ), item: Knockoff food
+ItemSoldEvent: ( Dianne the Clerk ), item: Joy and Microchip
+LeaveStoreEvent: ( John the Clerk )
+LeaveStoreEvent: ( Dianne the Clerk )

@@ -1,0 +1,119 @@
+
+
+ne graph should show two lines – Item Sales and Total Register $ – for each day of 
+the simulation.  Another graph should show three lines – counts of Items in Inventory, Sick Pets, and Items Sold 
+– for each day of the simulation.  
+
+Overall Project Guidelines 
+Be aware that the class midterm exam will run from noon Saturday 6/25 through the end of the day Thursday 
+6/30.  The exam window will be three hours (longer for those with accommodation).  Plan ahead to make sure 
+you allocate time for this project work and the midterm.  To help with this, I will waive the normal 5% late 
+penalties for the first two days after the due date, but the 15% penalty for the last two days will still be in 
+place. 
+
+
+Select a store to issue commands to
+Store ID 0 Northside
+Store ID 1 Southside
+0
+...
+********* Command Menu *************
+1: What is your name?
+2: Ask for more info in item?
+3: What time is it?
+4: List inventory of items for sale
+5: Buy Item
+Press Enter to Exit this menu
+1
+Bob Smith
+1: What is your name?
+2: Ask for more info in item?
+3: What time is it?
+4: List inventory of items for sale
+5: Buy Item
+Press Enter to Exit this menu
+2
+This item is very rare
+1: What is your name?
+2: Ask for more info in item?
+3: What time is it?
+4: List inventory of items for sale
+5: Buy Item
+Press Enter to Exit this menu
+3
+1656678929200
+1: What is your name?
+2: Ask for more info in item?
+3: What time is it?
+4: List inventory of items for sale
+5: Buy Item
+Press Enter to Exit this menu
+Items in inventory:
+Item ID 0 Noperino
+Item ID 1 NameBrand Treat
+Item ID 2 Knockoff Treat
+Item ID 3 NameBrand Treat
+Item ID 4 Bob
+Item ID 5 Joy
+Item ID 6 Knockoff Leash
+Item ID 7 Petkit food
+Item ID 8 Watson
+Item ID 9 Buddy
+Item ID 10 NameBrand Litter
+Item ID 11 Zera
+Item ID 12 Knockoff Leash
+Item ID 13 Petkit food
+Item ID 14 Sir Purrington
+Item ID 15 Knockoff Litter
+Item ID 16 NameBrand Litter
+Item ID 17 Knockoff Treat
+Item ID 18 Sir Purrington
+Item ID 19 Kitty
+Item ID 20 Zera
+Item ID 21 Boo
+Item ID 22 Knockoff Leash
+Item ID 23 Knockoff food
+Item ID 24 Knockoff food
+Item ID 25 Kitty
+Item ID 26 Buddy
+Item ID 27 Joy
+Item ID 28 Knockoff Litter
+Item ID 29 Snek
+Item ID 30 Birdy
+Item ID 31 Boo
+Item ID 32 Petkit food
+Item ID 33 Knockoff food
+Item ID 34 Petkit food
+Item ID 35 NameBrand Treat
+Item ID 36 Knockoff Treat
+Item ID 37 Noperino
+Item ID 38 Sir Purrington
+Item ID 39 Adams
+Item ID 40 Buddy
+Item ID 41 Birdy
+Item ID 42 NameBrand Treat
+Item ID 43 Knockoff Treat
+Item ID 44 NameBrand Treat
+Item ID 45 Knockoff Treat
+Item ID 46 Joey
+Item ID 47 NameBrand Treat
+Item ID 48 Knockoff Treat
+Item ID 49 NameBrand Treat
+Item ID 50 NameBrand Treat
+Item ID 51 NameBrand Treat
+Item ID 52 NameBrand Treat
+Item ID 53 NameBrand Treat
+Item ID 54 Knockoff Treat
+Item ID 55 NameBrand Treat
+Item ID 56 Knockoff Treat
+Item ID 57 NameBrand Treat
+Item ID 58 NameBrand Treat
+Item ID 59 Knockoff Treat
+Item ID 60 NameBrand Treat
+Item ID 61 NameBrand Treat
+Item ID 62 NameBrand Treat
+5   
+What Item do you want to buy (enter number?
+10
+Clerk Bob Smith has sold NameBrand Litter for $23.691062730064637
+

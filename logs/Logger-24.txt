@@ -1,0 +1,15 @@
+ArriveAtStoreEvent: ( Jack the Clerk )
+ArriveAtStoreEvent: ( Timmy the Clerk )
+ProcessDeliveriesEvent: ( Jack the Clerk ), itemsAdded: 5
+CheckRegisterEvent: ( Jack the Clerk ), amount: 3682.8528136907353
+DoInventoryEvent: ( Jack the Clerk ), pets: 26, supplies: 32, purchasePrice: 2084.5581947885435
+( Jack the Clerk )
+ItemSoldEvent: ( Timmy the Clerk ), item: Kitty
+ItemSoldEvent: ( Timmy the Clerk ), item: Birdy and Microchip and Pet Insurance
+ItemSoldEvent: ( Timmy the Clerk ), item: Boo and Microchip
+ItemSoldEvent: ( Timmy the Clerk ), item: Birdy
+AnimalEscapeEvent: ( Timmy the Clerk ), pet: Buddy
+AnimalEscapeEvent: ( Timmy the Clerk ), pet: Fido
+AnimalEscapeEvent: ( Timmy the Clerk ), pet: Noperino
+LeaveStoreEvent: ( Jack the Clerk )
+LeaveStoreEvent: ( Timmy the Clerk )

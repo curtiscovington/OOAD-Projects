@@ -1,0 +1,10 @@
+ArriveAtStoreEvent: ( Sarah the Clerk )
+ArriveAtStoreEvent: ( Timmy the Clerk )
+ProcessDeliveriesEvent: ( Sarah the Clerk ), itemsAdded: 4
+CheckRegisterEvent: ( Sarah the Clerk ), amount: 2768.1054443917105
+DoInventoryEvent: ( Sarah the Clerk ), pets: 30, supplies: 41, purchasePrice: 2667.861112990306
+( Sarah the Clerk )
+ItemSoldEvent: ( Timmy the Clerk ), item: Snek
+AnimalEscapeEvent: ( Timmy the Clerk ), pet: Watson
+LeaveStoreEvent: ( Sarah the Clerk )
+LeaveStoreEvent: ( Timmy the Clerk )

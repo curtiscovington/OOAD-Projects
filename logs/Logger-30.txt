@@ -1,0 +1,7 @@
+ArriveAtStoreEvent: ( John the Clerk )
+ArriveAtStoreEvent: ( Timmy the Clerk )
+ProcessDeliveriesEvent: ( John the Clerk ), itemsAdded: 4
+CheckRegisterEvent: ( John the Clerk ), amount: 8042.921558936395
+DoInventoryEvent: ( John the Clerk ), pets: 20, supplies: 48, purchasePrice: 1783.8089273110706
+( John the Clerk )
+ItemSoldEvent: ( John the Clerk ), item: NameBrand Treat

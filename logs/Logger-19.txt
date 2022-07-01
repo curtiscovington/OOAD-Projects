@@ -1,0 +1,11 @@
+ArriveAtStoreEvent: ( Jack the Clerk )
+ArriveAtStoreEvent: ( Sally the Clerk )
+ProcessDeliveriesEvent: ( Jack the Clerk ), itemsAdded: 5
+CheckRegisterEvent: ( Jack the Clerk ), amount: 2573.883815459
+DoInventoryEvent: ( Jack the Clerk ), pets: 29, supplies: 40, purchasePrice: 2570.126311133823
+( Jack the Clerk )
+ItemSoldEvent: ( Sally the Clerk ), item: NOPE and Microchip
+ItemSoldEvent: ( Sally the Clerk ), item: NOPE
+ItemSoldEvent: ( Jack the Clerk ), item: Knockoff food
+LeaveStoreEvent: ( Jack the Clerk )
+LeaveStoreEvent: ( Sally the Clerk )

@@ -1,0 +1,12 @@
+ArriveAtStoreEvent: ( John the Clerk )
+ArriveAtStoreEvent: ( Dianne the Clerk )
+ProcessDeliveriesEvent: ( John the Clerk ), itemsAdded: 4
+CheckRegisterEvent: ( John the Clerk ), amount: 2373.8371789233615
+DoInventoryEvent: ( John the Clerk ), pets: 25, supplies: 40, purchasePrice: 2168.0483904007438
+( John the Clerk )
+ItemSoldEvent: ( Dianne the Clerk ), item: NameBrand Treat
+ItemSoldEvent: ( Dianne the Clerk ), item: Knockoff Treat
+ItemSoldEvent: ( Dianne the Clerk ), item: NameBrand Treat
+AnimalEscapeEvent: ( Dianne the Clerk ), pet: NOPE
+LeaveStoreEvent: ( John the Clerk )
+LeaveStoreEvent: ( Dianne the Clerk )

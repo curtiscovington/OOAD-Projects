@@ -1,0 +1,15 @@
+ArriveAtStoreEvent: ( Jack the Clerk )
+ArriveAtStoreEvent: ( Sally the Clerk )
+ProcessDeliveriesEvent: ( Jack the Clerk ), itemsAdded: 7
+CheckRegisterEvent: ( Jack the Clerk ), amount: 7902.6785556700315
+DoInventoryEvent: ( Jack the Clerk ), pets: 22, supplies: 53, purchasePrice: 1985.3048949854863
+( Jack the Clerk )
+ItemSoldEvent: ( Sally the Clerk ), item: Bod
+ItemSoldEvent: ( Sally the Clerk ), item: NameBrand Litter
+ItemSoldEvent: ( Sally the Clerk ), item: Knockoff food
+ItemSoldEvent: ( Sally the Clerk ), item: Petkit food
+ItemSoldEvent: ( Jack the Clerk ), item: NameBrand Litter
+AnimalEscapeEvent: ( Sally the Clerk ), pet: Sir Purrington
+AnimalEscapeEvent: ( Sally the Clerk ), pet: Noperino
+LeaveStoreEvent: ( Jack the Clerk )
+LeaveStoreEvent: ( Sally the Clerk )

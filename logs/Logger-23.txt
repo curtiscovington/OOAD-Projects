@@ -1,0 +1,14 @@
+ArriveAtStoreEvent: ( Sarah the Clerk )
+ArriveAtStoreEvent: ( Dianne the Clerk )
+ProcessDeliveriesEvent: ( Sarah the Clerk ), itemsAdded: 3
+CheckRegisterEvent: ( Sarah the Clerk ), amount: 3003.168997602842
+DoInventoryEvent: ( Sarah the Clerk ), pets: 28, supplies: 27, purchasePrice: 2129.1974069695893
+( Sarah the Clerk )
+ItemSoldEvent: ( Dianne the Clerk ), item: Sir Purrington and Microchip
+ItemSoldEvent: ( Dianne the Clerk ), item: Sir Purrington and Microchip
+ItemSoldEvent: ( Dianne the Clerk ), item: Sir Purrington and Microchip and Pet Insurance
+ItemSoldEvent: ( Dianne the Clerk ), item: Sir Purrington
+ItemSoldEvent: ( Dianne the Clerk ), item: Kitty and Pet Insurance
+ItemSoldEvent: ( Dianne the Clerk ), item: Birdy and Microchip and Pet Insurance
+LeaveStoreEvent: ( Sarah the Clerk )
+LeaveStoreEvent: ( Dianne the Clerk )
