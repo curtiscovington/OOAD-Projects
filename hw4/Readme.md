@@ -12,15 +12,15 @@ This repo contains Java code to run a Pet Store Simulation as defined in the [pr
 
 |  Feature |  Done |
 |---|---|
-| [Project Propsal](Project_Proposal.pdf) | Yes  | 
+| [Project_Proposal](Project_Proposal.pdf) | Yes  | 
 | [UML Sequence Diagram](Pet_Store_Sequence_diagram.pdf) | Yes  | 
 | [UML Class Diagram](Pet_Store_Simulation_UML_Project_4.pdf) | Yes  | 
 | Run for two stores | Yes  | 
 | Pool of employees work stores | Yes  | 
-| Command Line Interface (CLI) | Yes  | 
+| Command Line Interface (CLI) [console out](logs/CommandMenuConsole.txt) | Yes  | 
 | Factory Pattern| Yes  | 
 | Singleton patterns  | Yes  | 
-| JUnit Tests (15+ asserts) | Yes  | 
+| JUnit Tests (15+ asserts) [console out](logs/JUnitConsole.txt) | Yes  | 
 
 
 Below is a high level breakdown of the classes and subclasses. Please refer to the [UML design doc](Pet_Store_Simulation_UML_Project_4.pdf ) for more information and the [Activity UML diagram](Pet_Store_UML_Activity_Diagram.pdf) to see the application flow as well as the [UML sequence diagram](Pet_Store_Sequence_diagram.pdf)

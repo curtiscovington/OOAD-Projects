@@ -1,17 +1,3 @@
-
-
-ne graph should show two lines – Item Sales and Total Register $ – for each day of 
-the simulation.  Another graph should show three lines – counts of Items in Inventory, Sick Pets, and Items Sold 
-– for each day of the simulation.  
-
-Overall Project Guidelines 
-Be aware that the class midterm exam will run from noon Saturday 6/25 through the end of the day Thursday 
-6/30.  The exam window will be three hours (longer for those with accommodation).  Plan ahead to make sure 
-you allocate time for this project work and the midterm.  To help with this, I will waive the normal 5% late 
-penalties for the first two days after the due date, but the 15% penalty for the last two days will still be in 
-place. 
-
-
 Select a store to issue commands to
 Store ID 0 Northside
 Store ID 1 Southside
