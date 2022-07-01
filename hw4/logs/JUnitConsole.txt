@@ -1,0 +1,34 @@
+tcoleman-32966s:OOAD-Project-2 tcoleman$ java  -cp .:hw4:./lib/junit-4.13.2.jar:./lib/hamcrest-core-1.3.jar  org.junit.runner.JUnitCore hw4.test.BankTest
+JUnit version 4.13.2
+.
+Time: 0.006
+
+OK (1 test)
+
+tcoleman-32966s:OOAD-Project-2 tcoleman$ java  -cp .:hw4:./lib/junit-4.13.2.jar:./lib/hamcrest-core-1.3.jar  org.junit.runner.JUnitCore hw4.test.CashRegisterTest
+JUnit version 4.13.2
+.
+Time: 0.006
+
+OK (1 test)
+
+tcoleman-32966s:OOAD-Project-2 tcoleman$ java  -cp .:hw4:./lib/junit-4.13.2.jar:./lib/hamcrest-core-1.3.jar  org.junit.runner.JUnitCore hw4.test.ClerkTest
+JUnit version 4.13.2
+....
+Time: 0.011
+
+OK (4 tests
+
+tcoleman-32966s:OOAD-Project-2 tcoleman$ java  -cp .:hw4:./lib/junit-4.13.2.jar:./lib/hamcrest-core-1.3.jar  org.junit.runner.JUnitCore hw4.test.DogTest
+JUnit version 4.13.2
+........
+Time: 0.006
+
+OK (8 tests)
+
+java  -cp .:hw4:./lib/junit-4.13.2.jar:./lib/hamcrest-core-1.3.jar  org.junit.runner.JUnitCore hw4.test.TrainerTest
+JUnit version 4.13.2
+..
+Time: 0.006
+
+OK (2 tests)
